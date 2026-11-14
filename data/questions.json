@@ -23931,11 +23931,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "needs_review",
-      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "status": "verified",
+      "explanation": "正確答案為③職業安全衛生委員會。依《職業安全衛生法施行細則》第32條第2款，職業安全衛生委員會是事業單位內審議、協調、考核及建議職業安全衛生有關業務的組織；第1款的職業安全衛生管理單位則負責擬訂、規劃、推動及督導。已對照原始 PDF 第6至7頁的跨頁題幹與四個選項，並查核全國法規資料庫。",
+      "verified_at": "2026-11-14",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0060002",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "何者為事業單位內審議、協調及建議職業安全衛生有關業務之組織? \n\n①職業安全衛生協議組織 ②職業安全衛生管理單位 ③職業安全\n衛生委員會 ④風險管理部門 \n"
     },
     {
