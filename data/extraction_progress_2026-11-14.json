@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-14",
+  "stage": "local_extraction_prepared_not_deployed",
+  "source_markers": 2489,
+  "import_ready_local": 2418,
+  "manual_extraction_pending": 71,
+  "by_source_ready": {
+    "1000": 1010,
+    "1465": 1408
+  },
+  "verified_record_preserved_local": 1,
+  "github_questions_json_updated": false,
+  "notes": "此報告只記錄本地擷取整理成果；網站題庫尚未同步更新。題目及答案仍需與原始PDF及現行法規核對。"
+}
