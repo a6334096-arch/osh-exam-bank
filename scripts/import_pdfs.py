@@ -9,7 +9,7 @@ SOURCES = {
 }
 CIRCLED = "①②③④"
 def clean(s):
- return re.sub(r"\\s+", " ", s).strip()
+ return re.sub(r"\s+", " ", s).strip()
 
 def parse_1465(path):
  import fitz
@@ -22,13 +22,13 @@ def parse_1465(path):
   for line in lines:
    s=line.strip()
    if not s: continue
-   m=re.match(r"^(\\d{1,4})\\s*[.．、]\\s*[(（]\\s*([1-4])\\s*[)）]\\s*(.*)",s)
+   m=re.match(r"^(\d{1,4})\s*[.．、]\s*[(（]\s*([1-4])\s*[)）]\s*(.*)",s)
    if m:
     if current: found.append(current)
     current={"number":m.group(1),"answer":int(m.group(2))-1,"raw":m.group(3),"page":page_index+1,"category":section}
    elif current:
     current["raw"]+=" "+s
-   elif len(s)<35 and not re.search(r"\\d+[.．]",s) and "題" not in s:
+   elif len(s)<35 and not re.search(r"\d+[.．]",s) and "題" not in s:
     section=s
   if current: found.append(current)
  out=[]
@@ -52,15 +52,15 @@ def parse_1000(path):
     for cells in table:
      cells=[clean(x or "") for x in cells]
      joined=" ".join(cells)
-     m=re.search(r"\\b(\\d{1,4})\\s*[.．]\\s*[(（]\\s*([1-4])\\s*[)）]",joined)
+     m=re.search(r"\b(\d{1,4})\s*[.．]\s*[(（]\s*([1-4])\s*[)）]",joined)
      if not m: continue
      opts=[]
      for c in cells:
-      z=re.match(r"^[①②③④]\\s*(.*)",c)
+      z=re.match(r"^[①②③④]\s*(.*)",c)
       if z: opts.append(clean(z.group(1)))
      if len(opts)!=4: continue
      stem=clean(joined.split("①")[0])
-     stem=re.sub(r"^.*?\\b"+re.escape(m.group(1))+r"\\s*[.．]\\s*[(（]\\s*[1-4]\\s*[)）]","",stem).strip()
+     stem=re.sub(r"^.*?\b"+re.escape(m.group(1))+r"\s*[.．]\s*[(（]\s*[1-4]\s*[)）]","",stem).strip()
      if stem:
       out.append(({"number":m.group(1),"answer":int(m.group(2))-1,"page":page_index+1,"category":"原檔未標示章節"},stem,opts))
  return out
@@ -102,8 +102,8 @@ def main():
    "warning":"PDF 擷取結果必須對照原稿檢查；未匯入或衝突題目不可視為完成"}
  data["questions"]=sorted(existing.values(),key=lambda q:(q["id"].split("-")[0],int(q["original_number"])))
  data["updated_at"]=datetime.date.today().isoformat()
- path.write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\\n",encoding="utf-8")
+ path.write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
  Path(args.report).parent.mkdir(parents=True,exist_ok=True)
- Path(args.report).write_text(json.dumps(report,ensure_ascii=False,indent=2)+"\\n",encoding="utf-8")
+ Path(args.report).write_text(json.dumps(report,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
  print(json.dumps(report,ensure_ascii=False,indent=2))
 if __name__=="__main__": main()
