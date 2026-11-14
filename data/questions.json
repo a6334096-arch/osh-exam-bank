@@ -1,5 +1,406 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-13",
-  "questions": []
+  "updated_at": "2026-11-14",
+  "questions": [
+    {
+      "id": "1465-0001",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "1",
+      "category": "風險及安全衛生管理實務",
+      "question": "工廠推動所謂 5S 運動，不包含下列何者？",
+      "options": [
+        "整理",
+        "整頓",
+        "微笑",
+        "教養"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1465-0002",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "2",
+      "category": "風險及安全衛生管理實務",
+      "question": "安全衛生所稱 5S，不包含下列何者？",
+      "options": [
+        "清掃",
+        "清潔",
+        "整合",
+        "教養"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1465-0003",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "3",
+      "category": "風險及安全衛生管理實務",
+      "question": "採 4E 政策以消除不安全的狀況及行為，係指除工程、教育、執行外，還包括下列何者？",
+      "options": [
+        "教養",
+        "永恆",
+        "熱心",
+        "宣傳"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1465-0004",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "4",
+      "category": "風險及安全衛生管理實務",
+      "question": "將要與不要的物品加以區分，不要的加以清理，是指 5S 中哪一項？",
+      "options": [
+        "整理",
+        "整頓",
+        "清掃",
+        "清潔"
+      ],
+      "original_answer": 0,
+      "answer": 0,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1465-0005",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "5",
+      "category": "風險及安全衛生管理實務",
+      "question": "在降低風險控制措施中，不使用危害物質，屬於下列何者？",
+      "options": [
+        "管理控制措施",
+        "消除",
+        "取代",
+        "工程控制措施"
+      ],
+      "original_answer": 1,
+      "answer": 1,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1465-0006",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "6",
+      "category": "風險及安全衛生管理實務",
+      "question": "在降低風險的控制措施中，緊急應變屬下列何者？",
+      "options": [
+        "工程控制措施",
+        "消除",
+        "管理控制措施",
+        "取代"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1465-0007",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "7",
+      "category": "風險及安全衛生管理實務",
+      "question": "考量降低風險之控制措施時，下列順序何者正確？《A.工程控制 B.管理控制 C.消除 D.取代》",
+      "options": [
+        "DCBA",
+        "ABCD",
+        "CDAB",
+        "ACDB"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1465-0008",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "8",
+      "category": "風險及安全衛生管理實務",
+      "question": "在降低風險控制措施中，以低電壓電氣設備取代高電壓電器設備，屬於下列何者？",
+      "options": [
+        "管理控制措施",
+        "工程控制措施",
+        "消除",
+        "取代"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1465-0009",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "9",
+      "category": "風險及安全衛生管理實務",
+      "question": "當風險已被降低至可被容忍的程度，又稱之為何？",
+      "options": [
+        "高度風險",
+        "可接受風險",
+        "低度風險",
+        "中度風險"
+      ],
+      "original_answer": 1,
+      "answer": 1,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1465-0010",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "10",
+      "category": "風險及安全衛生管理實務",
+      "question": "風險等級之分析方法不包括下列何者？",
+      "options": [
+        "定時分析",
+        "定性分析",
+        "半定量分析",
+        "定量分析"
+      ],
+      "original_answer": 0,
+      "answer": 0,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1000-0001",
+      "source_document": "(僅供參考)參考試題1000題.pdf",
+      "source_page": 1,
+      "original_number": "1",
+      "category": "原檔未標示章節",
+      "question": "依職業安全衛生管理辦法規定，職業安全衛生委員會應置委員幾人以上？",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1000-0002",
+      "source_document": "(僅供參考)參考試題1000題.pdf",
+      "source_page": 1,
+      "original_number": "2",
+      "category": "原檔未標示章節",
+      "question": "進入大型攪拌槽內部清理結塊時，較不易發生下列何種危害？",
+      "options": [
+        "被夾、被捲",
+        "墜落",
+        "缺氧",
+        "被撞"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1000-0003",
+      "source_document": "(僅供參考)參考試題1000題.pdf",
+      "source_page": 1,
+      "original_number": "3",
+      "category": "原檔未標示章節",
+      "question": "鋁錠熔解爐風險較高之危害為下列何者？",
+      "options": [
+        "被夾、被捲",
+        "缺氧",
+        "感電",
+        "水蒸汽爆炸"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1000-0004",
+      "source_document": "(僅供參考)參考試題1000題.pdf",
+      "source_page": 1,
+      "original_number": "4",
+      "category": "原檔未標示章節",
+      "question": "雇主使勞工從事局限空間作業有危害之虞者，應訂定危害防止計畫。下列何者非局限空間可能之主要危害類型？",
+      "options": [
+        "缺氧",
+        "中毒",
+        "被撞",
+        "感電"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1000-0005",
+      "source_document": "(僅供參考)參考試題1000題.pdf",
+      "source_page": 1,
+      "original_number": "5",
+      "category": "原檔未標示章節",
+      "question": "下列何者非屬游離輻射？",
+      "options": [
+        "X 射線",
+        "中子射線",
+        "紅外線",
+        "β 粒子"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1000-0006",
+      "source_document": "(僅供參考)參考試題1000題.pdf",
+      "source_page": 1,
+      "original_number": "6",
+      "category": "原檔未標示章節",
+      "question": "甲食品公司（總機構）有乙、丙二家食品工廠，其中乙工廠勞工 33 人、丙工廠 280 人，依職業安全衛生管理辦法規定，請問何者須建置職業安全衛生管理系統？",
+      "options": [
+        "甲",
+        "甲、丙",
+        "丙",
+        "甲、乙、丙"
+      ],
+      "original_answer": 0,
+      "answer": 0,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1000-0007",
+      "source_document": "(僅供參考)參考試題1000題.pdf",
+      "source_page": 1,
+      "original_number": "7",
+      "category": "原檔未標示章節",
+      "question": "電腦機房之電氣設備所引起之火災種類為下列何者？",
+      "options": [
+        "A 類",
+        "B 類",
+        "C 類",
+        "D 類"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1000-0008",
+      "source_document": "(僅供參考)參考試題1000題.pdf",
+      "source_page": 1,
+      "original_number": "8",
+      "category": "原檔未標示章節",
+      "question": "對於發生中暑之勞工最優先的急救方法為下列何者？",
+      "options": [
+        "儘快有效降溫",
+        "原地休息",
+        "等待就醫",
+        "減輕工作"
+      ],
+      "original_answer": 0,
+      "answer": 0,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1000-0009",
+      "source_document": "(僅供參考)參考試題1000題.pdf",
+      "source_page": 1,
+      "original_number": "9",
+      "category": "原檔未標示章節",
+      "question": "職業安全衛生管理系統之推動中，下列何者不屬於組織內部必須溝通的利害相關者？",
+      "options": [
+        "員工",
+        "同業公會",
+        "工會",
+        "現場領班"
+      ],
+      "original_answer": 1,
+      "answer": 1,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1000-0010",
+      "source_document": "(僅供參考)參考試題1000題.pdf",
+      "source_page": 1,
+      "original_number": "10",
+      "category": "原檔未標示章節",
+      "question": "依職業安全衛生法規定，雇主應會同下列何者訂定適合其需要之安全衛生工作守則，報經勞動檢查機構備查後，公告實施？",
+      "options": [
+        "承攬商",
+        "安全衛生顧問公司",
+        "醫療機構",
+        "勞工代表"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    }
+  ]
 }
