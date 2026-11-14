@@ -1,0 +1,24 @@
+{
+  "audit_date": "2026-11-14",
+  "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+  "scope": "71 cross-page reconstructed questions",
+  "checks": {
+    "question_and_four_options_match_extracted_pdf_span": 71,
+    "original_answer_marker_matched_on_source_page": 71,
+    "duplicate_original_number_detected": [
+      {
+        "id": "1465-0853",
+        "source_page": 78,
+        "original_number": "76",
+        "note": "Page 78 has two separate questions numbered 76; correct record uses second marker (2), not first (1)."
+      }
+    ]
+  },
+  "limitations": [
+    "Machine-level text consistency does not establish semantic correctness of options.",
+    "Original PDF answer markers have not been independently verified against current statutes.",
+    "All 71 remain needs_review until source visual and legal verification."
+  ],
+  "published_question_count": 2489,
+  "verified_question_count": 1
+}
