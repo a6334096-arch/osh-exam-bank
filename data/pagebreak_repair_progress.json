@@ -1,0 +1,12 @@
+{
+  "updated_at": "2026-11-14",
+  "source": "two original PDFs",
+  "staged_total": 2489,
+  "currently_published": 2418,
+  "reconstructed_pagebreak_questions": 71,
+  "verified": 1,
+  "unverified": 2417,
+  "needs_review": 71,
+  "stage": "local_staging_only",
+  "note": "71跨頁題已補回暫存JSON，但仍需原文與答案校對；未部署2489題，不可視為全部完成。"
+}
