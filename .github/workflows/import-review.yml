@@ -1,0 +1,49 @@
+name: Import PDF and prepare legal review
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 1 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: osh-bank-import
+  cancel-in-progress: false
+jobs:
+  import-and-review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pymupdf pdfplumber
+      - name: Download privately hosted source PDFs when configured
+        env:
+          PDF_1465_URL: ${{ secrets.PDF_1465_URL }}
+          PDF_1000_URL: ${{ secrets.PDF_1000_URL }}
+        run: |
+          mkdir -p sources
+          if [ -n "$PDF_1465_URL" ]; then curl --fail --location --retry 2 --silent --show-error "$PDF_1465_URL" -o sources/general_1465.pdf; fi
+          if [ -n "$PDF_1000_URL" ]; then curl --fail --location --retry 2 --silent --show-error "$PDF_1000_URL" -o sources/reference_1000.pdf; fi
+          python - <<'PY'
+          from pathlib import Path
+          for name in ("general_1465.pdf","reference_1000.pdf"):
+              p=Path("sources")/name
+              if p.exists() and p.read_bytes()[:4]!=b"%PDF":
+                  raise SystemExit(f"Invalid PDF downloaded: {name}")
+          PY
+      - name: Import without overwriting existing reviews
+        run: python scripts/import_pdfs.py
+      - name: Build review queue
+        run: python scripts/review_queue.py
+      - name: Validate bank
+        run: python scripts/validate.py
+      - name: Commit changed data and reports
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/questions.json data/import_report.json data/review_report.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update question import and legal review queue"
+            git push
+          fi
