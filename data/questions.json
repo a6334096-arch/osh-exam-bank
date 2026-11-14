@@ -3,206 +3,6 @@
   "updated_at": "2026-11-14",
   "questions": [
     {
-      "id": "1465-0001",
-      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
-      "source_page": 1,
-      "original_number": "1",
-      "category": "風險及安全衛生管理實務",
-      "question": "工廠推動所謂 5S 運動，不包含下列何者？",
-      "options": [
-        "整理",
-        "整頓",
-        "微笑",
-        "教養"
-      ],
-      "original_answer": 2,
-      "answer": 2,
-      "status": "unverified",
-      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
-      "verified_at": null,
-      "source_url": null
-    },
-    {
-      "id": "1465-0002",
-      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
-      "source_page": 1,
-      "original_number": "2",
-      "category": "風險及安全衛生管理實務",
-      "question": "安全衛生所稱 5S，不包含下列何者？",
-      "options": [
-        "清掃",
-        "清潔",
-        "整合",
-        "教養"
-      ],
-      "original_answer": 2,
-      "answer": 2,
-      "status": "unverified",
-      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
-      "verified_at": null,
-      "source_url": null
-    },
-    {
-      "id": "1465-0003",
-      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
-      "source_page": 1,
-      "original_number": "3",
-      "category": "風險及安全衛生管理實務",
-      "question": "採 4E 政策以消除不安全的狀況及行為，係指除工程、教育、執行外，還包括下列何者？",
-      "options": [
-        "教養",
-        "永恆",
-        "熱心",
-        "宣傳"
-      ],
-      "original_answer": 2,
-      "answer": 2,
-      "status": "unverified",
-      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
-      "verified_at": null,
-      "source_url": null
-    },
-    {
-      "id": "1465-0004",
-      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
-      "source_page": 1,
-      "original_number": "4",
-      "category": "風險及安全衛生管理實務",
-      "question": "將要與不要的物品加以區分，不要的加以清理，是指 5S 中哪一項？",
-      "options": [
-        "整理",
-        "整頓",
-        "清掃",
-        "清潔"
-      ],
-      "original_answer": 0,
-      "answer": 0,
-      "status": "unverified",
-      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
-      "verified_at": null,
-      "source_url": null
-    },
-    {
-      "id": "1465-0005",
-      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
-      "source_page": 1,
-      "original_number": "5",
-      "category": "風險及安全衛生管理實務",
-      "question": "在降低風險控制措施中，不使用危害物質，屬於下列何者？",
-      "options": [
-        "管理控制措施",
-        "消除",
-        "取代",
-        "工程控制措施"
-      ],
-      "original_answer": 1,
-      "answer": 1,
-      "status": "unverified",
-      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
-      "verified_at": null,
-      "source_url": null
-    },
-    {
-      "id": "1465-0006",
-      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
-      "source_page": 1,
-      "original_number": "6",
-      "category": "風險及安全衛生管理實務",
-      "question": "在降低風險的控制措施中，緊急應變屬下列何者？",
-      "options": [
-        "工程控制措施",
-        "消除",
-        "管理控制措施",
-        "取代"
-      ],
-      "original_answer": 2,
-      "answer": 2,
-      "status": "unverified",
-      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
-      "verified_at": null,
-      "source_url": null
-    },
-    {
-      "id": "1465-0007",
-      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
-      "source_page": 1,
-      "original_number": "7",
-      "category": "風險及安全衛生管理實務",
-      "question": "考量降低風險之控制措施時，下列順序何者正確？《A.工程控制 B.管理控制 C.消除 D.取代》",
-      "options": [
-        "DCBA",
-        "ABCD",
-        "CDAB",
-        "ACDB"
-      ],
-      "original_answer": 2,
-      "answer": 2,
-      "status": "unverified",
-      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
-      "verified_at": null,
-      "source_url": null
-    },
-    {
-      "id": "1465-0008",
-      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
-      "source_page": 1,
-      "original_number": "8",
-      "category": "風險及安全衛生管理實務",
-      "question": "在降低風險控制措施中，以低電壓電氣設備取代高電壓電器設備，屬於下列何者？",
-      "options": [
-        "管理控制措施",
-        "工程控制措施",
-        "消除",
-        "取代"
-      ],
-      "original_answer": 3,
-      "answer": 3,
-      "status": "unverified",
-      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
-      "verified_at": null,
-      "source_url": null
-    },
-    {
-      "id": "1465-0009",
-      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
-      "source_page": 1,
-      "original_number": "9",
-      "category": "風險及安全衛生管理實務",
-      "question": "當風險已被降低至可被容忍的程度，又稱之為何？",
-      "options": [
-        "高度風險",
-        "可接受風險",
-        "低度風險",
-        "中度風險"
-      ],
-      "original_answer": 1,
-      "answer": 1,
-      "status": "unverified",
-      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
-      "verified_at": null,
-      "source_url": null
-    },
-    {
-      "id": "1465-0010",
-      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
-      "source_page": 1,
-      "original_number": "10",
-      "category": "風險及安全衛生管理實務",
-      "question": "風險等級之分析方法不包括下列何者？",
-      "options": [
-        "定時分析",
-        "定性分析",
-        "半定量分析",
-        "定量分析"
-      ],
-      "original_answer": 0,
-      "answer": 0,
-      "status": "unverified",
-      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
-      "verified_at": null,
-      "source_url": null
-    },
-    {
       "id": "1000-0001",
       "source_document": "(僅供參考)參考試題1000題.pdf",
       "source_page": 1,
@@ -401,6 +201,206 @@
       "explanation": "依《職業安全衛生法》第34條第1項，雇主應會同勞工代表訂定安全衛生工作守則，報經勞動檢查機構備查後公告實施。因此選④勞工代表。",
       "verified_at": "2026-11-14",
       "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0060001"
+    },
+    {
+      "id": "1465-0001",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "1",
+      "category": "風險及安全衛生管理實務",
+      "question": "工廠推動所謂 5S 運動，不包含下列何者？",
+      "options": [
+        "整理",
+        "整頓",
+        "微笑",
+        "教養"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1465-0002",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "2",
+      "category": "風險及安全衛生管理實務",
+      "question": "安全衛生所稱 5S，不包含下列何者？",
+      "options": [
+        "清掃",
+        "清潔",
+        "整合",
+        "教養"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1465-0003",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "3",
+      "category": "風險及安全衛生管理實務",
+      "question": "採 4E 政策以消除不安全的狀況及行為，係指除工程、教育、執行外，還包括下列何者？",
+      "options": [
+        "教養",
+        "永恆",
+        "熱心",
+        "宣傳"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1465-0004",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "4",
+      "category": "風險及安全衛生管理實務",
+      "question": "將要與不要的物品加以區分，不要的加以清理，是指 5S 中哪一項？",
+      "options": [
+        "整理",
+        "整頓",
+        "清掃",
+        "清潔"
+      ],
+      "original_answer": 0,
+      "answer": 0,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1465-0005",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "5",
+      "category": "風險及安全衛生管理實務",
+      "question": "在降低風險控制措施中，不使用危害物質，屬於下列何者？",
+      "options": [
+        "管理控制措施",
+        "消除",
+        "取代",
+        "工程控制措施"
+      ],
+      "original_answer": 1,
+      "answer": 1,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1465-0006",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "6",
+      "category": "風險及安全衛生管理實務",
+      "question": "在降低風險的控制措施中，緊急應變屬下列何者？",
+      "options": [
+        "工程控制措施",
+        "消除",
+        "管理控制措施",
+        "取代"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1465-0007",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "7",
+      "category": "風險及安全衛生管理實務",
+      "question": "考量降低風險之控制措施時，下列順序何者正確？《A.工程控制 B.管理控制 C.消除 D.取代》",
+      "options": [
+        "DCBA",
+        "ABCD",
+        "CDAB",
+        "ACDB"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1465-0008",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "8",
+      "category": "風險及安全衛生管理實務",
+      "question": "在降低風險控制措施中，以低電壓電氣設備取代高電壓電器設備，屬於下列何者？",
+      "options": [
+        "管理控制措施",
+        "工程控制措施",
+        "消除",
+        "取代"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1465-0009",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "9",
+      "category": "風險及安全衛生管理實務",
+      "question": "當風險已被降低至可被容忍的程度，又稱之為何？",
+      "options": [
+        "高度風險",
+        "可接受風險",
+        "低度風險",
+        "中度風險"
+      ],
+      "original_answer": 1,
+      "answer": 1,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
+    },
+    {
+      "id": "1465-0010",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "10",
+      "category": "風險及安全衛生管理實務",
+      "question": "風險等級之分析方法不包括下列何者？",
+      "options": [
+        "定時分析",
+        "定性分析",
+        "半定量分析",
+        "定量分析"
+      ],
+      "original_answer": 0,
+      "answer": 0,
+      "status": "unverified",
+      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
+      "verified_at": null,
+      "source_url": null
     }
   ]
 }

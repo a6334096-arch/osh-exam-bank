@@ -1,0 +1,165 @@
+{
+  "generated_at": "2026-11-14",
+  "expected": 2465,
+  "imported": 20,
+  "verified": 1,
+  "needs_review": 0,
+  "unverified": 19,
+  "remaining_import": 2445,
+  "review_queue": [
+    {
+      "id": "1000-0001",
+      "source_page": 1,
+      "status": "unverified",
+      "reasons": [
+        "尚未完成官方來源核對",
+        "涉及法規版本、施行日期或數值，應查核現行官方法規"
+      ]
+    },
+    {
+      "id": "1000-0002",
+      "source_page": 1,
+      "status": "unverified",
+      "reasons": [
+        "尚未完成官方來源核對"
+      ]
+    },
+    {
+      "id": "1000-0003",
+      "source_page": 1,
+      "status": "unverified",
+      "reasons": [
+        "尚未完成官方來源核對"
+      ]
+    },
+    {
+      "id": "1000-0004",
+      "source_page": 1,
+      "status": "unverified",
+      "reasons": [
+        "尚未完成官方來源核對"
+      ]
+    },
+    {
+      "id": "1000-0005",
+      "source_page": 1,
+      "status": "unverified",
+      "reasons": [
+        "尚未完成官方來源核對"
+      ]
+    },
+    {
+      "id": "1000-0006",
+      "source_page": 1,
+      "status": "unverified",
+      "reasons": [
+        "尚未完成官方來源核對",
+        "涉及法規版本、施行日期或數值，應查核現行官方法規"
+      ]
+    },
+    {
+      "id": "1000-0007",
+      "source_page": 1,
+      "status": "unverified",
+      "reasons": [
+        "尚未完成官方來源核對"
+      ]
+    },
+    {
+      "id": "1000-0008",
+      "source_page": 1,
+      "status": "unverified",
+      "reasons": [
+        "尚未完成官方來源核對"
+      ]
+    },
+    {
+      "id": "1000-0009",
+      "source_page": 1,
+      "status": "unverified",
+      "reasons": [
+        "尚未完成官方來源核對"
+      ]
+    },
+    {
+      "id": "1465-0001",
+      "source_page": 1,
+      "status": "unverified",
+      "reasons": [
+        "尚未完成官方來源核對"
+      ]
+    },
+    {
+      "id": "1465-0002",
+      "source_page": 1,
+      "status": "unverified",
+      "reasons": [
+        "尚未完成官方來源核對"
+      ]
+    },
+    {
+      "id": "1465-0003",
+      "source_page": 1,
+      "status": "unverified",
+      "reasons": [
+        "尚未完成官方來源核對"
+      ]
+    },
+    {
+      "id": "1465-0004",
+      "source_page": 1,
+      "status": "unverified",
+      "reasons": [
+        "尚未完成官方來源核對"
+      ]
+    },
+    {
+      "id": "1465-0005",
+      "source_page": 1,
+      "status": "unverified",
+      "reasons": [
+        "尚未完成官方來源核對"
+      ]
+    },
+    {
+      "id": "1465-0006",
+      "source_page": 1,
+      "status": "unverified",
+      "reasons": [
+        "尚未完成官方來源核對"
+      ]
+    },
+    {
+      "id": "1465-0007",
+      "source_page": 1,
+      "status": "unverified",
+      "reasons": [
+        "尚未完成官方來源核對"
+      ]
+    },
+    {
+      "id": "1465-0008",
+      "source_page": 1,
+      "status": "unverified",
+      "reasons": [
+        "尚未完成官方來源核對"
+      ]
+    },
+    {
+      "id": "1465-0009",
+      "source_page": 1,
+      "status": "unverified",
+      "reasons": [
+        "尚未完成官方來源核對"
+      ]
+    },
+    {
+      "id": "1465-0010",
+      "source_page": 1,
+      "status": "unverified",
+      "reasons": [
+        "尚未完成官方來源核對"
+      ]
+    }
+  ]
+}\n
