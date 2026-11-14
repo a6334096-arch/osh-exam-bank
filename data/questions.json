@@ -22487,6 +22487,28 @@
       "raw_extracted_text": "有關決定風險控制措施之敘述，下列何者有誤? ①應優先對於可接\n受風險項目，決定控制措施 ②風險控制措施確認後，應指派相關人\n員負責規劃及實施 ③應定期追蹤其執行狀況 ④須考慮現有技術能\n力及可用資源等因素     不可接受才要控制"
     },
     {
+      "id": "1465-0013",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 1,
+      "original_number": "13",
+      "category": "待核對原始章節",
+      "question": "風險控制措施，下列何者有誤?",
+      "options": [
+        "管理控制",
+        "財務控制",
+        "工程控制",
+        "消除或取代"
+      ],
+      "original_answer": 1,
+      "answer": 1,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "風險控制措施，下列何者有誤? ①管理控制 ②財務控制 ③工程 \n\n     控制 ④消除或取代 \n"
+    },
+    {
       "id": "1465-0014",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 2,
@@ -22771,6 +22793,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "下列有關風險管理的主要三大工作，何者有誤？ ①企業保險 ② \n       危害辨識 ③風險評估 ④風險控制"
+    },
+    {
+      "id": "1465-0027",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 2,
+      "original_number": "27",
+      "category": "待核對原始章節",
+      "question": "下列何者為危害辨識?",
+      "options": [
+        "評估其風險等級",
+        "採取降低風險的控制設施",
+        "考量危害後果的嚴重度與發生的可能性",
+        "辨識工作場所的潛在危害"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "下列何者為危害辨識? ①評估其風險等級 ②採取降低風險的控 \n\n       制設施 ③考量危害後果的嚴重度與發生的可能性 ④辨識工作場 \n       所的潛在危害 \n"
     },
     {
       "id": "1465-0028",
@@ -23873,6 +23917,28 @@
       "raw_extracted_text": "依粉塵危害預防標準規定，於室內將水泥、飛灰或粉狀礦石、碳 \n      原料、鋁或二氧化鈦袋裝之處所，必須設有下列何種設備? ①空調 \n      系統 ②局部排氣裝置 ③自然換氣設備 ④整體換氣裝置"
     },
     {
+      "id": "1465-0078",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 6,
+      "original_number": "38",
+      "category": "待核對原始章節",
+      "question": "何者為事業單位內審議、協調及建議職業安全衛生有關業務之組織?",
+      "options": [
+        "職業安全衛生協議組織",
+        "職業安全衛生管理單位",
+        "職業安全衛生委員會",
+        "風險管理部門"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "何者為事業單位內審議、協調及建議職業安全衛生有關業務之組織? \n\n①職業安全衛生協議組織 ②職業安全衛生管理單位 ③職業安全\n衛生委員會 ④風險管理部門 \n"
+    },
+    {
       "id": "1465-0079",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 7,
@@ -24113,6 +24179,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "依職業安全衛生管理辦法規定，雇主所設職業安全衛生委員會之委\n員會名冊，如何處理? ①陳報衛生主管機關 ②自行留存 ③陳報勞\n動檢查機構 ④陳報當地主管機關"
+    },
+    {
+      "id": "1465-0090",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 7,
+      "original_number": "50",
+      "category": "待核對原始章節",
+      "question": "依勞動檢查法規定，下列何者為領有勞動檢查證執行勞動檢查職務之人員?",
+      "options": [
+        "稽查員",
+        "勞工安全衛生管理人員",
+        "代行檢查員",
+        "勞動檢查人員"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "依勞動檢查法規定，下列何者為領有勞動檢查證執行勞動檢查職        \n      務之人員? ①稽查員 ②勞工安全衛生管理人員 ③代行檢查員 ④ \n\n      勞動檢查人員 \n"
     },
     {
       "id": "1465-0091",
@@ -24377,6 +24465,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "依職業安全衛生法施行細則規定，下列何者非屬安全衛生工作守則\n之內容? ①環境污染預防 ②急救及搶救 ③事業之安全衛生管理及\n各級之權責 ④工作安全及衛生標準"
+    },
+    {
+      "id": "1465-0103",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 8,
+      "original_number": "63",
+      "category": "待核對原始章節",
+      "question": "依職業安全衛生法施行細則規定，下列何者非屬雇主應實施作業環境監測之作業場所?",
+      "options": [
+        "顯著發生噪音之場所",
+        "指定之粉塵作業場所",
+        "高架作業場所",
+        "設置有中央管理方式之空氣調節設備之建築物室內作業場所"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "依職業安全衛生法施行細則規定，下列何者非屬雇主應實施作業環\n境監測之作業場所? ①顯著發生噪音之場所 ②指定之粉塵作業場\n\n所 ③高架作業場所 ④設置有中央管理方式之空氣調節設備之建築\n物室內作業場所 \n"
     },
     {
       "id": "1465-0104",
@@ -24863,6 +24973,28 @@
       "raw_extracted_text": "衝剪機械之滑塊在動作中，遇身體之一部接近危險界限時，能使滑\n塊等停止動作者，為下列何種型式之安全裝置？①防護式 ②感應式 \n③拉開式 ④雙手操作式。"
     },
     {
+      "id": "1465-0126",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 10,
+      "original_number": "86",
+      "category": "待核對原始章節",
+      "question": "人體暴露於全身振動時，可能使人產生頭痛、頭暈、噁心、嘔吐、 感覺不舒服等暈車症狀，有可能是因為傳至人體之振動以身體不同之部位產生共振現象，其中頭部之自然頻率為多少Hz(赫芝)?",
+      "options": [
+        "4.5〜9",
+        "45〜90",
+        "450〜900",
+        "4500〜9000"
+      ],
+      "original_answer": 0,
+      "answer": 0,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "人體暴露於全身振動時，可能使人產生頭痛、頭暈、噁心、嘔吐、\n感覺不舒服等暈車症狀，有可能是因為傳至人體之振動以身體不同\n\n之部位產生共振現象，其中頭部之自然頻率為多少Hz(赫芝)? ①\n4.5〜9 ②45〜90 ③450〜900 ④4500〜9000 \n"
+    },
+    {
       "id": "1465-0127",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 11,
@@ -25081,6 +25213,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "雇主未訂定安全衛生工作守則，依職業安全衛生法規定經通知限期\n改善而屆期未改善者處新臺幣多少元之罰鍰? ①9萬元以上  ②15萬\n元以上 ③3萬元以上15萬元以下 ④6萬元以上"
+    },
+    {
+      "id": "1465-0137",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 11,
+      "original_number": "97",
+      "category": "待核對原始章節",
+      "question": "依職業安全衛生法規定，僱用勞工從事作業時，應報請勞動檢查機構備查之職業安全衛生管理措施為何?",
+      "options": [
+        "職業安全衛生管理計畫",
+        "實施勞工體格檢查結果",
+        "新僱勞工之安全衛生教育訓練",
+        "安全衛生工作守則"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "依職業安全衛生法規定，僱用勞工從事作業時，應報請勞動檢查機\n\n構備查之職業安全衛生管理措施為何? ①職業安全衛生管理計畫  ②\n實施勞工體格檢查結果 ③新僱勞工之安全衛生教育訓練 ④安全衛生\n工作守則 \n"
     },
     {
       "id": "1465-0138",
@@ -25323,6 +25477,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "下列有關職業安全衛生教育訓練之辦理方式，何者有誤？①事業\n單位不具辦理資格，應指派勞工至職業訓練機構受訓 ②對於已取\n得資格之不同職類勞工，應定期分別使其接受在職教育訓練 ③訓\n練單位辦理鍋爐操作人員教育訓練，應向當地主管機關報備 ④雇\n主對於小型鍋爐操作人員，應使其接受特殊作業安全衛生教育訓\n練。"
+    },
+    {
+      "id": "1465-0149",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 12,
+      "original_number": "109",
+      "category": "待核對原始章節",
+      "question": "製作勞工安全衛生教育訓練計畫，依各項安全衛生指標、分析是否符合安全衛生方針政策等既定目標，再決定何部門需調整訓練，這種教育訓練需求之分析是屬於下列何者？",
+      "options": [
+        "工作層級的分析",
+        "個人階級的分析",
+        "組織層級的分析",
+        "機械設備層級的分析"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "製作勞工安全衛生教育訓練計畫，依各項安全衛生指標、分析是\n否符合安全衛生方針政策等既定目標，再決定何部門需調整訓\n\n練，這種教育訓練需求之分析是屬於下列何者？ ①工作層級的分\n析 ②個人階級的分析 ③組織層級的分析 ④機械設備層級的分析 \n"
     },
     {
       "id": "1465-0150",
@@ -25631,6 +25807,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "下列何處為較佳之手推車搬運物料之裝載重心？①上部 ②下部  \n      ③中部 ④任意部位"
+    },
+    {
+      "id": "1465-0164",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 13,
+      "original_number": "124",
+      "category": "待核對原始章節",
+      "question": "使用人力搬運時，應儘量利用身體之何部位提舉物件？",
+      "options": [
+        "腰部",
+        "腿部",
+        "腹部",
+        "背部"
+      ],
+      "original_answer": 1,
+      "answer": 1,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "使用人力搬運時，應儘量利用身體之何部位提舉物件？①腰部 ② \n\n       腿部 ③腹部 ④背部 \n"
     },
     {
       "id": "1465-0165",
@@ -26313,6 +26511,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "依職業安全衛生管理辦法規定，事業單位勞工在多少人以上時，\n雇主應訂定職業安全衛生管理規章？①30 ②50 ③100 ④300。"
+    },
+    {
+      "id": "1465-0196",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 16,
+      "original_number": "156",
+      "category": "待核對原始章節",
+      "question": "依職業安全衛生管理辦法規定，有關職業安全衛生業務主管，雇主應自該事業單位之何者選任？",
+      "options": [
+        "僅可由相關主管選任",
+        "僅由從辦理職業安全衛生事務者選任",
+        "可由相關主管或辦理職業安全衛生事務者選任",
+        "可由辦理職業安全衛生或人資事務者選任"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "依職業安全衛生管理辦法規定，有關職業安全衛生業務主管，雇\n主應自該事業單位之何者選任？①僅可由相關主管選任 ②僅由\n從辦理職業安全衛生事務者選任 ③可由相關主管或辦理職業安\n\n全衛生事務者選任 ④可由辦理職業安全衛生或人資事務者選任 \n"
     },
     {
       "id": "1465-0197",
@@ -28251,6 +28471,28 @@
       "raw_extracted_text": "下列何者非意外災害發生的基本原因? ①承攬商管理不良 ②安全 \n      衛生管理不善 ③未提供安全設備 ④危害認知不足 未提供安全設\n備屬間接原因"
     },
     {
+      "id": "1465-0285",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 24,
+      "original_number": "62",
+      "category": "待核對原始章節",
+      "question": "下列何者非意外災害發生的直接原因?",
+      "options": [
+        "高處墜落",
+        "感電致死",
+        "未依標準作業程序操作",
+        "能量接觸未依標準是不安全行為屬間接原因"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "下列何者非意外災害發生的直接原因? ①高處墜落 ②感電致死 ③\n\n未依標準作業程序操作 ④能量接觸 未依標準是不安全行為屬間接原\n因 \n"
+    },
+    {
       "id": "1465-0286",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 25,
@@ -28493,6 +28735,28 @@
       "raw_extracted_text": "職業災害發生之原因可分為直接原因、間接原因及基本原因，直接\n原因是因係屬下列何者？ ①不安全狀況 ②不安全行為 ③能量 ④\n管理上的缺陷"
     },
     {
+      "id": "1465-0297",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 25,
+      "original_number": "74",
+      "category": "待核對原始章節",
+      "question": "職業災害發生，係因不安全狀況與不安全行為，屬下列何種原因？",
+      "options": [
+        "基本原因",
+        "直接原因",
+        "間接原因",
+        "天災原因。"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "職業災害發生，係因不安全狀況與不安全行為，屬下列何種原因？ \n\n①基本原因 ②直接原因 ③間接原因 ④天災原因。 \n"
+    },
+    {
       "id": "1465-0298",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 26,
@@ -28713,6 +28977,28 @@
       "raw_extracted_text": "下列何者是職業安全衛生管理系統中，安全衛生政策之制定原則？ \n     ①符合ISO 國際標準 ②遵守法令為基準目標，應持續改善職業安 \n     全衛生管理系統績效 ③符合法令之基本門檻 ④由管理階層自行訂 \n     定對外宣示  遵守法令持續改善為安全衛生制訂原則"
     },
     {
+      "id": "1465-0308",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 26,
+      "original_number": "4",
+      "category": "待核對原始章節",
+      "question": "職業安全衛生管理系統中之「預防與控制措施」項目中，下列何者為第一優先採行的措施?",
+      "options": [
+        "提供適當個人防護具",
+        "設置安衛組織人員",
+        "實施教育訓練",
+        "消除危害及風險消除危害及風險第一優先"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "職業安全衛生管理系統中之「預防與控制措施」項目中，下列何者\n\n為第一優先採行的措施?①提供適當個人防護具 ②設置安衛組織人\n員 ③實施教育訓練 ④消除危害及風險  消除危害及風險第一優先 \n"
+    },
+    {
       "id": "1465-0309",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 27,
@@ -28909,6 +29195,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "職業安全衛生管理系統，最重要之安全衛生政策應由何者承諾？①\n第一線主管 ②勞工 ③雇主 ④職業安全衛生人員"
+    },
+    {
+      "id": "1465-0318",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 27,
+      "original_number": "14",
+      "category": "待核對原始章節",
+      "question": "實施安全衛生檢查以後必須採取下列哪一項措施能達到防止職業災害，保障勞工安全與健康之目的",
+      "options": [
+        "提出檢查報告",
+        "聘請專家指導",
+        "召開研討會",
+        "務使確實改善確實改善防止職業災害保健康"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "實施安全衛生檢查以後必須採取下列哪一項措施能達到防止職業\n災害，保障勞工安全與健康之目的①提出檢查報告 ②聘請專家指\n\n導 ③召開研討會 ④務使確實改善  確實改善防止職業災害保健\n康 \n"
     },
     {
       "id": "1465-0319",
@@ -29285,6 +29593,28 @@
       "raw_extracted_text": "下列何者為作為說明管理系統各主要要素及彼此間的關聯，並應依\n其需求制定、管理和維持紀錄？ ①系統文件化 ②管理階級審查 \n③溝通 ④先期審查"
     },
     {
+      "id": "1465-0336",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 29,
+      "original_number": "32",
+      "category": "待核對原始章節",
+      "question": "依中央主管機關所訂之臺灣職業安全衛生管理系統指引，下列何者不包含於其他主要安全衛生項目中？",
+      "options": [
+        "產能目標",
+        "規劃與實施",
+        "政策",
+        "評估"
+      ],
+      "original_answer": 0,
+      "answer": 0,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "依中央主管機關所訂之臺灣職業安全衛生管理系統指引，下列何者\n不包含於其他主要安全衛生項目中？ ①產能目標 ②規劃與實施 \n\n③政策 ④評估 \n"
+    },
+    {
       "id": "1465-0337",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 30,
@@ -29437,6 +29767,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "下列何者為ISO 45001所定義之管理階層職責？①擬定指安全衛生管\n理目標 ②辦理員工教育訓練 ③執行職業安全衛生稽核 ④督導系統\n運作並提供資源"
+    },
+    {
+      "id": "1465-0344",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 30,
+      "original_number": "40",
+      "category": "待核對原始章節",
+      "question": "已建置職業安全衛生管理系統(CNS45001)之第一類之事業單位，其一級管理單位如何才能不受為專責及職業安全衛生業務主管應為專職之限制？",
+      "options": [
+        "管理績效報經中央主管機關認可",
+        "向當地主管機關申請認可",
+        "安全評估報告送勞動檢查機構審查",
+        "管理績效報經勞動檢查機構審查合格"
+      ],
+      "original_answer": 0,
+      "answer": 0,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "已建置職業安全衛生管理系統(CNS45001)之第一類之事業單位，其\n一級管理單位如何才能不受為專責及職業安全衛生業務主管應為專\n\n職之限制？①管理績效報經中央主管機關認可 ②向當地主管機關申\n請認可 ③安全評估報告送勞動檢查機構審查 ④管理績效報經勞動\n檢查機構審查合格 \n"
     },
     {
       "id": "1465-0345",
@@ -29857,6 +30209,28 @@
       "raw_extracted_text": "職業安全衛生管理系統稽核之目的為何? ①法定自動檢查工作項目  \n      ②查核是否依規定實施職業災害調查 ③稽查職業安全衛生管理計畫 \n      是否符合規定 ④評估系統運作之適切性。"
     },
     {
+      "id": "1465-0364",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 32,
+      "original_number": "60",
+      "category": "待核對原始章節",
+      "question": "下列何者為營造業建置職業安全衛生管理系統先期審查之目的？",
+      "options": [
+        "確認營造業現行職業安全衛生管理作業作為符何項關法令規定",
+        "確保建置營造業職業安全衛生管理系統所需之應之經費控制在公司核定預算內",
+        "確認公司財務狀況",
+        "彙整分析相關法規標準之規定針對營造業經營管理特性，以制定職業安全衛生管理系統"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "下列何者為營造業建置職業安全衛生管理系統先期審查之目的？ ①   \n\n               確認營造業現行職業安全衛生管理作業作為符何項關法令規定 ② \n            確保建置營造業職業安全衛生管理系統所需之應之經費控制在公司 \n      核定預算內 ③確認公司財務狀況 ④彙整分析相關法規標準之規定 \n      針對營造業經營管理特性，以制定職業安全衛生管理系統 \n"
+    },
+    {
       "id": "1465-0365",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 33,
@@ -30053,6 +30427,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "有關事業單位申請職業安全衛生管理系統驗證之動機或目的，下\n列何者有誤？①客戶在貿易上的要求 ②提升安全衛生管理水準 ③\n須向勞動檢查機構報備 ④希望透過第三者的稽核，瞭解是否符合\n系統要求  不是為了須向勞動檢查機構報備是錯誤的"
+    },
+    {
+      "id": "1465-0374",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 33,
+      "original_number": "70",
+      "category": "待核對原始章節",
+      "question": "有關事業單位推動職業安全衛生管理系統可能直接帶來的好處，下列何者有誤？",
+      "options": [
+        "達成永續經營目標",
+        "降低工作場所意外事故",
+        "減少不必要之災害善後支出",
+        "減少產品品質的不良率管理系統直接帶來好處減少產品品質的不良率是錯誤的"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "有關事業單位推動職業安全衛生管理系統可能直接帶來的好處，下\n列何者有誤？①達成永續經營目標 ②降低工作場所意外事故 ③減\n\n少不必要之災害善後支出 ④減少產品品質的不良率  \n     管理系統直接帶來好處減少產品品質的不良率是錯誤的 \n"
     },
     {
       "id": "1465-0375",
@@ -30363,6 +30759,28 @@
       "raw_extracted_text": "下列何者為服務事業單位所制定之安全規範，以維護工作安全，避\n免意外事件之發生? ①敬業 ②協同 ③守紀 ④服務"
     },
     {
+      "id": "1465-0389",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 34,
+      "original_number": "85",
+      "category": "待核對原始章節",
+      "question": "下列何者不良情況往往是引發組織發生衝突的導火線?",
+      "options": [
+        "傳達與溝通",
+        "溝通與協調",
+        "協調與態度",
+        "傳達與協調"
+      ],
+      "original_answer": 1,
+      "answer": 1,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "下列何者不良情況往往是引發組織發生衝突的導火線? ①傳達與溝\n\n通 ②溝通與協調 ③協調與態度 ④傳達與協調 \n"
+    },
+    {
       "id": "1465-0390",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 35,
@@ -30559,6 +30977,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "依職業安全衛生管理辦法，事業單位職業安全衛生管理係由何者依\n職權指揮、監督所屬人員執行？①品管人員 ②各級主管 ③職業安\n全衛生人員 ④職業安全衛生管理系統稽核人員"
+    },
+    {
+      "id": "1465-0399",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 35,
+      "original_number": "95",
+      "category": "待核對原始章節",
+      "question": "依職業安全衛生管理系統指引規定，應如何實施職業安全衛生管理績效監督?",
+      "options": [
+        "於職業安全衛生管理組織及人員之職掌中明訂權責實施",
+        "由安全衛生人員提報管理審查",
+        "由作業主管實施以確保作業安全",
+        "依據公司性質及組織規模，設定主動式監督與被動式監督方式。"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "依職業安全衛生管理系統指引規定，應如何實施職業安全衛生管理\n績效監督?①於職業安全衛生管理組織及人員之職掌中明訂權責實施\n\n②由安全衛生人員提報管理審查 ③由作業主管實施以確保作業安全\n④依據公司性質及組織規模，設定主動式監督與被動式監督方式。 \n"
     },
     {
       "id": "1465-0400",
@@ -30803,6 +31243,28 @@
       "raw_extracted_text": "安全衛生教育訓練之時機，與下列何者無關?①薪資調整時②組織\n或職掌有變更時③士氣低落意外事故頻傳時④增辦業務或推行新工作\n時。"
     },
     {
+      "id": "1465-0411",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 36,
+      "original_number": "107",
+      "category": "待核對原始章節",
+      "question": "人性化管理組織注重隨時設身處地站在對方立場思考問題，而不是嚴守本身立場，所以大家容易溝通，此種為下列何種溝通方式?",
+      "options": [
+        "威權式",
+        "同理心",
+        "指揮式",
+        "高壓式"
+      ],
+      "original_answer": 1,
+      "answer": 1,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "人性化管理組織注重隨時設身處地站在對方立場思考問題，而不是     \n       嚴守本身立場，所以大家容易溝通，此種為下列何種溝通方式? ① \n\n      威權式 ②同理心 ③指揮式 ④高壓式 \n"
+    },
+    {
       "id": "1465-0412",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 37,
@@ -31021,6 +31483,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "依危險性工作場所審查暨檢查辦法規定，為分析發掘工作場所重大\n潛伏在危害，依規定應以下列何方法分析? ①檢核表 ②危害即可\n操作性分析 ③失誤模式與影響分析 ④初步危害分析"
+    },
+    {
+      "id": "1465-0422",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 37,
+      "original_number": "2",
+      "category": "待核對原始章節",
+      "question": "下列何者非屬雇主於製程安全評估應依操作特性建立之製程安全資訊?",
+      "options": [
+        "操作人員家庭財務及產險資訊",
+        "製程技術資訊",
+        "製程化學資訊",
+        "製程設備資訊"
+      ],
+      "original_answer": 0,
+      "answer": 0,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "下列何者非屬雇主於製程安全評估應依操作特性建立之製程安全資\n\n訊? ①操作人員家庭財務及產險資訊 ②製程技術資訊 ③製程化學\n資訊 ④製程設備資訊  \n"
     },
     {
       "id": "1465-0423",
@@ -31287,6 +31771,28 @@
       "raw_extracted_text": "依危害性化學品標示及通識規則之規定，下列何者非屬危害性化學 \n      品應標示之內容？①危害成分  ②警示語 ③用途說明 ④危害 \n      警告訊息    用途說明非屬危害性化學品應標示之內容"
     },
     {
+      "id": "1465-0435",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 38,
+      "original_number": "15",
+      "category": "待核對原始章節",
+      "question": "下列何者為風險評估基本方法的常用公式?",
+      "options": [
+        "風險X危害=評估",
+        "風險X暴露=危害",
+        "危害X暴露=風險",
+        "危害X風險=暴露危暴風"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "下列何者為風險評估基本方法的常用公式? ①風險X危害=評估 ②\n\n風險X暴露=危害 ③危害X暴露=風險 ④危害X風險=暴露  危暴風 \n"
+    },
+    {
       "id": "1465-0436",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 39,
@@ -31527,6 +32033,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "危險性工作場所審查暨檢查辦法規定，須執行施工安全評估，乃\n屬於下列何種危險性工作場所？①丁類 ②甲類 ③乙類 ④丙類"
+    },
+    {
+      "id": "1465-0447",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 39,
+      "original_number": "27",
+      "category": "待核對原始章節",
+      "question": "依危險性工作場所審查暨檢查辦法規定，經審查合格之下列何種危險性工作場所，於施工過程中變更主要分項工程方法時，應就變更部分重新評估後，報經原檢查機構審查?",
+      "options": [
+        "甲類",
+        "乙類",
+        "丙類",
+        "丁類"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "依危險性工作場所審查暨檢查辦法規定，經審查合格之下列何種危\n險性工作場所，於施工過程中變更主要分項工程方法時，應就變更\n\n部分重新評估後，報經原檢查機構審查? ①甲類 ②乙類 ③丙類 \n④丁類 \n"
     },
     {
       "id": "1465-0448",
@@ -31771,6 +32299,28 @@
       "raw_extracted_text": "在各類災害防止基本對策中，下列何者屬於強化安全管理之措施?  \n      ①安全連鎖裝置 ②設置局部排氣裝置 ③設備安全化 ④確立安全      \n      作業標準"
     },
     {
+      "id": "1465-0459",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 40,
+      "original_number": "39",
+      "category": "待核對原始章節",
+      "question": "有關風險評估之作業流程，下列何者正確？ A.依製程、活動或服務之流程辨識出所有的作業或工程 B.確認各項作業的相關條件 C. 確認現有可降低之發生可能性及後果嚴重度的防護措施 D.辨識出各項作業可能發生的危害類型，並描述發生危害因素及導致後果的情境",
+      "options": [
+        "DCBA",
+        "ABDC",
+        "CDAB",
+        "BACD 依製程、條件、辨識、嚴重"
+      ],
+      "original_answer": 1,
+      "answer": 1,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "有關風險評估之作業流程，下列何者正確？ A.依製程、活動或服\n務之流程辨識出所有的作業或工程 B.確認各項作業的相關條件 C.\n\n確認現有可降低之發生可能性及後果嚴重度的防護措施 D.辨識出各\n項作業可能發生的危害類型，並描述發生危害因素及導致後果的情\n境 ①DCBA  ②ABDC  ③CDAB  ④BACD 依製程、條件、辨識、嚴重 \n"
+    },
+    {
       "id": "1465-0460",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 41,
@@ -31991,6 +32541,28 @@
       "raw_extracted_text": "依危害性化學品標示及通識規則規定，標示危害圖示形狀為何? \n①圓形 ②三角型 ③直立 45 度角之正方形 ④六角形"
     },
     {
+      "id": "1465-0470",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 41,
+      "original_number": "50",
+      "category": "待核對原始章節",
+      "question": "依危害性化學品標示及通識規則規定，危害之圖示外框，其符號之顏色為何?",
+      "options": [
+        "黃色",
+        "綠色",
+        "紅色",
+        "藍色"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "依危害性化學品標示及通識規則規定，危害之圖示外框，其符號  \n\n      之顏色為何?①黃色 ②綠色 ③紅色 ④藍色 \n"
+    },
+    {
       "id": "1465-0471",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 42,
@@ -32187,6 +32759,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "作業人員欲瞭解化學品危害性，最好由下列何者獲得相關資訊？①\n法規 ②化學品存量 ③安全資料表 ④工作守則  \n       安全資料表了解化學危害最好資訊"
+    },
+    {
+      "id": "1465-0480",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 42,
+      "original_number": "60",
+      "category": "待核對原始章節",
+      "question": "依危害性化學品標示及通識規則規定，均須置備何種資料供勞工使用?",
+      "options": [
+        "物品質量表",
+        "安全資料表",
+        "基本資料表",
+        "物理及化學性質表危害性化學品須置備安全資料表"
+      ],
+      "original_answer": 1,
+      "answer": 1,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "依危害性化學品標示及通識規則規定，均須置備何種資料供勞工使\n\n用? ①物品質量表②安全資料表 ③基本資料表 ④物理及化學性質\n表   危害性化學品須置備安全資料表 \n"
     },
     {
       "id": "1465-0481",
@@ -32429,6 +33023,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "選用NRR值多少分貝的耳塞，可在考慮50％的安全係數下變，降低\n工作者實際暴露噪音量5分貝? ①5 ②10 ③12 ④17 \n      NRR＝【X（預期減噪值）/50%】+7=5*2+7=17"
+    },
+    {
+      "id": "1465-0492",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 43,
+      "original_number": "72",
+      "category": "待核對原始章節",
+      "question": "不得使勞工有任何時間暴露超過此濃度，以防勞工不可忍受之刺激或生理病變，此容許濃度稱為?",
+      "options": [
+        "短時間時量平均容許濃度",
+        "最低容許濃度",
+        "日時量平均容許濃度",
+        "最高容許濃度"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "不得使勞工有任何時間暴露超過此濃度，以防勞工不可忍受之刺激\n\n或生理病變，此容許濃度稱為? ①短時間時量平均容許濃度 ②最低\n容許濃度 ③日時量平均容許濃度 ④最高容許濃度 \n"
     },
     {
       "id": "1465-0493",
@@ -33069,6 +33685,28 @@
       "raw_extracted_text": "事業單位與承攬人、再承攬人分別僱用勞工共同作業時，為了防\n止何種目的，原事業單位應採取之必要措施？①利潤 ②商業機密 \n③職業災害 ④工程進度"
     },
     {
+      "id": "1465-0522",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 46,
+      "original_number": "12",
+      "category": "待核對原始章節",
+      "question": "原事業單位勞工與承攬人勞工共同作業時，下列何者錯誤？",
+      "options": [
+        "提供機械、設備及器具供承攬人使用，並實施定期檢查",
+        "指定自己的勞工為工作場所負責人",
+        "指定承攬人勞工為工作場所負責人",
+        "協助承攬人辦理教育訓練。"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "原事業單位勞工與承攬人勞工共同作業時，下列何者錯誤？①提供\n機械、設備及器具供承攬人使用，並實施定期檢查 ②指定自己的\n\n勞工為工作場所負責人 ③指定承攬人勞工為工作場所負責人  ④\n協助承攬人辦理教育訓練。    \n"
+    },
+    {
       "id": "1465-0523",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 47,
@@ -33245,6 +33883,28 @@
       "raw_extracted_text": "下列何者為職業安全衛生法規定原事業單位應盡之義務？①協助承\n攬人遵守職業安全衛生相關法令 ②承攬人就承攬部分負雇主責\n任，原事業單位不應介入承攬人之管理 ③接受專業承攬人之工作\n指示作業 ④掩護承攬人通過勞動檢查"
     },
     {
+      "id": "1465-0531",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 47,
+      "original_number": "21",
+      "category": "待核對原始章節",
+      "question": "有關承攬管理之敘述，下列何者正確？",
+      "options": [
+        "事業單位與承攬人、再承攬人分別僱用勞工共同作業時，原事業單位應設置協議組織，並指定承攬人為工作場所負責人，擔任指揮及協調之工作",
+        "原事業單位應對相關承攬事業間之安全衛生教育給予指導及協助",
+        "原事業單位無權對承攬人之勞工實施進場管制",
+        "既已將工作交付承攬，無須於契約中規定相關安全事項"
+      ],
+      "original_answer": 1,
+      "answer": 1,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "有關承攬管理之敘述，下列何者正確？①事業單位與承攬人、再承\n\n攬人分別僱用勞工共同作業時，原事業單位應設置協議組織，並指定\n承攬人為工作場所負責人，擔任指揮及協調之工作 ②原事業單位應\n對相關承攬事業間之安全衛生教育給予指導及協助 ③原事業單位無\n權對承攬人之勞工實施進場管制  ④既已將工作交付承攬，無須於契\n約中規定相關安全事項 \n"
+    },
+    {
       "id": "1465-0532",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 48,
@@ -33353,6 +34013,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "請問承攬有何特性？①當事人約定，一方為他方完成一定之工\n作，他方俟工作完成，給付報酬之契約 ②當事人約定，一方於一\n定或不定之期限內為他方服勞務，他方給付報酬之契約 ③以當事\n人兩者之間具從屬關係 ④只要單方面認為是就可以了"
+    },
+    {
+      "id": "1465-0537",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 48,
+      "original_number": "27",
+      "category": "待核對原始章節",
+      "question": "就安全衛生管理來說，下列何者敘述不正確？",
+      "options": [
+        "經常性交付承攬之作業，於是先依據危害辨識資料及風險評估相關程序，辨識出潛在之危害及相關控制措施",
+        "對於運輸作業之承攬，儲蓄評估在本身廠（場）內之危害及風險外，也因評估運送至客戶期間交通上之危害及風險",
+        "臨時交付之承攬作業，在正式施工前亦應先完成危害辨識及風險評估",
+        "交付承攬後敘述承攬人責任，原事業單位事前不需對該項工作實施危害辨識"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "就安全衛生管理來說，下列何者敘述不正確？①經常性交付承攬\n之作業，於是先依據危害辨識資料及風險評估相關程序，辨識出潛\n在之危害及相關控制措施 ②對於運輸作業之承攬，儲蓄評估在本\n身廠（場）內之危害及風險外，也因評估運送至客戶期間交通上之\n\n危害及風險 ③臨時交付之承攬作業，在正式施工前亦應先完成危\n害辨識及風險評估 ④交付承攬後敘述承攬人責任，原事業單位事\n前不需對該項工作實施危害辨識 \n"
     },
     {
       "id": "1465-0538",
@@ -33485,6 +34167,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "下列何者得認定為承攬關係？ ①事業單位將部份工作交由他人施 \n工，本身仍具指揮、監督、統籌規劃之權者 ②事業單位將設備之檢 \n修以點工方式請人施作並由其指揮 ③事業單位購買原料約定賣方將 \n原料放置倉庫一處 ④事業單位將牆外粉刷請人施作僅約定 5 日後 \n要完成，工作期間並未加以干涉"
+    },
+    {
+      "id": "1465-0544",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 49,
+      "original_number": "34",
+      "category": "待核對原始章節",
+      "question": "有關危害告知事項，下列何者正確？",
+      "options": [
+        "可以口頭方式告知",
+        "得以承攬人勞工之安全承諾書替代危害告知",
+        "承攬人就其承攬之全部或一部分交付再承攬時，承攬人無須告知再承攬人",
+        "得以書面或召開協商會議並作成紀錄為之"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "有關危害告知事項，下列何者正確？①可以口頭方式告知 ②得以承\n\n攬人勞工之安全承諾書替代危害告知 ③承攬人就其承攬之全部或一\n部分交付再承攬時，承攬人無須告知再承攬人 ④得以書面或召開協\n商會議並作成紀錄為之 \n"
     },
     {
       "id": "1465-0545",
@@ -33661,6 +34365,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "當事業單位與承攬人，再承攬人分別僱用勞工共同作業時，依職業\n安全衛生法令規定，應由何者指定工作場所負責人，擔任統一指\n揮及協調工作? ①承攬人  ②再承攬人 ③原事業單位 ④檢查機\n構"
+    },
+    {
+      "id": "1465-0553",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 50,
+      "original_number": "43",
+      "category": "待核對原始章節",
+      "question": "下列有關職業安全衛生法之承攬規定，何者敘述正確？",
+      "options": [
+        "承攬人之勞工發生職業災害，其責任歸屬與原事業單位無涉",
+        "事業單位與承攬人、再承攬人分別僱用勞工共同作業時，應由再承攬人設置協議組織",
+        "二以上事業共同承攬工程時，不必互推一人爲代表人",
+        "原事業單位就職業災害補償仍應與承攬人負連帶責任"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "下列有關職業安全衛生法之承攬規定，何者敘述正確？①承攬人之\n勞工發生職業災害，其責任歸屬與原事業單位無涉 ②事業單位與\n\n承攬人、再承攬人分別僱用勞工共同作業時，應由再承攬人設置協\n議組織 ③二以上事業共同承攬工程時，不必互推一人爲代表人 ④\n原事業單位就職業災害補償仍應與承攬人負連帶責任 \n"
     },
     {
       "id": "1465-0554",
@@ -33861,6 +34587,28 @@
       "raw_extracted_text": "事業單位以其事業交付承攬，且設有協議組織時，依職業安全衛\n生法施行細則規定，下列何者非必要之協議事項？①機械、設備\n及器具入廠（場）管制 ②從事動火、高架、開挖、爆破、高壓\n電活線等危險作業之管制 ③對進入局限空間、有害物質作業等\n作業環境之作業管制 ④承攬人勞工薪資"
     },
     {
+      "id": "1465-0563",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 51,
+      "original_number": "53",
+      "category": "待核對原始章節",
+      "question": "下列有關進廠施工協議組織運作方式之敘述，何者正確?",
+      "options": [
+        "原事業單位得篩選參加協議組織之成員",
+        "起重吊掛作業應由原事業單位派員指揮，以統一作業方式、順序及安全防護設施，可不需納入協議組織管理",
+        "協議組織之運作由原事業單位事需要實施，無關乎工地運作",
+        "施工過程原事業單位應召集各承攬人及相關人員進行協議。"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "下列有關進廠施工協議組織運作方式之敘述，何者正確?①原事\n\n業單位得篩選參加協議組織之成員 ②起重吊掛作業應由原事業單\n位派員指揮，以統一作業方式、順序及安全防護設施，可不需納\n入協議組織管理 ③協議組織之運作由原事業單位事需要實施，無\n關乎工地運作 ④施工過程原事業單位應召集各承攬人及相關人員\n進行協議。 \n"
+    },
+    {
       "id": "1465-0564",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 52,
@@ -33993,6 +34741,28 @@
       "raw_extracted_text": "有關事業單位對承攬人之進出廠區的管制，下列何者有誤（或規定\n較不適合）? ①事業單位對承攬人勞工應於入廠前確認其安全衛\n生教育訓練情形  ②應確認承攬人攜入之電氣機具是否符合安全\n規則 ③事業單位應要求承攬人依施工計畫所需之人員、機具提出\n入廠申請 ④酒精性飲料屬於食品可以不用管制"
     },
     {
+      "id": "1465-0570",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 52,
+      "original_number": "60",
+      "category": "待核對原始章節",
+      "question": "甲營造公司承造某集合住宅工程，其水電工程部分發包給乙水電工程公司承攬，乙再將泥水工程部分發包給丙土木包工行承攬，下列甲乙丙三者關係所述何者錯誤?",
+      "options": [
+        "甲乙丙均各負及雇主責任",
+        "如丙之勞工丁發生職業災害，丁不能向甲或乙請求連帶補償",
+        "甲乙丙分別僱用勞工共同作業時應指定工作場所負責人擔任指揮及協調工作",
+        "甲應於事前告知乙有關安全衛生規定應採取之措施"
+      ],
+      "original_answer": 1,
+      "answer": 1,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "甲營造公司承造某集合住宅工程，其水電工程部分發包給乙水電工\n程公司承攬，乙再將泥水工程部分發包給丙土木包工行承攬，下列\n甲乙丙三者關係所述何者錯誤?    ①甲乙丙均各負及雇主責任  ②如\n\n丙之勞工丁發生職業災害，丁不能向甲或乙請求連帶補償 ③甲乙\n丙分別僱用勞工共同作業時應指定工作場所負責人擔任指揮及協調\n工作 ④甲應於事前告知乙有關安全衛生規定應採取之措施 \n"
+    },
+    {
       "id": "1465-0571",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 53,
@@ -34101,6 +34871,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "下列有關職業安全衛生變更管理之敘述，何者正確? ①在修改或引\n進新作業方法、材料、程序或設備之前，應進行工作場所危害鑑別和\n風險評估 ②管理部門應即時掌握勞動檢查機構人員異動狀況，及時\n因應不同人員檢查重點 ③實施吊掛作業時，承攬商租用機具額定吊\n重大於計畫所列者，無須風險鑑別和評估 ④作業內容變更時，應即\n時通知承攬商採用自行評估決定採用適當之工法及程序"
+    },
+    {
+      "id": "1465-0576",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 53,
+      "original_number": "3",
+      "category": "待核對原始章節",
+      "question": "辦理採購安全管理之稽核，通常為下列何者之權責？",
+      "options": [
+        "安全衛生部門",
+        "人事部門",
+        "環保部門",
+        "品管部門"
+      ],
+      "original_answer": 0,
+      "answer": 0,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "辦理採購安全管理之稽核，通常為下列何者之權責？①安全衛生部\n\n門 ②人事部門 ③環保部門 ④品管部門 \n"
     },
     {
       "id": "1465-0577",
@@ -34519,6 +35311,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "依職業安全衛生管理辦法規定，變更管理應納入下列何項計畫中\n執行? ①職業災害防止計畫 ②職業安全衛生管理規章 ③職業安\n全衛生管理計畫 ④風險控制計畫 變更管理應納入安全衛生管理\n計畫"
+    },
+    {
+      "id": "1465-0596",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 55,
+      "original_number": "23",
+      "category": "待核對原始章節",
+      "question": "依職業安全衛生管理辦法規定，採購管理應納入下列何項計畫中執行?",
+      "options": [
+        "自動檢查計畫",
+        "健康管理計畫",
+        "作業環境監測計畫",
+        "職業安全衛生管理計畫採購管理應納入安全衛生管理計畫"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "依職業安全衛生管理辦法規定，採購管理應納入下列何項計畫中\n\n執行? ①自動檢查計畫  ②健康管理計畫 ③作業環境監測計畫 \n④職業安全衛生管理計畫 採購管理應納入安全衛生管理計畫 \n"
     },
     {
       "id": "1465-0597",
@@ -35357,6 +36171,28 @@
       "raw_extracted_text": "下列何者不是緊急應變計畫書中，應包含之要素? ①明確訂定緊急\n狀況之處理方式，包含指揮權移轉等 ②明確界定應變組織各階層人\n員的職掌 ③明確規劃對外發布的媒體 ④明確訂定稽核及定期管理\n審查機制  明確規劃對外發布的媒體不是緊急應變計畫書應包含之\n要素"
     },
     {
+      "id": "1465-0635",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 59,
+      "original_number": "6",
+      "category": "待核對原始章節",
+      "question": "下列何者不是緊急應變計畫書中，應包含之要素?",
+      "options": [
+        "明確辨識危害性物質及其存量",
+        "明確辨識可能發生危害的人員",
+        "明確規範必要的教育訓練及應變演練之執行",
+        "明確訂定緊急狀況之處理方式明確辨識可能發生危害的人員不是緊急應變計畫書應包含之要素"
+      ],
+      "original_answer": 1,
+      "answer": 1,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "下列何者不是緊急應變計畫書中，應包含之要素? ①明確辨識危害\n\n性物質及其存量 ②明確辨識可能發生危害的人員 ③明確規範必要\n的教育訓練及應變演練之執行 ④明確訂定緊急狀況之處理方式 \n      明確辨識可能發生危害的人員不是緊急應變計畫書應包含之要素 \n"
+    },
+    {
       "id": "1465-0636",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 60,
@@ -35773,6 +36609,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "事業單位應採取下列何種管理措施，使災害發生後得有效控制並\n減少損失？ ①自動檢查 ②緊急應變管理 ③變更管理 ④風險評\n估"
+    },
+    {
+      "id": "1465-0655",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 61,
+      "original_number": "26",
+      "category": "待核對原始章節",
+      "question": "依職業安全衛生教育訓練規則規定，事業單位辦理急救人員安全衛生教育訓練，其計畫、講師概況、課程內容等文件應於事前報請何者備查?",
+      "options": [
+        "當地主管機關",
+        "中央主管機關",
+        "勞動檢查機構",
+        "不須報備"
+      ],
+      "original_answer": 0,
+      "answer": 0,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "依職業安全衛生教育訓練規則規定，事業單位辦理急救人員安全\n\n衛生教育訓練，其計畫、講師概況、課程內容等文件應於事前報\n請何者備查? ①當地主管機關 ②中央主管機關 ③勞動檢查機構 \n④不須報備 \n"
     },
     {
       "id": "1465-0656",
@@ -36303,6 +37161,28 @@
       "raw_extracted_text": "有人進入半密閉之污水槽工作而昏倒在槽中，下列措施何者最不 \n      適當？①實施換氣 ②打 119 電話求救 ③立即徒手進入救人出 \n      來，以求時效 ④戴妥空氣呼吸器再下去救人"
     },
     {
+      "id": "1465-0680",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 63,
+      "original_number": "51",
+      "category": "待核對原始章節",
+      "question": "雇主對從事缺氧危險作業之勞工，發生下列症狀時，應即由醫師診治，下列何者為非？",
+      "options": [
+        "顏面蒼白或紅暈",
+        "脈搏及呼吸加快",
+        "痙攣、呼吸停止",
+        "扭傷"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "雇主對從事缺氧危險作業之勞工，發生下列症狀時，應即由醫師診 \n      治，下列何者為非？①顏面蒼白或紅暈 ②脈搏及呼吸加快 ③痙\n\n攣、呼吸停止 ④扭傷 \n"
+    },
+    {
       "id": "1465-0681",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 64,
@@ -36565,6 +37445,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "何種作業較少發生人體墜落災害？①利用高架作業 ②作業時配戴安\n全帶 ③利用合梯作業 ④地面作業"
+    },
+    {
+      "id": "1465-0693",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 64,
+      "original_number": "10",
+      "category": "待核對原始章節",
+      "question": "為避免發生人體墜落災害，下列何者為最好的安全作法？",
+      "options": [
+        "以施工架作業",
+        "以工作檯作業",
+        "以合梯作業",
+        "地面作業"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "為避免發生人體墜落災害，下列何者為最好的安全作法？①以施工\n\n架作業 ②以工作檯作業 ③以合梯作業 ④地面作業 \n"
     },
     {
       "id": "1465-0694",
@@ -37535,6 +38437,28 @@
       "raw_extracted_text": "下列何者非屬墜落災害防止設施？①開口邊緣設置護欄 ②開口邊\n緣張掛安全網 ③施工架設置壁連座 ④施工架於地面預組"
     },
     {
+      "id": "1465-0738",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 68,
+      "original_number": "56",
+      "category": "待核對原始章節",
+      "question": "下列何者非屬墜落災害防止設施？",
+      "options": [
+        "開口邊緣設置護欄、護蓋",
+        "開口邊緣張掛安全網",
+        "使勞工穿反光背心",
+        "使勞工佩掛安全帶"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "下列何者非屬墜落災害防止設施？①開口邊緣設置護欄、護蓋 ②\n\n開口邊緣張掛安全網 ③使勞工穿反光背心 ④使勞工佩掛安全帶   \n"
+    },
+    {
       "id": "1465-0739",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 69,
@@ -37797,6 +38721,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "勞工在高架作業高度在 5 公尺以上未滿 20 公尺者，其每連續作\n業二小時，應給予至少有 ① 20 分鐘 ② 25 分鐘 ③ 30 分鐘 \n④ 35 分鐘 休息時間。"
+    },
+    {
+      "id": "1465-0751",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 69,
+      "original_number": "69",
+      "category": "待核對原始章節",
+      "question": "當勞工從事高架作業時，發生有些情況，依高架作業勞工保護措施標準規定，雇主不得使其從事高架作業，請問下列何者不包含在內？",
+      "options": [
+        "情緒不穩定，有安全顧慮者",
+        "酒醉或有酒醉之虞者",
+        "勞工自覺不適從事工作者",
+        "有吸菸習慣者"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "當勞工從事高架作業時，發生有些情況，依高架作業勞工保護措\n施標準規定，雇主不得使其從事高架作業，請問下列何者不包含\n在內？①情緒不穩定，有安全顧慮者 ②酒醉或有酒醉之虞者 ③勞\n\n工自覺不適從事工作者 ④有吸菸習慣者 \n"
     },
     {
       "id": "1465-0752",
@@ -38193,6 +39139,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "依職業安全衛生設施規則規定，於以石棉板、鐵皮板、塑膠等材料\n構築之屋頂或於以礦纖板、石膏板等材料之夾層天花板從事作業\n時，為防止勞工踏穿墜落之設施，下列敘述何者為非？①應使勞工\n戴安全帽 ②應指定專人指揮監督作業 ③應設安全網 ④應裝設堅固\n格柵"
+    },
+    {
+      "id": "1465-0770",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 71,
+      "original_number": "88",
+      "category": "待核對原始章節",
+      "question": "雇主得使下列何種工作者其從事高架作業?",
+      "options": [
+        "酒醉或有酒醉之虞者",
+        "身體虛弱，經醫師診斷認為身體狀況不良者",
+        "情緒穩定且無安全顧慮者",
+        "勞工自覺不適從事工作者。"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "雇主得使下列何種工作者其從事高架作業?①酒醉或有酒醉之虞者 \n\n②身體虛弱，經醫師診斷認為身體狀況不良者 ③情緒穩定且無安全\n顧慮者 ④勞工自覺不適從事工作者。 \n"
     },
     {
       "id": "1465-0771",
@@ -39251,6 +40219,28 @@
       "raw_extracted_text": "下列何者不屬於鍋爐常用之安全裝置？①過負荷預防裝置 ②安全\n閥 ③水位高低警報器 ④吹洩閥"
     },
     {
+      "id": "1465-0819",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 75,
+      "original_number": "43",
+      "category": "待核對原始章節",
+      "question": "為防止壓力槽內壓力過高而發生事故，應裝置下列何種安全設備？",
+      "options": [
+        "制動裝置",
+        "反撥裝置",
+        "釋壓閥",
+        "光電開關釋壓閥是防止壓力槽內壓力過高安全設備"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "為防止壓力槽內壓力過高而發生事故，應裝置下列何種安全設備？ \n\n①制動裝置 ②反撥裝置 ③釋壓閥 ④光電開關 \n     釋壓閥是防止壓力槽內壓力過高安全設備 \n"
+    },
+    {
       "id": "1465-0820",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 76,
@@ -39735,6 +40725,28 @@
       "raw_extracted_text": "依起重升降機具安全規則規定，未具伸臂之固定式起重機或未具\n吊桿之人字臂起重桿，自吊升荷重扣除吊鉤、抓斗等吊具重量所\n得之荷重，稱為下列何者？①額定荷重 ②安全荷重 ③積載荷重 \n④容許荷重。"
     },
     {
+      "id": "1465-0842",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 77,
+      "original_number": "66",
+      "category": "待核對原始章節",
+      "question": "依職業安全衛生設施規則規定，雇主使勞工以捲揚機等吊運物料時，下列敘述何者不正確？",
+      "options": [
+        "禁止人員進入吊掛物下方",
+        "應設有防止過捲裝置",
+        "安裝前應確認設計資料及強度計算書",
+        "可供人員搭乘、吊升或降落"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "依職業安全衛生設施規則規定，雇主使勞工以捲揚機等吊運物料\n\n時，下列敘述何者不正確？①禁止人員進入吊掛物下方 ②應設有\n防止過捲裝置 ③安裝前應確認設計資料及強度計算書 ④可供人\n員搭乘、吊升或降落 \n"
+    },
+    {
       "id": "1465-0843",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 78,
@@ -39953,6 +40965,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "下列何種裝置可以預防木材加工用圓盤鋸鋸切木條時反撥？①撐縫 \n     片 ②自動護罩 ③手工具送料 ④光電監視。"
+    },
+    {
+      "id": "1465-0853",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 78,
+      "original_number": "76",
+      "category": "待核對原始章節",
+      "question": "以下所列舉之機械，何者未有型式檢定制度？",
+      "options": [
+        "動力衝剪機械",
+        "木材加工用鑽孔機",
+        "動力堆高機",
+        "研磨機。"
+      ],
+      "original_answer": 1,
+      "answer": 1,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "以下所列舉之機械，何者未有型式檢定制度？①動力衝剪機械 ②木 \n\n     材加工用鑽孔機 ③動力堆高機 ④研磨機。 \n"
     },
     {
       "id": "1465-0854",
@@ -40791,6 +41825,28 @@
       "raw_extracted_text": "下列何者不是屬於滅火原理所採取的方法？ ①抑制法 ②佛系法  \n      ③窒息法 ④冷卻法"
     },
     {
+      "id": "1465-0892",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 81,
+      "original_number": "29",
+      "category": "待核對原始章節",
+      "question": "將燃燒中的物質移開或斷絕供應，以削弱火勢或阻止火勢延燒，此種滅火方法為下列何者？",
+      "options": [
+        "抑制法",
+        "窒息法",
+        "隔離法",
+        "冷卻法"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "將燃燒中的物質移開或斷絕供應，以削弱火勢或阻止火勢延燒，此\n\n種滅火方法為下列何者？①抑制法 ②窒息法 ③隔離法 ④冷卻法 \n"
+    },
+    {
       "id": "1465-0893",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 82,
@@ -41121,6 +42177,28 @@
       "raw_extracted_text": "下列敘述何者錯誤？①易燃液體的沸點愈低，愈易蒸發，發生火災\n爆炸的可能性愈高 ②大部分易燃液體的比重比水低，且不易溶於水 \n③物質的燃燒熱愈大者，在火災爆炸的過程危害程度愈大 ④物質的\n爆炸下限愈高者，其爆炸範圍愈廣，愈危險"
     },
     {
+      "id": "1465-0908",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 83,
+      "original_number": "45",
+      "category": "待核對原始章節",
+      "question": "使用過氧化二苯甲醯從事批式製程反應作業，下列敘述何者有誤？",
+      "options": [
+        "儲存場所之電氣設備需具防爆功能",
+        "有機過氧化物之領料應先進先出",
+        "儲存場所應與製程區分開",
+        "多批次作業所需的過氧化二苯甲醯以一次領取為最佳"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "使用過氧化二苯甲醯從事批式製程反應作業，下列敘述何者有誤？\n\n①儲存場所之電氣設備需具防爆功能 ②有機過氧化物之領料應先\n進先出 ③儲存場所應與製程區分開 ④多批次作業所需的過氧化二\n苯甲醯以一次領取為最佳 \n"
+    },
+    {
       "id": "1465-0909",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 84,
@@ -41383,6 +42461,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "依危險性機械及設備安全檢查規則規定，高壓氣體容器係指供灌裝\n高壓氣體之容器中，相對於地面可移動，其內容積在多少公升以上? \n①50  ②100  ③200  ④500"
+    },
+    {
+      "id": "1465-0921",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 84,
+      "original_number": "58",
+      "category": "待核對原始章節",
+      "question": "依危險性機械及設備安全檢查規則規定，高壓氣體特定設備係指供高壓氣體之製造設備及其支持構造物，其容器以「每平方公分之公斤數」單位所表示之設計壓力數值與以「立方公尺」單位所表示之內容積數值之積，超過多少者？",
+      "options": [
+        "0.03",
+        "0.01",
+        "0.02",
+        "0.04"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "依危險性機械及設備安全檢查規則規定，高壓氣體特定設備係指供\n高壓氣體之製造設備及其支持構造物，其容器以「每平方公分之\n公斤數」單位所表示之設計壓力數值與以「立方公尺」單位所表\n示之內容積數值之積，超過多少者？①0.03 ②0.01 ③0.02  ④\n\n0.04 \n"
     },
     {
       "id": "1465-0922",
@@ -41715,6 +42815,28 @@
       "raw_extracted_text": "氧乙炔焊接作業完畢時，其正確關機程序為何？①兩者一起關 ②\n先關氧氣，再換乙炔 ③先收輸氣管後關氣瓶開關 ④先關乙炔，再\n關氧氣"
     },
     {
+      "id": "1465-0937",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 85,
+      "original_number": "74",
+      "category": "待核對原始章節",
+      "question": "高壓氣體在絕熱環境下吹洩，其溫度變化為何？",
+      "options": [
+        "下降",
+        "上升",
+        "上下微幅振盪",
+        "不變"
+      ],
+      "original_answer": 0,
+      "answer": 0,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "高壓氣體在絕熱環境下吹洩，其溫度變化為何？①下降 ②上升 ③\n\n上下微幅振盪 ④不變 \n"
+    },
+    {
       "id": "1465-0938",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 86,
@@ -42001,6 +43123,28 @@
       "raw_extracted_text": "依職業安全衛生設施規則規定，有關氣體熔接作業使用可燃性氣體\n或氧氣之容器，下列何者為非？①保持容器之溫度於攝氏40度以下 \n②應留置專用板手於容器開關上 ③搬運容器可在地面滾動 ④應清楚\n分開使用中與非使用中容器。"
     },
     {
+      "id": "1465-0951",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 86,
+      "original_number": "88",
+      "category": "待核對原始章節",
+      "question": "雇主金屬之熔接、熔斷或加熱等作業所需使用可燃性氣體及氧氣之容器，下列敘述何者錯誤?",
+      "options": [
+        "容器不得設置於通風或換氣不充分之場所",
+        "容器應橫放，便於地面滾動",
+        "容器使用時，應留置專用板手於容器閥柄上",
+        "保持容器之溫度於攝氏40 度以下。"
+      ],
+      "original_answer": 1,
+      "answer": 1,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "雇主金屬之熔接、熔斷或加熱等作業所需使用可燃性氣體及氧氣之 \n\n     容器，下列敘述何者錯誤?①容器不得設置於通風或換氣不充分之場 \n     所②容器應橫放，便於地面滾動 ③容器使用時，應留置專用板手於 \n     容器閥柄上 ④保持容器之溫度於攝氏40 度以下。 \n"
+    },
+    {
       "id": "1465-0952",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 87,
@@ -42219,6 +43363,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "依職業安全衛生設施規則規定，勞工通行時有接觸移動電線之虞者\n對此電線之有關措施下列方式何者有誤？①防止絕緣被破壞 ②防\n止銅線裸露 ③散置於地面 ④防止絕緣老化"
+    },
+    {
+      "id": "1465-0962",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 87,
+      "original_number": "8",
+      "category": "待核對原始章節",
+      "question": "靜電電荷累積後易產生電弧放熱，下列何者非為消除靜電電荷累積的方法？",
+      "options": [
+        "以導體接地",
+        "裝置靜電消除器",
+        "隔離產生靜電之設備",
+        "提高靜電環境之濕度隔離靜電之設備非消除靜電電荷累積的方法"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": " 靜電電荷累積後易產生電弧放熱，下列何者非為消除靜電電荷累積\n的方法？ ①以導體接地 ②裝置靜電消除器 ③隔離產生靜電之設備 \n\n④提高靜電環境之濕度  隔離靜電之設備非消除靜電電荷累積的方法 \n"
     },
     {
       "id": "1465-0963",
@@ -42529,6 +43695,28 @@
       "raw_extracted_text": "水會影響電阻值，當身體在潮濕的狀況下，其電阻值將如何變化?  \n      ①不變 ②不一定 ③降低 ④升高"
     },
     {
+      "id": "1465-0977",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 88,
+      "original_number": "23",
+      "category": "待核對原始章節",
+      "question": "發生感電時，流經人體的電流量與下列何者較無關？",
+      "options": [
+        "與人體皮膚、衣著的電阻",
+        "與人所處位置的絕緣性",
+        "與人體當時的情緒狀況",
+        "與人體接觸的電壓值。"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "發生感電時，流經人體的電流量與下列何者較無關？①與人體皮\n膚、衣著的電阻 ②與人所處位置的絕緣性 ③與人體當時的情緒狀\n\n況 ④與人體接觸的電壓值。 \n"
+    },
+    {
       "id": "1465-0978",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 89,
@@ -42791,6 +43979,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "依職業安全衛生設施規則規定，雇主對勞工於良導體機器設備內之\n狹小空間，作業時所使用之交流電焊機，為防止感電，應有下列何\n種安全設備？①安全網 ②省電燈泡 ③自動電擊防止裝置 ④防爆\n電氣設備"
+    },
+    {
+      "id": "1465-0990",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 89,
+      "original_number": "36",
+      "category": "待核對原始章節",
+      "question": "雇主對於勞工於良導體機器設備從事檢修作業使用之手提式照明燈，依職業安全衛生設施規則規定，其電壓不得超過多少伏特？",
+      "options": [
+        "110",
+        "12",
+        "24",
+        "9"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "雇主對於勞工於良導體機器設備從事檢修作業使用之手提式照明\n燈，依職業安全衛生設施規則規定，其電壓不得超過多少伏特？① \n\n110 ② 12 ③ 24 ④ 9   \n"
     },
     {
       "id": "1465-0991",
@@ -43363,6 +44573,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "下列何者是電流的單位及符號? ①伏特、V ②安培、A  ③歐姆、Ω \n         ④瓦特、W"
+    },
+    {
+      "id": "1465-1017",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 91,
+      "original_number": "63",
+      "category": "待核對原始章節",
+      "question": "下列何者是電阻的單位及符號?",
+      "options": [
+        "伏特、V",
+        "安培、A",
+        "歐姆、Ω",
+        "瓦特、W"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "下列何者是電阻的單位及符號? ①伏特、V ②安培、A  ③歐姆、Ω  \n\n          ④瓦特、W \n"
     },
     {
       "id": "1465-1018",
@@ -44531,6 +45763,28 @@
       "raw_extracted_text": "「物體倒榻」，是屬於下列何者?①特有災害 ②交通事故 ③一般\n災害 ④自然災害。"
     },
     {
+      "id": "1465-1071",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 95,
+      "original_number": "29",
+      "category": "待核對原始章節",
+      "question": "對營造工程之施工架、施工構台及模板支撐應實施檢查，下列何者為非?",
+      "options": [
+        "五級以上地震襲擊後",
+        "每次停工之復工前",
+        "強風大雨惡劣氣候襲擊後",
+        "每週一次。(四級以上地震就要檢查)"
+      ],
+      "original_answer": 0,
+      "answer": 0,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "對營造工程之施工架、施工構台及模板支撐應實施檢查，下列何者 \n\n    為非?①五級以上地震襲擊後 ②每次停工之復工前 ③強風大雨惡劣 \n    氣候襲擊後 ④每週一次。(四級以上地震就要檢查) \n"
+    },
+    {
       "id": "1465-1072",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 96,
@@ -45279,6 +46533,28 @@
       "raw_extracted_text": "四氯化碳最可能循下列何種路徑進入人體？①皮膚接觸 ②口腔  \n      ③眼睛接觸 ④呼吸"
     },
     {
+      "id": "1465-1106",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 98,
+      "original_number": "23",
+      "category": "待核對原始章節",
+      "question": "四氯化碳最可能危害下列何者？",
+      "options": [
+        "肝腎",
+        "骨骼",
+        "皮膚",
+        "腸胃"
+      ],
+      "original_answer": 0,
+      "answer": 0,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "四氯化碳最可能危害下列何者？①肝腎 ②骨骼 ③皮膚 ③腸胃 \n"
+    },
+    {
       "id": "1465-1107",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 98,
@@ -45519,6 +46795,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "遮光防護具可防止下列何者所引起之眼睛傷害？①磨床產生微細粉 \n     塵 ②電弧熔接熔斷之有害光線 ③切削產生之切屑 ④處置溶劑之 \n     飛沫"
+    },
+    {
+      "id": "1465-1118",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 98,
+      "original_number": "35",
+      "category": "待核對原始章節",
+      "question": "具有面無表情，講話結巴、輕微顫抖等症狀，可能為下列何種症狀",
+      "options": [
+        "巴金森氏症候群",
+        "末梢血管病變",
+        "多發性神經病變",
+        "化學性肝炎"
+      ],
+      "original_answer": 0,
+      "answer": 0,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "具有面無表情，講話結巴、輕微顫抖等症狀，可能為下列何種症狀\n\n①巴金森氏症候群 ②末梢血管病變 ③多發性神經病變 ④化學性\n肝炎 \n"
     },
     {
       "id": "1465-1119",
@@ -46225,6 +47523,28 @@
       "raw_extracted_text": "進入長期間未使用之坑井作業時，未實施作業環境測定，較會產生   \n      下列何種危害？①墜落 ②中毒、缺氧 ③感電 ④被夾、被捲"
     },
     {
+      "id": "1465-1151",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 100,
+      "original_number": "68",
+      "category": "待核對原始章節",
+      "question": "進入醬菜醃漬槽作業時，未實施有效通風，較會產生下列何種危害?",
+      "options": [
+        "爆炸",
+        "缺氧",
+        "感電",
+        "被夾、被捲"
+      ],
+      "original_answer": 1,
+      "answer": 1,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "進入醬菜醃漬槽作業時，未實施有效通風，較會產生下列何種危  \n\n     害?①爆炸 ②缺氧 ③感電 ④被夾、被捲 \n"
+    },
+    {
       "id": "1465-1152",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 101,
@@ -46819,6 +48139,28 @@
       "raw_extracted_text": "依職業安全衛生設施規則規定，下列何者非屬局限空間危害防止計 \n      畫應訂定之事項？①氣氣及有害氣體濃度測定 ②進入作業許可程   \n      序③通風換氣實施方式 ④危險性化學品標示及通識措施"
     },
     {
+      "id": "1465-1179",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 102,
+      "original_number": "96",
+      "category": "待核對原始章節",
+      "question": "依職業安全衛生設施規則之規定，雇主使勞工於局限空間從事作業，有危害之虞時，應於作業場所入口之顯而易見處所公告相關注意事項，下列何者非屬應公告事項？",
+      "options": [
+        "事故發生時緊急措施及緊急聯絡方式",
+        "進入該場所應採取之措施",
+        "危害物質運輸規定",
+        "現場監視人員姓名"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "依職業安全衛生設施規則之規定，雇主使勞工於局限空間從事作\n業，有危害之虞時，應於作業場所入口之顯而易見處所公告相關注\n\n意事項，下列何者非屬應公告事項？①事故發生時緊急措施及緊急\n聯絡方式 ②進入該場所應採取之措施 ③危害物質運輸規定 ④現場\n監視人員姓名 \n"
+    },
+    {
       "id": "1465-1180",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 103,
@@ -47301,6 +48643,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "依缺氧症預防規則規定，下列敘述何者有誤？①氧氣濃度高於18%  \n     為缺氧作業場所 ②儲存穀物之倉庫內部，屬缺氧危險場所 ③實施 \n     換氣時不得使用純氧 ④雇主使勞工從事缺氧危險作業時，應定期或 \n     每次作業開始前確認呼吸防護具之數量及效能，認有異常時，應立 \n     即採取必要之措施。"
+    },
+    {
+      "id": "1465-1202",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 104,
+      "original_number": "119",
+      "category": "待核對原始章節",
+      "question": "依缺氧症預防規則規定，下列敘述何者有誤？",
+      "options": [
+        "雇主使勞工從事缺氧危險作業，如受鄰接作業場所之影響致有發生缺氧危險之虞時，應與各該作業場所密切保持聯繫",
+        "作業場所入口應公告監視人員姓名",
+        "密閉相當期間之船艙內部，若內壁實施防銹措施，則非屬缺氧危險場所",
+        "勞工戴用輸氣管面罩之作業時間，每次不得超過1 小時"
+      ],
+      "original_answer": 1,
+      "answer": 1,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "依缺氧症預防規則規定，下列敘述何者有誤？①雇主使勞工從事\n缺氧危險作業，如受鄰接作業場所之影響致有發生缺氧危險之虞\n\n時，應與各該作業場所密切保持聯繫 ②作業場所入口應公告監視人\n員姓名 ③密閉相當期間之船艙內部，若內壁實施防銹措施，則非屬\n缺氧危險場所 ④勞工戴用輸氣管面罩之作業時間，每次不得超過1\n小時 \n"
     },
     {
       "id": "1465-1203",
@@ -47807,6 +49171,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "依鉛中毒預防規則規定，得免設置局部排氣裝置或整體換器裝 \n        置，不包括下列何種作業？①作業時間短暫 ②臨時性作業 ③與 \n        其他作業有效隔離勞工不必經常出入 ④採用濕式作業。"
+    },
+    {
+      "id": "1465-1226",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 106,
+      "original_number": "143",
+      "category": "待核對原始章節",
+      "question": "某一鉛作業場所鉛作業人數為60人，均為軟焊作業，則本鉛作業場所整體換氣裝置之換氣量約為每分鐘多少立方公尺以上？",
+      "options": [
+        "60",
+        "100",
+        "600",
+        "1000。"
+      ],
+      "original_answer": 1,
+      "answer": 1,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "某一鉛作業場所鉛作業人數為60人，均為軟焊作業，則本鉛作業 \n        場所整體換氣裝置之換氣量約為每分鐘多少立方公尺以上？①60      \n\n        ② 100 ③600 ④1000。 \n"
     },
     {
       "id": "1465-1227",
@@ -48425,6 +49811,28 @@
       "raw_extracted_text": "下列何者最不可能為肌肉骨骼傷害的原因? ①姿勢不當 ②無適當 \n     的休息 ③工作壓力 ④吵雜的環境"
     },
     {
+      "id": "1465-1255",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 108,
+      "original_number": "13",
+      "category": "待核對原始章節",
+      "question": "坐姿不良屬於下列何種危害？",
+      "options": [
+        "化學性",
+        "物理性",
+        "物理性",
+        "人因工程"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "坐姿不良屬於下列何種危害？①化學性 ②物理性 ③物理性 ④ \n\n      人因工程 \n"
+    },
+    {
       "id": "1465-1256",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 109,
@@ -48709,6 +50117,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "傳音性聽力損失主要是因為下列何處受損所導致？①中耳 ②內耳  \n     ③耳殼 ④外耳"
+    },
+    {
+      "id": "1465-1269",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 109,
+      "original_number": "27",
+      "category": "待核對原始章節",
+      "question": "下列何種聲音對人體聽力損失最敏感？",
+      "options": [
+        "低頻噪音",
+        "超低頻噪音",
+        "超高頻噪音",
+        "高頻噪音"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "下列何種聲音對人體聽力損失最敏感？ ①低頻噪音 ②超低頻噪  \n\n     音 ③超高頻 噪音 ④高頻噪音 \n"
     },
     {
       "id": "1465-1270",
@@ -49591,6 +51021,28 @@
       "raw_extracted_text": "雇主對勞工實施特殊健康檢查，其結果報告書不需要報請或副知事\n業單位所在地何種機關？①勞動檢查機構 ②勞工主管機關 ③衛生\n所 ④衛生主管機關   是問不要報請或副知單位單位，其他都要報"
     },
     {
+      "id": "1465-1310",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 112,
+      "original_number": "14",
+      "category": "待核對原始章節",
+      "question": "雇主雇用勞工時，應實施一般體格檢查，下列何者非規定之檢查項目？",
+      "options": [
+        "既往病歷及作業經歷之調查",
+        "胸部 X 光(大片)攝影檢查",
+        "心電圖檢查",
+        "血色素及白血球數檢查"
+      ],
+      "original_answer": 2,
+      "answer": 2,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "雇主雇用勞工時，應實施一般體格檢查，下列何者非規定之檢查項\n目？①既往病歷及作業經歷之調查 ②胸部 X 光(大片)攝影檢查 ③\n\n心電圖檢查 ④血色素及白血球數檢查 \n"
+    },
+    {
       "id": "1465-1311",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 113,
@@ -49853,6 +51305,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "依勞工健康保護規則規定，從事苯作業勞工之特殊健康檢查記錄最 \n     少應保存多少年?①7 ②10 ③20 ④30"
+    },
+    {
+      "id": "1465-1323",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 113,
+      "original_number": "27",
+      "category": "待核對原始章節",
+      "question": "特殊健康檢查或健康追蹤檢查結果，全部項目正常，或部分項目異常，而經醫師綜合判定為無異常者，請問是屬於健康管理第幾級?",
+      "options": [
+        "一級",
+        "二級",
+        "三級",
+        "四級"
+      ],
+      "original_answer": 0,
+      "answer": 0,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "特殊健康檢查或健康追蹤檢查結果，全部項目正常，或部分項目\n\n異常，而經醫師綜合判定為無異常者，請問是屬於健康管理第幾級? \n①一級 ②二級 ③三級 ④四級 \n"
     },
     {
       "id": "1465-1324",
@@ -50139,6 +51613,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "目前衛生福利部國民健康署建議的成人身體質量指數(BMI)，正常 \n      範圍之上限為何？ ①21 ② 23 ③24  ④ 25  備註:標準值 18.5＜ \n      BMI＜24"
+    },
+    {
+      "id": "1465-1337",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 114,
+      "original_number": "41",
+      "category": "待核對原始章節",
+      "question": "在建立健康工作環境時，下列何者較屬健康服務層面？",
+      "options": [
+        "團隊互助",
+        "工作姿勢",
+        "領導風格",
+        "預防注射"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "在建立健康工作環境時，下列何者較屬健康服務層面？①團隊互助 \n\n②工作姿勢 ③領導風格 ④預防注射 \n"
     },
     {
       "id": "1465-1338",
@@ -51879,6 +53375,28 @@
       "raw_extracted_text": "某常日班勞工上午因工作受傷，中午開始請公傷假，隔天下午恢復\n上班，則損失工作日數為多少日? ① 2 ② 1 ③ 0.5  ④ 0"
     },
     {
+      "id": "1465-1417",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 120,
+      "original_number": "38",
+      "category": "待核對原始章節",
+      "question": "勞工遭遇職業災害，在醫療中不能工作時，雇主對於其工資補償應如何處理？",
+      "options": [
+        "按其原領工資數額打對折作為補償",
+        "按其原領工資數額作為補償",
+        "雇主已補償其必需之醫療費用，所以就不用補償工資",
+        "補償1/3工資"
+      ],
+      "original_answer": 1,
+      "answer": 1,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "勞工遭遇職業災害，在醫療中不能工作時，雇主對於其工資補償應\n\n如何處理？①按其原領工資數額打對折作為補償 ②按其原領工資數\n額作為補償 ③雇主已補償其必需之醫療費用，所以就不用補償工\n資 ④補償1/3工資 \n"
+    },
+    {
       "id": "1465-1418",
       "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
       "source_page": 121,
@@ -52097,6 +53615,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "依勞動檢查法施行細則規定，下列何者洩漏，發生勞工中毒1人需住\n院治療者，係屬於重大職業災害? ①瓦斯 ②氯氣 ③甲烷 ④氯化\n氫"
+    },
+    {
+      "id": "1465-1428",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 121,
+      "original_number": "49",
+      "category": "待核對原始章節",
+      "question": "發生重大職業災害時，報告檢查機構之責任屬於下列何者?",
+      "options": [
+        "領班",
+        "警察",
+        "消防員",
+        "雇主"
+      ],
+      "original_answer": 3,
+      "answer": 3,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "發生重大職業災害時，報告檢查機構之責任屬於下列何者? ①領 \n\n      班②警察 ③消防員 ④雇主 \n"
     },
     {
       "id": "1465-1429",
@@ -52559,6 +54099,28 @@
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "下列何者非職業災害發生的間接原因?①未提供安全設備 ②未提供\n安全護具 ③安全衛生管理不當 ④未依標準作業程序操作。"
+    },
+    {
+      "id": "1465-1450",
+      "source_document": "(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf",
+      "source_page": 123,
+      "original_number": "71",
+      "category": "待核對原始章節",
+      "question": "職業災害發生之原因可分為直接原因、間接原因及基本原因，下列何者係屬直接原因?",
+      "options": [
+        "能量",
+        "不安全行為",
+        "管理上的缺陷",
+        "不安全狀況。"
+      ],
+      "original_answer": 0,
+      "answer": 0,
+      "status": "needs_review",
+      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
+      "verified_at": null,
+      "source_url": null,
+      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "raw_extracted_text": "職業災害發生之原因可分為直接原因、間接原因及基本原因，下列\n\n何者係屬直接原因? ①能量 ②不安全行為 ③管理上的缺陷 ④不安\n全狀況。 \n"
     },
     {
       "id": "1465-1451",
