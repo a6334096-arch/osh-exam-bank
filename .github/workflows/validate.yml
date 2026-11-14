@@ -13,3 +13,11 @@ jobs:
         with:
           python-version: '3.12'
       - run: python scripts/validate.py
+      - name: Check staged PDF import (if uploaded)
+        shell: bash
+        run: |
+          if [ -f data/staging/questions_candidate.json ]; then
+            python scripts/check_staged_import.py data/staging/questions_candidate.json
+          else
+            echo 'No staged import yet; live question bank unchanged.'
+          fi
