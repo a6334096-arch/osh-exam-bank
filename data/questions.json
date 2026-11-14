@@ -397,10 +397,10 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "尚未依現行法規及官方資料完成逐題校正；此為原始 PDF 所標示答案，不代表已確認正確。",
-      "verified_at": null,
-      "source_url": null
+      "status": "verified",
+      "explanation": "依《職業安全衛生法》第34條第1項，雇主應會同勞工代表訂定安全衛生工作守則，報經勞動檢查機構備查後公告實施。因此選④勞工代表。",
+      "verified_at": "2026-11-14",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0060001"
     }
   ]
 }
