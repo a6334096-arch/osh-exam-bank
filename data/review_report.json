@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-15",
+  "generated_at": "2026-11-16",
   "expected": 2465,
   "imported": 2489,
-  "verified": 20,
-  "needs_review": 52,
+  "verified": 25,
+  "needs_review": 47,
   "unverified": 2417,
   "remaining_import": 0,
   "review_queue": [
@@ -13930,14 +13930,6 @@
       ]
     },
     {
-      "id": "1465-0553",
-      "source_page": 50,
-      "status": "needs_review",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0616",
       "source_page": 57,
       "status": "unverified",
@@ -15631,14 +15623,6 @@
       ]
     },
     {
-      "id": "1465-0921",
-      "source_page": 84,
-      "status": "needs_review",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-1012",
       "source_page": 91,
       "status": "unverified",
@@ -16871,14 +16855,6 @@
       "id": "1465-0376",
       "source_page": 34,
       "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0492",
-      "source_page": 43,
-      "status": "needs_review",
       "reasons": [
         "尚未完成官方來源核對"
       ]
@@ -18244,14 +18220,6 @@
       ]
     },
     {
-      "id": "1465-0951",
-      "source_page": 86,
-      "status": "needs_review",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-1042",
       "source_page": 93,
       "status": "unverified",
@@ -19554,9 +19522,8 @@
     {
       "id": "1465-1226",
       "source_page": 106,
-      "status": "needs_review",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
