@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-16",
+  "generated_at": "2026-11-17",
   "expected": 2465,
   "imported": 2489,
-  "verified": 25,
-  "needs_review": 47,
+  "verified": 45,
+  "needs_review": 27,
   "unverified": 2417,
   "remaining_import": 0,
   "review_queue": [
@@ -8375,14 +8375,6 @@
       ]
     },
     {
-      "id": "1465-0422",
-      "source_page": 37,
-      "status": "needs_review",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0512",
       "source_page": 45,
       "status": "unverified",
@@ -9241,14 +9233,6 @@
       ]
     },
     {
-      "id": "1465-0962",
-      "source_page": 87,
-      "status": "needs_review",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-1050",
       "source_page": 94,
       "status": "unverified",
@@ -9485,14 +9469,6 @@
       "id": "1465-0639",
       "source_page": 60,
       "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0693",
-      "source_page": 64,
-      "status": "needs_review",
       "reasons": [
         "尚未完成官方來源核對"
       ]
@@ -9941,14 +9917,6 @@
       ]
     },
     {
-      "id": "1465-1255",
-      "source_page": 108,
-      "status": "needs_review",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-1309",
       "source_page": 112,
       "status": "unverified",
@@ -9984,14 +9952,6 @@
       "id": "1465-0237",
       "source_page": 20,
       "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0318",
-      "source_page": 27,
-      "status": "needs_review",
       "reasons": [
         "尚未完成官方來源核對"
       ]
@@ -10080,14 +10040,6 @@
       "id": "1465-1256",
       "source_page": 109,
       "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-1310",
-      "source_page": 112,
-      "status": "needs_review",
       "reasons": [
         "尚未完成官方來源核對"
       ]
@@ -10958,14 +10910,6 @@
       ]
     },
     {
-      "id": "1465-0531",
-      "source_page": 47,
-      "status": "needs_review",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0594",
       "source_page": 55,
       "status": "unverified",
@@ -11660,9 +11604,8 @@
     {
       "id": "1465-0655",
       "source_page": 61,
-      "status": "needs_review",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -11759,14 +11702,6 @@
       "id": "1465-0331",
       "source_page": 29,
       "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0447",
-      "source_page": 39,
-      "status": "needs_review",
       "reasons": [
         "尚未完成官方來源核對"
       ]
@@ -12066,14 +12001,6 @@
       "id": "1465-0802",
       "source_page": 74,
       "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0892",
-      "source_page": 81,
-      "status": "needs_review",
       "reasons": [
         "尚未完成官方來源核對"
       ]
@@ -12435,14 +12362,6 @@
       ]
     },
     {
-      "id": "1465-0336",
-      "source_page": 29,
-      "status": "needs_review",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0452",
       "source_page": 40,
       "status": "unverified",
@@ -12729,14 +12648,6 @@
       "id": "1465-0454",
       "source_page": 40,
       "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0544",
-      "source_page": 49,
-      "status": "needs_review",
       "reasons": [
         "尚未完成官方來源核對"
       ]
@@ -13531,9 +13442,9 @@
     {
       "id": "1465-0344",
       "source_page": 30,
-      "status": "needs_review",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對"
+        "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
     {
@@ -13949,14 +13860,6 @@
       "id": "1465-0726",
       "source_page": 67,
       "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0819",
-      "source_page": 75,
-      "status": "needs_review",
       "reasons": [
         "尚未完成官方來源核對"
       ]
@@ -15060,14 +14963,6 @@
       ]
     },
     {
-      "id": "1465-0563",
-      "source_page": 51,
-      "status": "needs_review",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0627",
       "source_page": 59,
       "status": "unverified",
@@ -15410,14 +15305,6 @@
       "id": "1465-0566",
       "source_page": 52,
       "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0738",
-      "source_page": 68,
-      "status": "needs_review",
       "reasons": [
         "尚未完成官方來源核對"
       ]
@@ -15776,14 +15663,6 @@
       ]
     },
     {
-      "id": "1465-0570",
-      "source_page": 52,
-      "status": "needs_review",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0742",
       "source_page": 69,
       "status": "unverified",
@@ -16095,14 +15974,6 @@
       "id": "1465-0926",
       "source_page": 85,
       "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-1017",
-      "source_page": 91,
-      "status": "needs_review",
       "reasons": [
         "尚未完成官方來源核對"
       ]
@@ -16548,14 +16419,6 @@
       "id": "1465-1022",
       "source_page": 92,
       "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-1151",
-      "source_page": 100,
-      "status": "needs_review",
       "reasons": [
         "尚未完成官方來源核對"
       ]
@@ -18516,14 +18379,6 @@
       "id": "1465-0135",
       "source_page": 11,
       "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0399",
-      "source_page": 35,
-      "status": "needs_review",
       "reasons": [
         "尚未完成官方來源核對"
       ]
