@@ -26452,20 +26452,20 @@
       "source_page": 46,
       "original_number": "12",
       "category": "待核對原始章節",
-      "question": "原事業單位勞工與承攬人勞工共同作業時，下列何者錯誤？",
+      "question": "依《職業安全衛生法》第27條，原事業單位與承攬人共同作業時，下列敘述何者錯誤？",
       "options": [
-        "提供機械、設備及器具供承攬人使用，並實施定期檢查",
-        "指定自己的勞工為工作場所負責人",
-        "指定承攬人勞工為工作場所負責人",
-        "協助承攬人辦理教育訓練。"
+        "原事業單位應設置協議組織",
+        "原事業單位應指定工作場所負責人",
+        "原事業單位可因承攬人已指派現場主管而免除指定工作場所負責人的義務",
+        "原事業單位應指導及協助相關承攬人辦理安全衛生教育訓練"
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "needs_review",
-      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "status": "verified",
+      "explanation": "正確答案為③。《職業安全衛生法》第27條規定，原事業單位參與共同作業時，應設協議組織、指定工作場所負責人，並協助相關承攬人的安全衛生教育訓練。原題涉及負責人身分與設備提供，修訂後直接考原事業單位是否可免除指定義務。已目視對照原PDF第46至47頁。",
+      "verified_at": "2026-11-17",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0060001&flno=27",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "原事業單位勞工與承攬人勞工共同作業時，下列何者錯誤？①提供\n機械、設備及器具供承攬人使用，並實施定期檢查 ②指定自己的\n\n勞工為工作場所負責人 ③指定承攬人勞工為工作場所負責人  ④\n協助承攬人辦理教育訓練。    \n"
     },
     {
@@ -30707,11 +30707,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "needs_review",
-      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "status": "verified",
+      "explanation": "正確答案為③。臺北市勞動檢查處《感電災害預防手冊》以電壓除以電阻說明電流大小。接觸電壓、人體及接觸路徑的電阻與絕緣性均有關，當時的情緒不是直接電路因素。已目視對照原PDF第88至89頁。",
+      "verified_at": "2026-11-17",
+      "source_url": "https://www-ws.gov.taipei/Download.ashx?icon=..pdf&n=5oSf6Zu754G95a6z6aCQ6Ziy5omL5YaKLnBkZg%3D%3D&u=LzAwMS9VcGxvYWQvNDUzL3JlbGZpbGUvMjIyOTgvNzkyNDM3My8yZjVjYTgxZS00MzUyLTQyNTEtOTM0YS1jMTBlY2FkZmZiZTAucGRm",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "發生感電時，流經人體的電流量與下列何者較無關？①與人體皮\n膚、衣著的電阻 ②與人所處位置的絕緣性 ③與人體當時的情緒狀\n\n況 ④與人體接觸的電壓值。 \n"
     },
     {
@@ -32062,20 +32062,20 @@
       "source_page": 48,
       "original_number": "27",
       "category": "待核對原始章節",
-      "question": "就安全衛生管理來說，下列何者敘述不正確？",
+      "question": "依《職業安全衛生法》第26條，事業單位以其事業交付承攬時，下列何者不正確？",
       "options": [
-        "經常性交付承攬之作業，於是先依據危害辨識資料及風險評估相關程序，辨識出潛在之危害及相關控制措施",
-        "對於運輸作業之承攬，儲蓄評估在本身廠（場）內之危害及風險外，也因評估運送至客戶期間交通上之危害及風險",
-        "臨時交付之承攬作業，在正式施工前亦應先完成危害辨識及風險評估",
-        "交付承攬後敘述承攬人責任，原事業單位事前不需對該項工作實施危害辨識"
+        "交付承攬前應實施風險評估",
+        "應向承攬人告知相關危害因素與必要防護措施的評估結果",
+        "承攬期間應使承攬人依評估結果確實執行",
+        "將工作交付承攬即可免除事前風險評估義務"
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "needs_review",
-      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "status": "verified",
+      "explanation": "正確答案為④。《職業安全衛生法》第26條要求交付承攬前完成風險評估並告知結果。原題臨時承攬選項只提施工前，容易混淆時點，已依現行條文修訂。已目視對照原PDF第48至49頁。",
+      "verified_at": "2026-11-17",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0060001&flno=26",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "就安全衛生管理來說，下列何者敘述不正確？①經常性交付承攬\n之作業，於是先依據危害辨識資料及風險評估相關程序，辨識出潛\n在之危害及相關控制措施 ②對於運輸作業之承攬，儲蓄評估在本\n身廠（場）內之危害及風險外，也因評估運送至客戶期間交通上之\n\n危害及風險 ③臨時交付之承攬作業，在正式施工前亦應先完成危\n害辨識及風險評估 ④交付承攬後敘述承攬人責任，原事業單位事\n前不需對該項工作實施危害辨識 \n"
     },
     {
@@ -37571,11 +37571,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "needs_review",
-      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "status": "verified",
+      "explanation": "正確答案為④。《勞工健康保護規則》第9條第1項第6款將工作相關疾病預防及健康促進措施列為勞工健康服務事項。在所列選項中，預防接種最直接屬疾病預防服務。已目視對照原PDF第114至115頁。",
+      "verified_at": "2026-11-17",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0060022&flno=9",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "在建立健康工作環境時，下列何者較屬健康服務層面？①團隊互助 \n\n②工作姿勢 ③領導風格 ④預防注射 \n"
     },
     {
@@ -44781,17 +44781,17 @@
       "question": "依職業安全衛生設施規則規定，雇主使勞工以捲揚機等吊運物料時，下列敘述何者不正確？",
       "options": [
         "禁止人員進入吊掛物下方",
-        "應設有防止過捲裝置",
+        "應設防止過捲裝置，設置有困難時得以標示代替",
         "安裝前應確認設計資料及強度計算書",
-        "可供人員搭乘、吊升或降落"
+        "一般吊運作業中可供人員搭乘、吊升或降落"
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "needs_review",
-      "explanation": "2026-11-15：已目視對照原PDF第77至78頁。原PDF標答④。設施規則第155條之1原則上禁止載人，但有附條件的例外。②「應設有防止過捲裝置」亦須確認其法源及適用設備，才能判定唯一答案。 查核來源：https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0060009&flno=155-1",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "status": "verified",
+      "explanation": "正確答案為④。《職業安全衛生設施規則》第155條之1第3款以不得載人為原則，僅在臨時或緊急處理且採足夠防墜與專人監督等措施時例外。②依第9款補入設置有困難時得以標示代替的條件。已目視對照原PDF第77至78頁。",
+      "verified_at": "2026-11-17",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0060009&flno=155-1",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生設施規則規定，雇主使勞工以捲揚機等吊運物料\n\n時，下列敘述何者不正確？①禁止人員進入吊掛物下方 ②應設有\n防止過捲裝置 ③安裝前應確認設計資料及強度計算書 ④可供人\n員搭乘、吊升或降落 \n"
     },
     {
@@ -51717,11 +51717,11 @@
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "needs_review",
-      "explanation": "已依原始 PDF 跨頁文字補回題目及選項；仍需逐題核對斷行、附註、原始答案及現行法規，不代表答案正確。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "pagebreak_reconstructed_needs_review",
+      "status": "verified",
+      "explanation": "正確答案為②。司法院公開的〈最高法院邀林聯章執行長談溝通與表達〉說明，設身處地、感同身受地與對方對話是同理心的運用。已目視對照原PDF第36至37頁。",
+      "verified_at": "2026-11-17",
+      "source_url": "https://www.judicial.gov.tw/tw/cp-1429-66633-1c272-1.html",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "人性化管理組織注重隨時設身處地站在對方立場思考問題，而不是     \n       嚴守本身立場，所以大家容易溝通，此種為下列何種溝通方式? ① \n\n      威權式 ②同理心 ③指揮式 ④高壓式 \n"
     },
     {
