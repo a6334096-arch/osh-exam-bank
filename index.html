@@ -3,10 +3,12 @@
 <label>核對狀態 <select id="statusFilter">
 <option value="all">全部狀態</option><option value="verified">已核對</option><option value="unverified">待核對</option><option value="needs_review">跨頁重建／有疑義</option>
 </select></label>
+<label id="practiceRangeLabel">作答題目區間 <select id="practiceRange" disabled><option value="all">全部符合條件的題目</option></select></label>
 </div><p class="notice"><strong>注意：</strong>未核對題目僅供練習，所顯示的答案為舊 PDF 原始答案，可能不符合現行法規；正式備考請優先採用已核對題目。</p></div><div id="content"></div></main><script src="./topics.js"></script><script>
 let questions=[],mode='practice',index=0,selected=null,submitted=false;
 const el=id=>document.getElementById(id),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const labels=['①','②','③','④'];
+const questionsPerRange=25;
 function filtered(){
   const term=el('search').value.trim().toLowerCase();
   const status=el('statusFilter').value;
@@ -17,6 +19,19 @@ function filtered(){
     (!term||(q.question||'').toLowerCase().includes(term)||q.options.some(x=>String(x).toLowerCase().includes(term))));
 }
 
+function updatePracticeRanges(){
+  const range=el('practiceRange');
+  const count=filtered().length;
+  range.replaceChildren(new Option('全部符合條件的題目','all'));
+  for(let start=0;start<count;start+=questionsPerRange){
+    const end=Math.min(start+questionsPerRange,count);
+    const label=end===start+1?'第 '+end+' 題':'第 '+(start+1)+'–'+end+' 題';
+    range.add(new Option(label,String(start)));
+  }
+  range.disabled=count===0;
+  range.value=count?'0':'all';
+}
+
 function populateTopics(){
   const counts=new Map();
   for(const {topic} of questions) counts.set(topic,(counts.get(topic)||0)+1);
@@ -25,7 +40,20 @@ function populateTopics(){
   }
 }
 function explanation(q){return '<div class="result '+(mode==='practice'&&selected!==q.answer?'wrong':'')+'"><strong>'+(q.status==='verified'?'已核對答案：':'原始 PDF 參考答案（未核對）：')+(q.answer===null?'尚待核對':labels[q.answer]+' '+esc(q.options[q.answer]))+'</strong>'+(q.status==='needs_review'?'<p><strong>跨頁重建題：題幹或選項可能有擷取錯誤，請對照原始 PDF。</strong></p>':'')+'<p>'+esc(q.explanation||'本題尚無經核對的解析，請勿將舊題庫答案視為現行法規正解。')+'</p><small>核對狀態：'+(q.status==='verified'?'已核對':q.status==='needs_review'?'有疑義':'待核對')+'　核對日期：'+esc(q.verified_at||'未核對')+'</small>'+(q.source_url?'<p><a target="_blank" rel="noopener" href="'+esc(q.source_url)+'">查看法規來源</a></p>':'')+'</div>'}
-function render(){const a=filtered();el('stats').textContent='題目 '+a.length+' 題／全部 '+questions.length+' 題；已核對 '+questions.filter(q=>q.status==='verified').length+' 題；未核對答案僅供參考';el('practiceTab').classList.toggle('active',mode==='practice');el('reviewTab').classList.toggle('active',mode==='review');if(!a.length){el('content').innerHTML='<div class="card notice"><strong>目前沒有符合條件的題目。</strong><p>請調整關鍵字、主題或核對狀態。</p></div>';return}index=Math.max(0,Math.min(index,a.length-1));const q=a[index];let out='<section class="card"><div class="muted">第 '+(index+1)+' / '+a.length+' 題　來源：'+esc(q.source_document||'未標示')+'</div><p class="muted question-topic">'+esc(q.topic)+'</p><h2>'+esc(q.question)+'</h2>';q.options.forEach((o,i)=>out+='<label class="option"><input type="radio" name="choice" value="'+i+'" '+(selected===i?'checked ':'')+(submitted||mode==='review'?'disabled':'')+'>'+labels[i]+' '+esc(o)+'</label>');if(mode==='review'||submitted)out+=explanation(q);out+='<div class="actions">';if(mode==='practice'&&!submitted)out+='<button class="primary" id="submit" '+(selected===null?'disabled':'')+'>確認答案</button>';out+='<button id="prev" '+(index===0?'disabled':'')+'>上一題</button><button id="next" '+(index===a.length-1?'disabled':'')+'>下一題</button></div></section>';el('content').innerHTML=out;document.querySelectorAll('input[name=choice]').forEach(r=>r.onchange=()=>{selected=Number(r.value);render()});const submit=el('submit');if(submit)submit.onclick=()=>{submitted=true;render()};el('prev').onclick=()=>{index--;selected=null;submitted=false;render()};el('next').onclick=()=>{index++;selected=null;submitted=false;render()}}
-function reset(){index=0;selected=null;submitted=false;render()}el('practiceTab').onclick=()=>{mode='practice';reset()};el('reviewTab').onclick=()=>{mode='review';reset()};el('search').oninput=reset;el('statusFilter').onchange=reset;el('topicFilter').onchange=reset;
-fetch('./data/questions.json').then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(d=>{questions=Array.isArray(d.questions)?d.questions.map(q=>({...q,topic:topicForQuestion(q)})):[];populateTopics();const pending=questions.filter(q=>q.status==='needs_review').length;el('statusFilter').querySelector('[value=needs_review]').textContent='跨頁重建／有疑義（'+pending+' 題）';render()}).catch(()=>{el('stats').textContent='題庫載入失敗';el('content').textContent='請稍後重新整理頁面。'});
+function render(){const matches=filtered();
+const range=el('practiceRange').value;
+const limited=mode==='practice'&&range!=='all'&&range!=='';
+const offset=limited?Number(range):0;
+const a=limited?matches.slice(offset,offset+questionsPerRange):matches;
+el('practiceRangeLabel').hidden=mode!=='practice';
+el('stats').textContent=(limited?'本區間 '+a.length+' 題／':'')+'符合條件 '+matches.length+' 題／全部 '+questions.length+' 題；已核對 '+questions.filter(q=>q.status==='verified').length+' 題；未核對答案僅供參考';el('practiceTab').classList.toggle('active',mode==='practice');el('reviewTab').classList.toggle('active',mode==='review');if(!a.length){el('content').innerHTML='<div class="card notice"><strong>目前沒有符合條件的題目。</strong><p>請調整關鍵字、主題或核對狀態。</p></div>';return}index=Math.max(0,Math.min(index,a.length-1));const q=a[index];let out='<section class="card"><div class="muted">第 '+(offset+index+1)+' / '+matches.length+' 題　來源：'+esc(q.source_document||'未標示')+'</div><p class="muted question-topic">'+esc(q.topic)+'</p><h2>'+esc(q.question)+'</h2>';q.options.forEach((o,i)=>out+='<label class="option"><input type="radio" name="choice" value="'+i+'" '+(selected===i?'checked ':'')+(submitted||mode==='review'?'disabled':'')+'>'+labels[i]+' '+esc(o)+'</label>');if(mode==='review'||submitted)out+=explanation(q);out+='<div class="actions">';if(mode==='practice'&&!submitted)out+='<button class="primary" id="submit" '+(selected===null?'disabled':'')+'>確認答案</button>';out+='<button id="prev" '+(index===0?'disabled':'')+'>上一題</button><button id="next" '+(index===a.length-1?'disabled':'')+'>下一題</button></div></section>';el('content').innerHTML=out;document.querySelectorAll('input[name=choice]').forEach(r=>r.onchange=()=>{selected=Number(r.value);render()});const submit=el('submit');if(submit)submit.onclick=()=>{submitted=true;render()};el('prev').onclick=()=>{index--;selected=null;submitted=false;render()};el('next').onclick=()=>{index++;selected=null;submitted=false;render()}}
+function reset(){index=0;selected=null;submitted=false;render()}el('practiceTab').onclick=()=>{mode='practice';reset()};el('reviewTab').onclick=()=>{mode='review';reset()};function resetFilters(){
+  updatePracticeRanges();
+  reset();
+}
+el('search').oninput=resetFilters;
+el('statusFilter').onchange=resetFilters;
+el('topicFilter').onchange=resetFilters;
+el('practiceRange').onchange=reset;
+fetch('./data/questions.json').then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(d=>{questions=Array.isArray(d.questions)?d.questions.map(q=>({...q,topic:topicForQuestion(q)})):[];populateTopics();const pending=questions.filter(q=>q.status==='needs_review').length;el('statusFilter').querySelector('[value=needs_review]').textContent='跨頁重建／有疑義（'+pending+' 題）';resetFilters()}).catch(()=>{el('stats').textContent='題庫載入失敗';el('content').textContent='請稍後重新整理頁面。'});
 </script></body></html>
