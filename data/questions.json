@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-18",
+  "updated_at": "2026-11-19",
   "questions": [
     {
       "id": "1000-0001",
@@ -8,7 +8,7 @@
       "source_page": 1,
       "original_number": "1",
       "category": "待核對原始章節",
-      "question": "依職業安全衛生管理辦法規定，職業安全衛生委員會應置委員幾人 以上？",
+      "question": "依職業安全衛生管理辦法規定，職業安全衛生委員會應置委員幾人以上？",
       "options": [
         "4",
         "5",
@@ -17,11 +17,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為④（7人）。依《職業安全衛生管理辦法》第11條，職業安全衛生委員會置委員七人以上。已於2026-11-19目視核對原始 PDF 第1頁的題幹、四個選項及答案標記④，並修正題幹斷行產生的多餘空格。",
+      "verified_at": "2026-11-19",
+      "source_url": "https://laws.mol.gov.tw/FLAW/FLAWDOC01.aspx?flno=11&id=FL015039",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生管理辦法規定，職業安全衛生委員會應置委員幾人\n以上？\n①4\n②5\n③6\n④7"
     },
     {
@@ -74,7 +74,7 @@
       "source_page": 1,
       "original_number": "4",
       "category": "待核對原始章節",
-      "question": "雇主使勞工從事局限空間作業有危害之虞者，應訂定危害防止計 畫。下列何者非局限空間可能之主要危害類型？",
+      "question": "雇主使勞工從事局限空間作業有危害之虞者，應訂定危害防止計畫。下列何者非局限空間可能之主要危害類型？",
       "options": [
         "缺氧",
         "中毒",
@@ -83,11 +83,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為③（被撞）。依《職業安全衛生設施規則》第29條之1，局限空間作業應確認的危害包括缺氧、中毒、感電、塌陷、被夾、被捲及火災、爆炸，條文未列「被撞」，故③為題目所問的非主要危害類型。已於2026-11-19目視核對原始 PDF 第1頁的題幹、四個選項及答案標記③，並修正題幹斷行產生的多餘空格。",
+      "verified_at": "2026-11-19",
+      "source_url": "https://laws.mol.gov.tw/FLAW/FLAWDOC01.aspx?flno=29-1&id=FL015021",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "雇主使勞工從事局限空間作業有危害之虞者，應訂定危害防止計\n畫。下列何者非局限空間可能之主要危害類型？\n①缺氧\n②中毒\n③被撞\n④感電"
     },
     {
@@ -105,11 +105,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為③（紅外線）。《職業安全衛生設施規則》第298條將紅外線列為非游離輻射；相較之下，X射線、中子射線及β粒子均屬游離輻射，因此③符合題意。已於2026-11-19目視核對原始 PDF 第1頁的題幹、四個選項及答案標記③。",
+      "verified_at": "2026-11-19",
+      "source_url": "https://laws.mol.gov.tw/FLAW/FLAWDOC01.aspx?flno=298&id=FL015021",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "下列何者非屬游離輻射？\n①X射線\n②中子射線\n③紅外線\n④β 粒子"
     },
     {
@@ -228,7 +228,7 @@
       "source_page": 1,
       "original_number": "11",
       "category": "待核對原始章節",
-      "question": "依職業安全衛生法施行細則規定，下列何者係指工作場所中，為特 定之工作目的所設之場所？",
+      "question": "依職業安全衛生法施行細則規定，下列何者係指工作場所中，為特定之工作目的所設之場所？",
       "options": [
         "就業場所",
         "作業場所",
@@ -237,11 +237,11 @@
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為②（作業場所）。依《職業安全衛生法施行細則》第5條第3項，作業場所指工作場所中從事特定工作目的之場所。已於2026-11-19目視核對原始 PDF 第1頁的題幹、四個選項及答案標記②，並修正題幹斷行產生的多餘空格。",
+      "verified_at": "2026-11-19",
+      "source_url": "https://laws.mol.gov.tw/FLAW/FLAWDOC01.aspx?flno=5&id=FL015014",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生法施行細則規定，下列何者係指工作場所中，為特\n定之工作目的所設之場所？\n①就業場所\n②作業場所\n③公共場所\n④施工場所"
     },
     {
@@ -250,7 +250,7 @@
       "source_page": 1,
       "original_number": "12",
       "category": "待核對原始章節",
-      "question": "依職業安全衛生設施規則規定，對於勞工日時量平均音壓級超過多 少分貝之噪音作業場所，應使勞工戴用有效之耳塞或耳罩？",
+      "question": "依職業安全衛生設施規則規定，對於勞工日時量平均音壓級超過多少分貝之噪音作業場所，應使勞工戴用有效之耳塞或耳罩？",
       "options": [
         "70",
         "75",
@@ -259,11 +259,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為④（85分貝）。依《職業安全衛生設施規則》第300條第1款，勞工八小時日時量平均音壓級超過85分貝或暴露劑量超過50%時，雇主應使勞工戴用有效耳塞、耳罩等防音防護具。已於2026-11-19目視核對原始 PDF 第1頁的題幹、四個選項及答案標記④，並修正題幹斷行產生的多餘空格。",
+      "verified_at": "2026-11-19",
+      "source_url": "https://laws.mol.gov.tw/FLAW/FLAWDOC01.aspx?flno=300&id=FL015021",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生設施規則規定，對於勞工日時量平均音壓級超過多\n少分貝之噪音作業場所，應使勞工戴用有效之耳塞或耳罩？\n①70\n②75\n③80\n④85"
     },
     {
