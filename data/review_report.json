@@ -1,18 +1,17 @@
 {
-  "generated_at": "2026-11-18",
+  "generated_at": "2026-11-19",
   "expected": 2465,
   "imported": 2489,
-  "verified": 68,
+  "verified": 73,
   "needs_review": 4,
-  "unverified": 2417,
+  "unverified": 2412,
   "remaining_import": 0,
   "review_queue": [
     {
       "id": "1000-0001",
       "source_page": 1,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -26,22 +25,6 @@
     },
     {
       "id": "1000-0003",
-      "source_page": 1,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0004",
-      "source_page": 1,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0005",
       "source_page": 1,
       "status": "unverified",
       "reasons": [
@@ -84,18 +67,9 @@
     {
       "id": "1000-0011",
       "source_page": 1,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
-      ]
-    },
-    {
-      "id": "1000-0012",
-      "source_page": 1,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
       ]
     },
     {
