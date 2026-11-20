@@ -875,11 +875,11 @@
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為②（作業場所）。勞動部法令查詢系統所列《職業安全衛生法施行細則》第5條第3項，將作業場所定義為工作場所中從事特定工作目的之場所。已於2026-11-20目視核對原始 PDF 第2頁的題幹、四個選項及原始答案標記②。",
+      "verified_at": "2026-11-20",
+      "source_url": "https://laws.mol.gov.tw/FLAW/FLAWDOC04.aspx?id=FL015014&ldate=19910916&lno=3",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生法施行細則規定，下列何者場所係指工作場所中，\n為特定之工作目的所設之場所？\n①就業場所\n②作業場所\n③公共場所\n④施工場所"
     },
     {
