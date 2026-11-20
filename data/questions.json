@@ -831,11 +831,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為①愈高。最小著火能量是引發可燃混合物著火所需的最低能量；在相應試驗條件下，門檻越低，越容易被較弱的火花引燃。依勞動部《膠帶業火災爆炸危害預防探討！》首段，有機溶劑具最小點火能量低等特性，蒸氣達爆炸範圍遇火源即有爆炸危險；新竹科學園區管理局《火災爆炸預防課程簡報資料》「最小著火能量」段亦以引燃蒸氣、氣體或粉塵所需最低能量定義。本題為危害特性概念，非以法條數值推定。已於2026-11-21目視核對原始《(僅供參考)參考試題1000題.pdf》第2頁第38題題幹、四個選項及原始答案①，與資料一致。",
+      "verified_at": "2026-11-21",
+      "source_url": "https://www.mol.gov.tw/1607/1632/1640/61338/post",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "物質的最小著火能量越低，其引火之容易度為下列何者？\n①愈高\n②愈低\n③無關\n④不一定"
     },
     {
