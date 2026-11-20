@@ -347,11 +347,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為③「可快速佩帶耳塞，不會掉落即可」（錯誤敘述）。依勞動部《耳塞有戴有保庇?您真的使用對了嗎?》第一式「正確佩戴」第1至4步，泡材型耳塞須先揉捏成細長條、向外向上拉直耳道、插入後以手指抵住，待膨脹密合才放開；僅確認不掉落不足以確保遮音效果。①②④符合泡材型耳塞佩戴步驟。本題依官方操作指引核對，非以特定法條推定。已於2026-11-20目視核對《(僅供參考)參考試題1000題.pdf》第1頁第16題題幹、四個選項及原始答案標記③，與資料一致。",
+      "verified_at": "2026-11-20",
+      "source_url": "https://www.mol.gov.tw/1607/1632/1640/19710/post",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "下列耳塞佩戴方法的敘述何者錯誤？\n①利用食指與拇指搓揉\n壓縮耳塞至適合個人\n耳道大小\n②穿戴右耳時，藉由\n左手由腦後繞至右\n耳位置，將右耳往\n上拉提拉直右耳耳\n道，再將右手所持\n耳塞慢慢置入耳道\n內適當位置\n③可快速佩帶耳塞，\n不會掉落即可\n④調整與固定耳塞位\n置，並等待耳塞膨\n脹至與耳道密合"
     },
     {
