@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-19",
+  "updated_at": "2026-11-20",
   "questions": [
     {
       "id": "1000-0001",
@@ -171,11 +171,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為①（儘快有效降溫）。依疾病管制署〈高溫與酷寒〉「中暑」段落，出現中暑症狀時應立即協助降低體溫。健保署〈熱衰竭與中暑〉並提醒應立即撥打119求救及送醫。四個選項中以立即有效降溫最符合急救處置，現場應同時安排緊急醫療協助。已於2026-11-20目視核對原始 PDF 第1頁的題幹、四個選項及原始答案標記①。",
+      "verified_at": "2026-11-20",
+      "source_url": "https://www.cdc.gov.tw/Category/ListContent/wL-8Abm9o5_5l4gSOR8M5g?uaid=_VBRPRbLJSqI9J9_wSjD2w",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "對於發生中暑之勞工最優先的急救方法為下列何者？\n①儘快有效降溫\n②原地休息\n③等待就醫\n④減輕工作"
     },
     {
@@ -303,11 +303,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為①（沖、脫、泡、蓋、送）。依衛生福利部國民健康署燒燙傷預防宣導之急救原則，口訣為沖、脫、泡、蓋、送。已於2026-11-20目視核對原始 PDF 第1頁的題幹、四個選項及原始答案標記①。",
+      "verified_at": "2026-11-20",
+      "source_url": "https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=5020&pid=20457",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "下列何者為燒傷急救之口訣？\n①沖脫泡蓋送\n②叫叫壓\n③拉拉壓\n④快狠準"
     },
     {
@@ -369,11 +369,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為③（3年）。依《職業安全衛生管理辦法》第12條之6，應變計畫執行紀錄應保存三年。已於2026-11-20目視核對原始 PDF 第1頁的題幹、四個選項及原始答案標記③。",
+      "verified_at": "2026-11-20",
+      "source_url": "https://laws.mol.gov.tw/FLAW/PrintFLAWDOC01.aspx?flno=12-6&id=FL015039",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生管理辦法規定，事業單位應依其潛在風險，訂定緊\n急狀況預防、準備及應變之計畫，並定期實施演練。其執行紀錄，\n應至少保存多少年？\n①1\n②2\n③3\n④5"
     },
     {
@@ -391,11 +391,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為③（90分貝）。依《職業安全衛生設施規則》第300條第4款，噪音超過九十分貝之工作場所，應標示並公告噪音危害之預防事項，使勞工周知。已於2026-11-20目視核對原始 PDF 第1頁的題幹、四個選項及原始答案標記③。",
+      "verified_at": "2026-11-20",
+      "source_url": "https://laws.mol.gov.tw/FLAW/PrintFLAWDOC01.aspx?flno=300&id=FL015021",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生設施規則之規定，工作場所噪音超過多少分貝時，\n應標示並公告噪音危害之預防事項，使勞工周知？\n①80\n②85\n③90\n④100"
     },
     {
