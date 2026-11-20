@@ -589,11 +589,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為④（勞工代表）。依《職業安全衛生法》第34條第1項，雇主應會同勞工代表訂定適合其需要之安全衛生工作守則，報經勞動檢查機構備查後公告實施。已於2026-11-20目視核對原始 PDF 第2頁的題幹、四個選項及原始答案標記④。",
+      "verified_at": "2026-11-20",
+      "source_url": "https://laws.mol.gov.tw/FLAW/FLAWDOC01.aspx?flno=34&id=FL015013",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生法規定，雇主應會同下列何者訂定適合其需要之安\n全衛生工作守則，報經檢查機構備查後，公告實施？\n①承攬商\n②安全衛生顧問公司③醫療機構\n④勞工代表"
     },
     {
