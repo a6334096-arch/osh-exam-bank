@@ -61,11 +61,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為④水蒸汽爆炸。勞動及職業安全衛生研究所《預防熔融高熱物相關作業與水接觸引起水蒸汽爆炸》本文首段指出，熔融鋁等高熱物接觸積水或含水金屬碎片時，水瞬間汽化並在局限空間急速膨脹，可能造成爆炸及高熱物噴散。本題所列選項中，④為熔解爐的典型重大危害；並非表示其他危害一律不存在。已於2026-11-21目視核對《(僅供參考)參考試題1000題.pdf》第1頁第3題題幹、四個選項及原始答案④，與資料一致。",
+      "verified_at": "2026-11-21",
+      "source_url": "https://www.ilosh.gov.tw/90734/90811/136446/90775/137940/post",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "鋁錠熔解爐風險較高之危害為下列何者？\n①被夾、被捲\n②缺氧\n③感電\n④水蒸汽爆炸"
     },
     {
