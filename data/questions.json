@@ -809,11 +809,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為④極精細儀器之組合。依職業安全衛生設施規則第313條第6款照度表，室外走道20米燭光以上；倉庫依儲藏物精細程度為50或100米燭光以上；一般辦公場所300米燭光以上；須極精辨物體而對襯不良的極精細儀器組合，為1000米燭光以上並採局部照明。因此四選項中④需要較高照度。已於2026-11-21目視核對原始《(僅供參考)參考試題1000題.pdf》第2頁第37題題幹、四個選項與原始答案標記④，與資料一致。",
+      "verified_at": "2026-11-21",
+      "source_url": "https://laws.mol.gov.tw/flaw/FLAWDOC01.aspx?flno=313&id=FL015021",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "下列何種場所或作業，需具備較佳之照明？\n①室外走道\n②倉庫\n③一般辦公場所\n④極精細儀器之組合"
     },
     {
