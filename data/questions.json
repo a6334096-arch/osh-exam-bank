@@ -457,11 +457,11 @@
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為②應予維修完成確認安全後再使用。職業安全衛生設施規則第327條規定不得任意拆卸安全衛生設備或使其失效，發現喪失效能須報告雇主或主管；第57條規定有危害之虞的機械檢修須停機並採上鎖或標示等措施。國科會中部科學園區管理局《職業安全衛生工作守則》第6條第2、4款亦明定防護設施損毀應報告修復，危及安全的異常應停止使用送修。因此減少頻率、帶故障繼續使用及自行跳接均不適當。已於2026-11-21目視核對原PDF第1頁第21題題幹、四選項及原始答案②，與資料一致。",
+      "verified_at": "2026-11-21",
+      "source_url": "https://laws.mol.gov.tw/FLAW/PrintFLAWDOC01.aspx?flno=327&id=FL015021",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "機械操作時若發生安全裝置失效或損壞，應如何處置？\n①減少使用頻率\n②應予維修完成確認\n安全後再使用\n③小心繼續使用，待\n修好後再恢復正常\n操作\n④自行修改安全迴路\n，將線路跳過失效\n裝置後，才可使用"
     },
     {
