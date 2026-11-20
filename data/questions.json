@@ -149,11 +149,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為③（C類）。依彰化縣消防局《認識火災》第一節「火災之分類」，涉及通電中電氣設備所引起的火災屬C類電氣火災，題中電腦機房電氣設備符合此分類。已於2026-11-20目視核對原始 PDF 第1頁的題幹、四個選項及原始答案標記③。",
+      "verified_at": "2026-11-20",
+      "source_url": "https://www.chfd.gov.tw/df_ufiles/e/%E8%AA%8D%E8%AD%98%E7%81%AB%E7%81%BD.pdf",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "電腦機房之電氣設備所引起之火災種類為下列何者？\n①A類\n②B類\n③C類\n④D類"
     },
     {
