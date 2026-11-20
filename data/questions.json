@@ -39,11 +39,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為④「被撞」（本題問較不易發生）。已核對原始《(僅供參考)參考試題1000題.pdf》第1頁第2題，題幹、四選項及答案標記(4)一致。依《職業安全衛生設施規則》第29-1條，局限空間需辨識缺氧、被夾、被捲等危害；官方《局限空間作業安全指引》亦明列攪拌槽可能發生墜落、捲夾及感電。故①②③均屬此類作業已知風險，相較之下④為本題較不易發生者。此為題目相對比較，並非表示攪拌槽絕無被撞風險。核對日期2026-11-20。",
+      "verified_at": "2026-11-20",
+      "source_url": "https://laws.mol.gov.tw/FLAW/FLAWDOC01.aspx?flno=29-1&id=FL015021",
+      "extraction_status": "source_text_and_official_guidance_verified",
       "raw_extracted_text": "進入大型攪拌槽內部清理結塊時，較不易發生下列何種危害？\n①被夾、被捲\n②墜落\n③缺氧\n④被撞"
     },
     {
