@@ -567,11 +567,11 @@
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為②蒸氣。國家衛生研究院國家環境毒物研究中心《氯仿》第一節「什麼是氯仿」說明其為液體，第二節「氯仿進入環境中如何變化」說明其會迅速蒸發進入空氣。液體揮發所形成者屬蒸氣；氣膠為懸浮微粒，電磁波不是此物質的揮發形態。本題依官方物質特性資料核對，非引用法定濃度作為形態判斷。已於2026-11-20目視核對原始《(僅供參考)參考試題1000題.pdf》第2頁第26題題幹、四個選項與原始答案標記②，與資料一致。",
+      "verified_at": "2026-11-20",
+      "source_url": "https://nehrc.nhri.edu.tw/2023/05/25/%E6%B0%AF%E4%BB%BF/",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "氯仿會產生下列何類形態污染物？\n①氣膠\n②蒸氣\n③氣體\n④電磁波"
     },
     {
