@@ -936,16 +936,16 @@
       "options": [
         "碳酸氫鈉、碳酸氫鉀",
         "二氧化碳",
-        "隋性氣體",
+        "惰性氣體",
         "鹵化烷"
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正解①（就題列選項而言）：碳酸氫鈉、碳酸氫鉀。各類場所消防安全設備設置標準第99條第1款表列第一、二種乾粉主成分分別為碳酸氫鈉與碳酸氫鉀；第三種為磷酸二氫銨、第四種為碳酸氫鉀及尿素化合物。因此不可將①解讀成所有乾粉滅火器均為同一配方；ABC乾粉另有磷酸二氫銨配方。二氧化碳、惰性氣體、鹵化烷並非本題乾粉配方。2026-11-22 已目視對照「(僅供參考)參考試題1000題.pdf」第3頁第43題題幹、四選項與原始答案①，並將匯入誤字「隋性氣體」修正為原PDF「惰性氣體」。官方法規依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0120029 （第99條）。",
+      "verified_at": "2026-11-22",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0120029",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "常用乾粉滅火器的主要成分為下列何者？\n①碳酸氫鈉、碳酸氫鉀②二氧化碳\n③隋性氣體\n④鹵化烷"
     },
     {
