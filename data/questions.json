@@ -919,11 +919,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正解③：600伏特。本題依職業安全衛生法規的電壓分類作答；職業安全衛生設施規則第3條將低壓界定為600伏特以下，高壓為超過600伏特至22,800伏特，因此分界為600伏特。220、380及1,000均非本規則的分界數值。2026-11-21 已目視對照原始 PDF「(僅供參考)參考試題1000題.pdf」第3頁第42題，題幹、四個選項及原始答案③一致。核對當日已生效條文；115年6月30日修正之延後施行條文不包含第3條。官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060009",
+      "verified_at": "2026-11-21",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060009",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "一般所謂交流高電壓與低電壓是以多少伏特的電壓為分界點？\n①220\n②380\n③600\n④1000"
     },
     {
@@ -1073,11 +1073,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正解①：不得以合梯作為上下施工架工作面的設備。職業安全衛生設施規則第230條第2項禁止以合梯當作兩工作面的上下設備，第228條要求高差超過1.5公尺時設安全上下設備。營造安全衛生設施標準第59條第1項第3款要求作業時固定移動式施工架腳部，且人在架上作業時不得移動，故②③正確。高速公路局刊載《營造施工安全標準作業程序》「移動式施工架使用注意事項」第2、7點分別要求工作平台四周設上、中欄杆及腳趾板，並設安全上下階梯，支持④並排除①。2026-11-21 已目視對照原始 PDF「(僅供參考)參考試題1000題.pdf」第3頁第49題，題幹、四個選項及原始答案①一致。引用條文於核對日已生效。官方法規：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060009 ；https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060014 。官方指引：https://www.freeway.gov.tw/UserFiles/file/第二新建工程處/職業安全衛生專區/職安教育訓練講義、資料/OSHA4-營造施工安全標準作業程序-1.pdf",
+      "verified_at": "2026-11-21",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060009",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "使用移動式施工架作業，下列敘述何者有誤？\n①作業人員上下應使用\n合梯\n②施工架上有人員施\n工時，應固定腳輪\n避免滑動\n③移動施工架時，應\n要求作業人員離開\n施工架\n④頂層須設置護欄"
     },
     {
