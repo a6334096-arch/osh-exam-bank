@@ -1117,11 +1117,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正解④：被夾、被捲。齒輪與齒條嚙合傳動的接觸部位可將人體或衣物帶入夾捲點，故本題傳動部位的主要機械危害為④。勞動部《機械切割夾捲災害多，安全防護不可少》首段說明動力機械捲入危害並要求齒輪等設護罩、護圍；核對日已生效之職業安全衛生設施規則第43條亦要求危險齒輪等傳動部位設防護設備。其他傷害可能併存，並非本題嚙合傳動的主要對應危害。2026-11-22 已目視對照「(僅供參考)參考試題1000題.pdf」第3頁第51題題幹、四選項及原始答案④，均一致。官方來源：https://www.mol.gov.tw/1607/1632/1640/11079/?cprint=pt ；https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060009",
+      "verified_at": "2026-11-22",
+      "source_url": "https://www.mol.gov.tw/1607/1632/1640/11079/?cprint=pt",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "齒輪與齒條之傳動裝置，較易造成下列何種危害？\n①擦傷\n②感電\n③割傷\n④被夾、被捲"
     },
     {
