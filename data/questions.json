@@ -1227,11 +1227,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正解④：被夾、被捲。職安署《勞工從事複捲機進行再生漿板接紙作業發生捲夾致死災害案》（核備文號1081060145）第1頁「二、災害類型」明列被夾、被捲；「五、災害發生經過」記錄接紙作業時遭運轉底轆與紙捲捲入，直接對應本題滾胴接紙的主要危害。其他傷害可能於不同作業情境發生，非此捲入點主要危害。此處依官方事故調查事實作答，不將案例引用之舊法條當成現行條文。2026-11-22 已目視對照「(僅供參考)參考試題1000題.pdf」第3頁第56題之題幹、四選項與原始答案④，均一致。官方案例：https://www.osha.gov.tw/media/phigqfeh/勞工從事複捲機進行再生漿板接紙作業發生捲夾致死災害案.pdf?mediaDL=true",
+      "verified_at": "2026-11-22",
+      "source_url": "https://www.osha.gov.tw/media/phigqfeh/勞工從事複捲機進行再生漿板接紙作業發生捲夾致死災害案.pdf?mediaDL=true",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "造紙廠於滾胴接紙作業時，較易發生下列何種危害？\n①被切\n②墜落\n③感電\n④被夾、被捲"
     },
     {
