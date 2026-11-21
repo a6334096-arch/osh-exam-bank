@@ -1249,11 +1249,11 @@
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為②8小時。依《職業安全衛生法》第37條第2項第2款，勞動場所發生罹災人數三人以上的職業災害，雇主須於8小時內通報勞動檢查機構。依施行細則第47條第1項，起算點為事業單位明知或可得而知已發生規定職災事實時；第48條第1項所計人數為同一災害造成永久全失能、永久部分失能及暫時全失能總人數達三人以上。其餘6、24、48小時均非本題通報期限。已於2026-11-21目視核對原始《(僅供參考)參考試題1000題.pdf》第3頁第57題題幹、四選項及原始答案②，與資料一致。",
+      "verified_at": "2026-11-21",
+      "source_url": "https://laws.mol.gov.tw/FLAW/PrintFLAWDOC01.aspx?flno=37&id=FL015013",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生法規定，事業單位發生罹災人數在3人以上之職業災\n害時，雇主應於多少小時內報告檢查機構？\n①6\n②8\n③24\n④48"
     },
     {
