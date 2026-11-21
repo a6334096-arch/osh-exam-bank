@@ -1051,11 +1051,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正解③：環境汙染預防。依核對日已生效之職業安全衛生法施行細則第41條，第1款為事業安全衛生管理及各級權責、第2款包含機械設備器具操作程序、維護及檢查、第3款為工作安全衛生標準，對應①②④；一般環境污染防治並非該條所列工作守則的獨立內容，因此題列答案為③。此不表示可忽略工作場所污染造成的勞工健康危害，或不能依實際需要增列相關安全衛生事項。原題採舊版用詞，現行第2款已增列操作規範與作業程序，但不影響答案。2026-11-22 已目視對照「(僅供參考)參考試題1000題.pdf」第3頁第48題題幹、四選項及原始答案③，均一致。官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060002 （第41條）。",
+      "verified_at": "2026-11-22",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060002",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生法施行細則規定，下列何者非屬安全衛生工作守則\n之內容？\n①事業之勞工安全衛生\n管理及各級之權責\n②設備之維護及檢查③環境汙染預防\n④工作安全及衛生標\n準"
     },
     {
