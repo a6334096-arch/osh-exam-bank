@@ -1271,11 +1271,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正解③：20,000 Hz（20 kHz）。臺中市政府環境保護局《噪音的來源與產生》首段說明人耳可聽頻率約20 Hz至20 kHz，故一般可聽上限約20,000 Hz；20 Hz是下限，200及2,000 Hz均在一般可聽範圍內，並非上限。此為一般聽覺的近似生理範圍，個人上限會隨年齡及聽力狀況變化，並非每個人皆能聽到20 kHz。2026-11-21 已目視對照「(僅供參考)參考試題1000題.pdf」第3頁第58題之題幹、四個選項及原始答案③，均一致。官方依據段落：首段。官方連結：https://www.epb.taichung.gov.tw/59328/post",
+      "verified_at": "2026-11-21",
+      "source_url": "https://www.epb.taichung.gov.tw/59328/post",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "人耳可聽見之聲音頻率上限大致為多少Hz？\n①200\n②2,000\n③20,000\n④20"
     },
     {
