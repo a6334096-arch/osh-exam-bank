@@ -1139,11 +1139,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正解③：中暑。勞動部2026-05-19《防範戶外熱危害 勞動部啟動高溫專案檢查及改善追蹤機制》首段明確指出戶外高溫作業可能發生熱中暑、熱衰竭等職業災害；相較其他選項，中暑直接對應題幹指定的高溫熱危害。其他危害仍可能因粉塵、噪音或作業姿勢等因素併存，並非本題高溫因素的對應答案。官方指引段落：首段及末段，要求遮陽、降溫、飲水、休息及熱適應。2026-11-21 已目視對照「(僅供參考)參考試題1000題.pdf」第3頁第52題之題幹、四選項與原始答案③，均一致。官方連結：https://www.mol.gov.tw/1607/1632/1633/90554/?cprint=pt",
+      "verified_at": "2026-11-21",
+      "source_url": "https://www.mol.gov.tw/1607/1632/1633/90554/?cprint=pt",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "勞工於室外高溫作業環境工作，可能對身體產生何種危害？\n①塵肺症\n②聽力損失\n③中暑\n④下背痛"
     },
     {
