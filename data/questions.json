@@ -1337,11 +1337,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正解③：緊急應變措施。職安署115年10月27日修正《緊急應變措施指引》第5頁「四、用語與定義（二）」將緊急應變定義為因應事業單位緊急狀況所立即採取的行動方案或措施；第1頁前言說明急救、搶救及緊急應變管理要求，第3頁簡介說明事故時的搶救、疏散、資訊與支援規劃。因此題幹事故當下提供資訊並採急救、救援、消防與疏散，屬③，而非變更管理、事故原因調查或稽核。採用核對日已公布的115年修正版官方指引，不沿用舊版名稱。2026-11-22 已目視對照「(僅供參考)參考試題1000題.pdf」第3頁第61題題幹、四選項與原始答案③，均一致。官方來源：https://www.osha.gov.tw/media/wahdi5zl/緊急應變指引.pdf",
+      "verified_at": "2026-11-22",
+      "source_url": "https://www.osha.gov.tw/media/wahdi5zl/緊急應變指引.pdf",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "在職業安全衛生管理系統之相關要項中，下列何者係針對事故發生\n時，能提供作業現場人員必要的資訊，並採取急救、醫療救援、消\n防及疏散等措施與步驟？\n①變更管理\n②災害調查與分析\n③緊急應變措施\n④稽核措施"
     },
     {
