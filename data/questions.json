@@ -1359,11 +1359,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為④開關之電氣火花。經濟部能源署《安全宣導資料》貳「瓦斯意外事故處理」一「漏氣了怎麼辦？」（三）說明，漏氣時不得操作電燈、抽風機或抽油煙機等電氣開關，以免電氣火花引燃瓦斯。消防署《發現瓦斯漏氣 要立刻開抽風機？還是拿電扇吹？》亦要求避免開啟電源產生火花。因此本題詢問「開啟」電器所帶來的主要火源，選④，其他選項非此操作的主要原因。本題依官方安全指引核對，非以法條推定。已於2026-11-21目視核對原始《(僅供參考)參考試題1000題.pdf》第3頁第62題題幹、四選項及原始答案④，與資料一致。",
+      "verified_at": "2026-11-21",
+      "source_url": "https://www.moeaea.gov.tw/ECW/populace/content/Content.aspx?menu_id=120",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "當家用天然氣洩漏時，不能開啟抽風機等電氣設備，主要避免下列\n何種火源引起火災？\n①靜電火花\n②高溫表面\n③抽風機扇葉之摩擦④開關之電氣火花"
     },
     {
