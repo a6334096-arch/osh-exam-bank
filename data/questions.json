@@ -1161,11 +1161,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正解①：A類。依內政部109年12月31日修正發布之《滅火器認可基準》壹、二（一）2，紙張等普通可燃性固體引起之火災屬A類；B類為油類，C類為通電電氣設備，D類為可燃性金屬等火災。2026-11-21 目視核對原始「(僅供參考)參考試題1000題.pdf」第3頁第53題之題幹、四個選項及原始答案①，均一致。核對日期：2026-11-21。官方依據：https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg026251/ch02/type2/gov10/num2/images/Eg01.pdf ；消防署發布說明：https://www.nfa.gov.tw/cht/index.php?article_id=9762&code=list&flag=detail&ids=1477",
+      "verified_at": "2026-11-21",
+      "source_url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg026251/ch02/type2/gov10/num2/images/Eg01.pdf",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "紙張所引起之火災種類為下列何者？\n①A類\n②B類\n③C類\n④D類"
     },
     {
