@@ -699,11 +699,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為③須同時評估本身廠（場）內及運送至客戶期間之交通。官方公開之TOSHMS指導文件，附錄一「承攬管理技術指引補充說明」二「危害辨識及風險評估」（三）明確要求運輸承攬同時評估廠場內及運送至客戶期間交通的危害風險，因此僅評估任一部分或不評估均不完整。此處依具體官方技術指引核對，非將一般承攬規定推定為運輸範圍。已於2026-11-21目視核對原始《(僅供參考)參考試題1000題.pdf》第2頁第32題題幹、四個選項及原始答案③，與資料一致。",
+      "verified_at": "2026-11-21",
+      "source_url": "https://www-ws.gov.taipei/Download.ashx?n=NjE3MTYyOTU1NzEucGRm&u=LzAwMS9VcGxvYWQvNDUzL3JlbGZpbGUvMjIyNzAvMzQ1MzAxOC82MTcxNjI5NTU3MS5wZGY%3D",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "對於運輸作業之承攬，危害及風險評估之範疇為下列何者？\n①只須評估本身廠(場)\n內\n②只須評估運送至客\n戶期間之交通\n③須同時評估本身廠\n(場)內及運送至客\n戶期間之交通\n④無須風險評估"
     },
     {
