@@ -963,11 +963,11 @@
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正解②：100人。依核對日已生效之職業安全衛生管理辦法第12條之1第3項，勞工人數在100人以上的事業單位須另訂職業安全衛生管理規章；30人是第2項管理計畫得以執行紀錄或文件替代的門檻，200、300均非本題門檻。2026-11-21 已目視核對「(僅供參考)參考試題1000題.pdf」第3頁第44題之題幹、四個選項與原始答案②。官方條文：https://laws.mol.gov.tw/FLAW/PrintFLAWDOC01.aspx?flno=12-1&id=FL015039 ；115年6月29日版本：https://laws.mol.gov.tw/flaw/FLAWDAT0201.aspx?id=FL015039&ldate=20260629",
+      "verified_at": "2026-11-21",
+      "source_url": "https://laws.mol.gov.tw/FLAW/PrintFLAWDOC01.aspx?flno=12-1&id=FL015039",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生管理辦法規定，事業單位勞工在多少人以上時，雇\n主應訂定職業安全衛生管理規章？\n①30\n②100\n③200\n④300"
     },
     {
