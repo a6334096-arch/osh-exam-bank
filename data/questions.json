@@ -1029,11 +1029,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正解③：特種金屬化學乾粉。國科會中部科學園區管理局《職業安全衛生工作守則》第37條第2款第4目明列鉀、鈉、鎂等可燃性金屬火災為D類，採特種金屬化學乾粉。此為官方機關工作守則的技術指引，並非對所有事業直接適用的通用法規。苗栗縣消防局火災分類宣導亦指出含鉀的D類火災須選用特定金屬滅火器；不能以普通ABC乾粉替代。題列泡沫、二氧化碳、一般惰性氣體均非該指引指定之藥劑。2026-11-22 已目視對照「(僅供參考)參考試題1000題.pdf」第3頁第47題題幹、四選項及原始答案③，均一致。官方依據：https://law.nstc.gov.tw/LawContent.aspx?id=GL000414 （第37條第2款第4目）；https://www.mlfd.gov.tw/News_Content.aspx?Create=1&n=8709&s=894663",
+      "verified_at": "2026-11-22",
+      "source_url": "https://law.nstc.gov.tw/LawContent.aspx?id=GL000414",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "金屬鉀所引起之火災適合用何種滅火劑？\n①泡沫\n②二氧化碳\n③特種金屬化學乾粉④惰性氣體"
     },
     {
