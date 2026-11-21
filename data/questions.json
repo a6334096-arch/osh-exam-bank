@@ -435,11 +435,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為④公司之業務概況資料。依《危險性工作場所審查及檢查辦法》附件四「緊急應變計畫」第一至四項，至少包含運作流程與組織、設備置備與外援聯繫、演練計畫與紀錄，以及計畫修正；①②③均為列明項目，④並非該附件列明的必要內容。此處「不包括」係指不在附件四最低必備項目內，並非禁止另附公司資料。題幹沿用舊名稱「審查暨檢查辦法」，現名為「審查及檢查辦法」。已於2026-11-21目視核對原始《(僅供參考)參考試題1000題.pdf》第1頁第20題題幹、四選項及原始答案④，與資料一致。",
+      "verified_at": "2026-11-21",
+      "source_url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg026134/ch08/type1/gov82/num27/images/Eg01.pdf",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "危險性工作場所審查暨檢查辦法中規定，事業單位在向檢查機構申\n請甲類、乙類或丙類工作場所審查或檢查時，緊急應變計畫為應檢\n附資料之一，其內容不包括下列何者？\n①緊急應變運作流程與\n組織\n②緊急應變設備之置\n備與外援單位之聯\n繫\n③緊急應變演練計畫\n與演練紀錄\n④公司之業務概況資\n料"
     },
     {
