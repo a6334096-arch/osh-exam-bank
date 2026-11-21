@@ -1205,11 +1205,11 @@
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為②吊籠。依《起重升降機具安全規則》第2條第6款，以懸吊式施工架、升降裝置、支撐裝置、工作台及附屬裝置構成、供人員升降施工者為吊籠；第4款升降機沿軌道鉛直升降且明文排除吊籠，第7款簡易提升機以搬運貨物為目的，第2款移動式起重機則能自行移動並具有起重動力。題幹沿用「專供勞工」舊用語，109年8月20日修正後為「專供人員」，不影響本題設備辨識。已於2026-11-21目視核對原始《(僅供參考)參考試題1000題.pdf》第3頁第55題題幹、四選項及原始答案②，與資料一致。",
+      "verified_at": "2026-11-21",
+      "source_url": "https://laws.mol.gov.tw/FLAW/PrintFLAWDOC01.aspx?flno=2&id=FL015025",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依起重升降機具安全規則規定，下列何者指由懸吊式施工架、升降\n裝置、支撐裝置、工作台及其附屬裝置所構成，專供勞工升降施工\n之設備？\n①升降機\n②吊籠\n③簡易提升機\n④移動式起重機"
     },
     {
