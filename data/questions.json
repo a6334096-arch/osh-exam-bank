@@ -1601,11 +1601,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案③隔離危險。安全護罩以實體屏障隔開人員與危險點；危險源本身仍存在，主要功能並非消除危險或發出預警。勞安所安全資料表《散裝貨物用輸送帶—設備》（SDS-E-029，總號0032）第3頁「危害」第2節「安全裝置之構造、作動、功用等原理」指出護圍或護罩的基本功用為將員工與危險點隔離。本題依官方安全指引核對，無另援引法規條號。已目視比對《(僅供參考)參考試題1000題.pdf》第4頁第73題題幹、四選項及原始答案③，與題庫一致。核對日期：2026-11-23。官方來源：https://www.ilosh.gov.tw/media/xc5ldxyb/f1402625627230.pdf",
+      "verified_at": "2026-11-23",
+      "source_url": "https://www.ilosh.gov.tw/media/xc5ldxyb/f1402625627230.pdf",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "在安全防護的原則中，安全護罩所提供的主要功能為下列何者？\n①消除危險\n②遠離危險\n③隔離危險\n④危險預警"
     },
     {
