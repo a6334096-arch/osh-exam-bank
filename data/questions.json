@@ -1095,10 +1095,10 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
+      "status": "needs_review",
+      "explanation": "2026-11-22 已目視對照「(僅供參考)參考試題1000題.pdf」第3頁第50題題幹、四選項與原始答案④，匯入內容一致。現行職業安全衛生法施行細則第36條明列事前告知得於交付承攬時提供書面或電子文件，或召開協商會議作成紀錄。原④使用「須」而僅列書面與會議，未涵蓋新增電子文件方式，依現行法直接判為完整正確存在版本疑義。保留原題與原始答案，不標記已驗證；待確認電子文件與本選項「書面」用語之解釋，或取得正式修訂題目後再處理。核對日期：2026-11-22。官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060002 （第36條）。",
       "verified_at": null,
-      "source_url": null,
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060002",
       "extraction_status": "parsed_unreviewed",
       "raw_extracted_text": "有關危害告知事項，下列何者正確？\n①可以口頭方式告知\n②承攬人就其承攬之\n全部或一部分交付\n再承攬時，承攬人\n無須告知再承攬人\n③得以承攬人勞工之\n安全承諾書替代危\n害告知\n④須以書面或召開協\n商會議並作成紀錄\n為之"
     },
