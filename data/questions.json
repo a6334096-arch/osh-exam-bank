@@ -1557,11 +1557,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案①（本題問不正確敘述）。依2026-11-22已生效之職業安全衛生設施規則第155-1條第3款，原則不得供人員搭乘、吊升或降落；僅臨時或緊急處理作業，採足以防止墜落且專人監督等安全措施者例外，不能概括允許搭乘。②、③、④分別對應第6、1、9款；第9款另允許設置防止過捲裝置有困難者以標示代替。已目視比對《(僅供參考)參考試題1000題.pdf》第4頁第71題題幹、四選項及原始答案標記①，內容一致。核對日期：2026-11-22。官方條文：https://laws.gov.taipei/law/LawSearch/LawChapterArticle/FL015021?chapterno=32",
+      "verified_at": "2026-11-22",
+      "source_url": "https://laws.gov.taipei/law/LawSearch/LawChapterArticle/FL015021?chapterno=32",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生設施規則規定，雇主使勞工以捲揚機等吊運物料時\n，下列敘述何者不正確？\n①可供人員搭乘、吊升\n或降落\n②禁止人員進入吊掛\n物下方\n③安裝前應確認設計\n資料及強度計算書\n④應設有防止過捲裝\n置"
     },
     {
