@@ -1513,11 +1513,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為④瓦特。電功率是電路每單位時間消耗的能量，單位為瓦特（W）；教育部《重編國語辭典修訂本》「電功率」詞條釋義段明列此單位。此題為物理單位知識，無須援引職安法規條號。已目視比對《(僅供參考)參考試題1000題.pdf》第4頁第69題之題幹、四個選項及原始答案標記（4），均與題庫一致；資料答案以零起算索引3表示④。核對日期：2026-11-22。官方依據：https://dict.revised.moe.edu.tw/dictView.jsp?ID=46555",
+      "verified_at": "2026-11-22",
+      "source_url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=46555",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "電功率之單位為下列何者？\n①伏特\n②安培\n③法拉\n④瓦特"
     },
     {
