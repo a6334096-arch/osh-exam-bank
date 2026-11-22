@@ -1623,11 +1623,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案①潛盾施工法之高壓室內作業。依異常氣壓危害預防標準第2條第1款，壓氣潛盾施工中在高於大氣壓的作業室或豎管內工作，屬高壓室內作業。職安署《異常氣壓（含潛水伕病）作業引起之職業疾病認定參考指引》第2頁「二、（二）高壓室內作業」及第3頁「三、（一）」說明高壓空氣工作者在減壓過程，溶入組織的惰性氣體形成氣泡，可造成減壓病；不是必須長期作業才會發病。②游離輻射、④低溫本身不是此氣壓變化機轉；③按一般水面浮潛理解，不等同吸入高壓氣體的潛水作業。已目視比對《(僅供參考)參考試題1000題.pdf》第4頁第74題題幹、四選項及原始答案①；原題病名用字保留，以解析說明減壓病機轉。核對日期：2026-11-23。法規：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060026；官方指引：https://www.osha.gov.tw/media/rpibtlmq/異常氣壓-含潛水伕病-作業引起之職業疾病認定參考指引.pdf?mediaDL=true",
+      "verified_at": "2026-11-23",
+      "source_url": "https://www.osha.gov.tw/media/rpibtlmq/異常氣壓-含潛水伕病-作業引起之職業疾病認定參考指引.pdf?mediaDL=true",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "勞工長期從事下列何種作業，可能導致潛涵症或潛水伕病？\n①潛盾施工法之高壓室\n內作業\n②游離輻射作業\n③浮潛作業\n④低溫作業"
     },
     {
