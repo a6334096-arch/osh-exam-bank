@@ -1667,11 +1667,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案④基本原因。未實施安全衛生教育訓練屬安全管理制度或執行上的缺失。職安署《勞工傳料作業墜落致死職業災害》「原因分析／基本原因」第1項即將未對勞工實施一般職業安全衛生教育訓練列於基本原因；同案將高處墜落致死列為直接原因、未設護欄等列為間接原因，可區分本題各層次。本題為災害原因分類，依官方案例段落核對，無另援引法規條號。已目視比對《(僅供參考)參考試題1000題.pdf》第4頁第76題題幹、四選項及原始答案④，與題庫一致。核對日期：2026-11-23。官方依據：https://www.osha.gov.tw/48110/48417/48427/53661/post",
+      "verified_at": "2026-11-23",
+      "source_url": "https://www.osha.gov.tw/48110/48417/48427/53661/post",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "勞工發生職業災害，經災害調查結果發現，雇主未對勞工實施相關\n安全衛生教育訓練，應歸於下列何種原因？\n①不安全環境\n②直接原因\n③不安全動作\n④基本原因"
     },
     {
