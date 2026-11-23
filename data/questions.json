@@ -1645,11 +1645,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案③機械器具型式檢定。本題詢問非屬危害性化學品標示及通識規則之措施。①標示依第5條，②安全資料表依第12、13條，④危害通識計畫依第17條第1項第1款及第2項；機械器具型式檢定不屬此規則的化學品危害通識措施。已查核2026-11-23已生效條文；2026-08-26修正之第5條附表一及第12條附表四延至2029-01-01生效，本解析未援引未生效附件內容。已目視比對《(僅供參考)參考試題1000題.pdf》第4頁第75題題幹、四選項及原始答案③，與題庫一致。核對日期：2026-11-23。官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0060054",
+      "verified_at": "2026-11-23",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0060054",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "下列何者不是危害性化學品標示及通識規則應採取之措施？\n①危害物質標示\n②製備安全資料表\n③機械器具型式檢定④訂定危害通識計畫"
     },
     {
