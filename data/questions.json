@@ -1821,11 +1821,11 @@
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案②程序書。本題以四階文件架構為前提：管理手冊為一階、程序書為二階、作業標準為三階、表單或紀錄為四階。消防署《消防月刊》114年6月號〈臺東縣消防局編製安全程序書流程與方法〉「結論與未來展望」第一段，明確將程序書歸為職業安全衛生管理系統第二階文件，並說明其下對應三階作業規定與四階表單。本題依官方管理實務文章核對，並非主張所有管理系統依法必須採四階文件，無特定法規條號。已目視對照《(僅供參考)參考試題1000題.pdf》第4頁第83題題幹、四選項及原始答案②，內容一致。核對日期：2026-11-24。官方依據：https://mag.nfa.gov.tw/article.php?id=3940",
+      "verified_at": "2026-11-24",
+      "source_url": "https://mag.nfa.gov.tw/article.php?id=3940",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "職業安全衛生管理系統包括四階文件，下列何者屬二階文件？\n①管理手冊\n②程序書\n③作業標準書\n④表單或紀錄"
     },
     {
