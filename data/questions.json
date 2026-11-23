@@ -1755,11 +1755,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案①降低。身體潮濕、流汗使皮膚電阻降低，同一接觸電壓下流經人體的電流可能增加，感電風險隨之提高。勞動部「酷暑炎熱，氣溫飆高，勞委會呼籲事業單位雇主應落實工安防範夏天高溫引起的各種危害，以減少事故發生」之第二段（夏季用電與感電防範）明確說明潮濕汗水使電阻值降低。本題依官方安全宣導之物理原理核對，無特定法規條號。已目視比對《(僅供參考)參考試題1000題.pdf》第4頁第80題題幹、四選項及原始答案①，內容一致。核對日期：2026-11-23。官方依據：https://www.mol.gov.tw/1607/1632/1640/17124/?cprint=pt",
+      "verified_at": "2026-11-23",
+      "source_url": "https://www.mol.gov.tw/1607/1632/1640/17124/?cprint=pt",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "身體在潮濕的狀況下，電阻值之變化為下列何者？\n①降低\n②升高\n③不變\n④時高時低"
     },
     {
