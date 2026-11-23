@@ -1843,11 +1843,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案④「中毒後絕對不會有後遺症」為錯誤敘述。一氧化碳無色無味，與血紅素結合能力比氧氣強，會使組織細胞缺氧。急性中毒後可能出現遲發性神經病變，故不能認為絕無後遺症。臺北榮總〈一氧化碳中毒之照護〉第一節說明氣體性質、血紅素結合與缺氧機轉；第二節第4點及第四節說明遲發性神經病變與治療後追蹤。本題依官方醫療衛教核對，無特定法規條號。已目視對照《(僅供參考)參考試題1000題.pdf》第4頁第84題題幹、四選項及原始答案④，內容一致。核對日期：2026-11-24。官方依據：https://ihealth.vghtpe.gov.tw/media/522",
+      "verified_at": "2026-11-24",
+      "source_url": "https://ihealth.vghtpe.gov.tw/media/522",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "關於一氧化碳之敘述，下列何者有誤？\n①無色無味\n②與血色素的親合力\n比氧氣強\n③會造成組織缺氧\n④中毒後絕對不會有\n後遺症"
     },
     {
