@@ -1777,11 +1777,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案③90分貝。第300條第一款（一）對照表以8小時、90 dBA為容許暴露基準；同款（二）以實際暴露時間除以相應容許時間加總，劑量100%即相當此8小時基準。依2026-11-24已生效之職業安全衛生設施規則核對；115年6月30日修正另有延後施行條文，但不涉及本題第300條及第300條之1。已目視比對《(僅供參考)參考試題1000題.pdf》第4頁第81題題幹、四個選項及原始答案標記，內容一致。核對日期：2026-11-24。官方依據：https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021",
+      "verified_at": "2026-11-24",
+      "source_url": "https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "勞工於工作任何時段內之噪音暴露劑量等於100％，即表示其相當8\n小時日時量平均音壓級等於多少分貝？\n①80\n②85\n③90\n④95"
     },
     {
@@ -1799,11 +1799,11 @@
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案②85分貝。第300條之1規定，8小時日時量平均音壓級超過85分貝或暴露劑量超過50%的工作場所，應採取聽力保護措施。依2026-11-24已生效之職業安全衛生設施規則核對；115年6月30日修正另有延後施行條文，但不涉及本題第300條及第300條之1。已目視比對《(僅供參考)參考試題1000題.pdf》第4頁第82題題幹、四個選項及原始答案標記，內容一致。核對日期：2026-11-24。官方依據：https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021",
+      "verified_at": "2026-11-24",
+      "source_url": "https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生設施規則之規定，勞工8小時日時量平均音壓級超過\n多少分貝之工作場所，應採取聽力保護措施？\n①80\n②85\n③90\n④95"
     },
     {
