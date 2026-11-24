@@ -2041,11 +2041,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案④危害性化學品標示及通識。《職業安全衛生設施規則》第29條之1第2項第2、3、6款分別列出濃度測定、通風換氣、進入作業許可程序，對應選項①②③；④不是該條列舉的局限空間危害防止計畫事項。這不免除其他化學品標示及通識法規的義務。該條於核對日已生效。已目視比對原始「(僅供參考)參考試題1000題.pdf」第5頁第93題之題幹、四選項及原始答案④，相符。官方依據：https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021 （第29條之1第2項）。核對日期：2026-11-24。",
+      "verified_at": "2026-11-24",
+      "source_url": "https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生設施規則之規定，下列何者非屬局限空間危害防止\n計畫應訂定之事項？\n①局限空間內氧氣及危\n害物濃度測定\n②通風換氣實施方式③進入作業許可程序④危害性化學品標示\n及通識"
     },
     {
