@@ -2899,11 +2899,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案④失能傷害次數。依《勞動檢查法施行細則》第6條，職業災害嚴重率為每百萬工時的失能傷害總損失日數，計算為總損失日數×1,000,000÷總經歷工時；失能傷害次數用於同條所稱傷害頻率，並非嚴重率的計算因子。已查核2026-11-25有效條文，並目視對照原始「(僅供參考)參考試題1000題.pdf」第6頁第132題題幹、四選項及原答案④，相符。官方依據：https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015074 （第6條）。核對日期：2026-11-25。",
+      "verified_at": "2026-11-25",
+      "source_url": "https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015074",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "職業災害（失能傷害）嚴重率之計算，不包含下列何者？\n①總經歷工時\n②總損失日數\n③每百萬工時\n④失能傷害次數"
     },
     {
