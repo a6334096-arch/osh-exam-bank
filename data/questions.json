@@ -2679,11 +2679,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案④甲醇。《職業安全衛生設施規則》第15條列出氫、乙炔、甲烷等可燃性氣體；第13條第3款則明列甲醇為易燃液體。甲醇蒸氣雖可燃，本題物質依規則之分類仍屬易燃液體，故不選為可燃性氣體。 已查核2026-11-24已生效條文，並目視對照原始「(僅供參考)參考試題1000題.pdf」第6頁第122題題幹、四選項及原始答案標記，內容相符。官方依據：https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021 。核對日期：2026-11-24。",
+      "verified_at": "2026-11-24",
+      "source_url": "https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "下列何者非屬可燃性氣體？\n①氫氣\n②乙炔\n③甲烷\n④甲醇"
     },
     {
@@ -2723,11 +2723,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案③37°C。《職業安全衛生設施規則》第308條規定坑內溫度保持攝氏37度以下，37度以上應停止作業；已採防高溫措施、救護或防止危害之搶救作業有但書例外，與本題除特殊情形外的問法相符。 已查核2026-11-24已生效條文，並目視對照原始「(僅供參考)參考試題1000題.pdf」第6頁第124題題幹、四選項及原始答案標記，內容相符。官方依據：https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021 。核對日期：2026-11-24。",
+      "verified_at": "2026-11-24",
+      "source_url": "https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生設施規則之規定，除特殊情形外，勞工於坑內作業\n，其溫度應保持在攝氏幾度以下？\n①32\n②35\n③37\n④40"
     },
     {
