@@ -2019,11 +2019,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "《職業安全衛生設施規則》第227條第1項第1款規定，易踏穿屋頂、雨遮或夾層天花板作業的安全通道踏板須有適當強度且寬度在30公分以上，故答案④30。其他防墜設施及作業主管要求仍須遵守。 已查核2026-11-24已生效條文，並目視比對原始「(僅供參考)參考試題1000題.pdf」第5頁第92題題幹、四選項及原答案標記，內容相符。官方依據：https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021 。核對日期：2026-11-24。",
+      "verified_at": "2026-11-24",
+      "source_url": "https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生設施規則規定，雇主對勞工於以石綿板、鐵皮板、\n瓦、木板、茅草、塑膠等材料構築之屋頂或於以礦纖板、石膏板等\n材料構築之夾層天花板從事作業時，為防止勞工踏穿墜落，應規劃\n安全通道，於屋架或天花板支架上設置適當強度，且寬度至少在幾\n公分以上之踏板？\n①10\n②20\n③25\n④30"
     },
     {
@@ -2261,11 +2261,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "《職業安全衛生法》第2條第5款將工作者因勞動場所設施、材料、化學品或其他職業原因引起之疾病、傷害、失能或死亡定義為職業災害，故答案③。 已查核2026-11-24已生效條文，並目視比對原始「(僅供參考)參考試題1000題.pdf」第5頁第103題題幹、四選項及原答案標記，內容相符。官方依據：https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015013 。核對日期：2026-11-24。",
+      "verified_at": "2026-11-24",
+      "source_url": "https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015013",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生法規定，下列何者係指勞動場所之建築物、機械、\n設備、原料、材料、化學品、氣體、蒸氣、粉塵等或作業活動及其\n他職業上原因引起之工作者疾病、傷害、失能或死亡？\n①公害\n②虛驚事故\n③職業災害\n④交通事故"
     },
     {
