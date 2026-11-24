@@ -2525,11 +2525,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案③燻煙。職安署《呼吸防護計畫技術參考手冊》伍、一、（一）、2、（1）C（內文第7頁、PDF第11頁）將燻煙說明為氣態物質凝結生成的固體物質，並舉冶煉、銲接金屬燻煙為例。相同段落區分粉塵為機械製程產生的固體粒子、霧滴為細小液滴，故本題氣態冷凝成固態的描述對應燻煙。已於核對日取得官方手冊全文；已目視比對原始「(僅供參考)參考試題1000題.pdf」第6頁第115題之題幹、四選項及原答案③，相符。官方依據：https://www.osha.gov.tw/media/c3pdfolk/呼吸防護計畫技術參考手冊.pdf?mediaDL=true 。核對日期：2026-11-25。",
+      "verified_at": "2026-11-25",
+      "source_url": "https://www.osha.gov.tw/media/c3pdfolk/呼吸防護計畫技術參考手冊.pdf?mediaDL=true",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "藉由高溫氣態分子冷凝而成之固態微粒，係指下列何者？\n①粉塵\n②霧滴\n③燻煙\n④煙塵"
     },
     {
