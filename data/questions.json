@@ -3603,11 +3603,11 @@
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正解②。第27條規定，工作期間安全門及安全梯不得上鎖，通道不得堆置物品；其他選項放寬上鎖或堆物均不符規定。 已目視核對原PDF第8頁第164題題幹、四選項與原始答案標記一致。依據：職業安全衛生設施規則；核對日期2026-11-25。上述條文不在延至2027年施行的條文範圍。",
+      "verified_at": "2026-11-25",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060009",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生設施規則規定，雇主設置之安全門及其通道，應如\n何辦理？\n①安全門於勞工工作期\n間內得上鎖，其通道\n得堆置物品\n②安全門於勞工工作\n期間內不得上鎖，\n其通道不得堆置物\n品\n③安全門於勞工工作\n期間內不得上鎖，\n其通道得堆置物品\n④安全門於勞工工作\n期間內得上鎖，其\n通道不得堆置物品"
     },
     {
@@ -3669,11 +3669,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正解①。第108條第4款要求可燃性氣體、有毒性氣體及氧氣鋼瓶分開貯存，不是僅分開其中兩類。 已目視核對原PDF第8頁第167題題幹、四選項與原始答案標記一致。依據：職業安全衛生設施規則；核對日期2026-11-25。上述條文不在延至2027年施行的條文範圍。",
+      "verified_at": "2026-11-25",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060009",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生設施規則規定，可燃性氣體、有毒性氣體及氧氣之\n鋼瓶，應如何儲存？\n①全部分開\n②僅可燃性氣體及毒\n性氣體鋼瓶需分開\n③僅可燃性氣體及氧\n氣鋼瓶需分開\n④無需分開"
     },
     {
