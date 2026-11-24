@@ -1887,11 +1887,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為①8小時。依2026-11-24已生效之《職業安全衛生法》第37條第2項第1款，勞動場所發生死亡災害，雇主應於8小時內通報勞動檢查機構；本題勞工於工作場所作業墜落死亡，屬此通報情形。已目視對照原始「(僅供參考)參考試題1000題.pdf」第4頁第86題，題幹、四個選項及原始答案標記①相符。官方依據：https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015013 。核對日期：2026-11-24。",
+      "verified_at": "2026-11-24",
+      "source_url": "https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015013",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生法規定，勞工如於工作場所作業發生墜落死亡，雇\n主應於多少小時內通報勞動檢查機構？\n①8\n②24\n③36\n④48"
     },
     {
