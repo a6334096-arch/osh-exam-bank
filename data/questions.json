@@ -2195,11 +2195,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案①消除。職安署115年9月18日修正《風險評估指引》五（五）第3點（第8頁）要求依管制層級優先順序決定措施：先消除危害，再取代、工程控制及工作安排、管理控制、個人防護具。因此題中應優先考慮消除。這是官方指引之建議性作法，並非新增強制規範。已目視比對原始「(僅供參考)參考試題1000題.pdf」第5頁第100題之題幹、四選項及原答案①，內容相符。官方公告：https://www.osha.gov.tw/48110/48713/48735/212505/post ；官方PDF：https://www.stsp.gov.tw/attached/EnvSecure/download/202610風險評估指引-附件一.pdf 。核對日期：2026-11-24。",
+      "verified_at": "2026-11-24",
+      "source_url": "https://www.osha.gov.tw/48110/48713/48735/212505/post",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "考量降低風險之控制措施時，下列何者應優先考慮？\n①消除\n②取代\n③工程控制措施\n④個人防護具"
     },
     {
