@@ -1909,11 +1909,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案④著火性物質。《職業安全衛生設施規則》第12條第2款明列黃磷、赤磷、硫化磷等為著火性物質；不是本題其他三項分類。該條於2026-11-24已生效，115年修正中延至116年施行的條文不包含第12條。已目視核對原始「(僅供參考)參考試題1000題.pdf」第4頁第87題之題幹、四選項及原答案④，內容相符。官方依據：https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021 （第12條第2款）。核對日期：2026-11-24。",
+      "verified_at": "2026-11-24",
+      "source_url": "https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "黃磷、赤磷、硫化磷等物質放置於常溫空氣中，給予加熱或摩擦易\n起火燃燒，該類物質依職業安全衛生設施規則規定，屬下列何種危\n險物？\n①爆炸性物質\n②氧化性物質\n③易燃液體\n④著火性物質"
     },
     {
