@@ -1931,11 +1931,11 @@
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案②職業安全衛生管理單位。依2026-07-01施行之《職業安全衛生法施行細則》第32條第1款，管理單位負責擬訂、規劃、推動及督導職業安全衛生業務；同條第2款之委員會則負責審議、協調、考核及建議，職責不同。已目視比對原始「(僅供參考)參考試題1000題.pdf」第4頁第88題之題幹、四個選項及原答案②，內容相符。官方依據：https://laws.gov.taipei/law/LawSearch/LawChapterArticle/FL015014?chapterno=3 （第32條）。核對日期：2026-11-24。",
+      "verified_at": "2026-11-24",
+      "source_url": "https://laws.gov.taipei/law/LawSearch/LawChapterArticle/FL015014?chapterno=3",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "下列何者為事業單位內擬訂、規劃、推動及督導職業安全衛生有關\n業務之組織？\n①環保管理單位\n②職業安全衛生管理\n單位\n③職業安全衛生委員\n會\n④人力資源部門"
     },
     {
