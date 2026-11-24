@@ -2657,11 +2657,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案③健康異常，無法確定與工作之相關性，應進一步請職業醫學科專科醫師評估。《勞工健康保護規則》第22條第1項第3款規定第三級管理為特殊健康或追蹤檢查部分或全部項目異常，經職醫綜合判定異常但尚無法確定與工作的相關性，須進一步評估。同項第2款為異常而與工作無關，第4款為異常且與工作有關。115年修正第22條自2026-07-01施行；已排除該規則延至117年施行條文之混用。已目視對照原始「(僅供參考)參考試題1000題.pdf」第6頁第121題之題幹、四選項及原答案③，相符。官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060022 （第22條第1項第3款、第29條）。核對日期：2026-11-24。",
+      "verified_at": "2026-11-24",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060022",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依勞工健康保護規則規定，從事特別危害健康作業勞工之特殊健康\n檢查結果，健康管理屬於第三級管理者，其意義為下列何者？\n①健康正常\n②健康異常，但與工\n作無關\n③健康異常，無法確\n定異常與工作之相\n關性，應進一步請\n職業醫學科專科醫\n師評估者\n④健康異常，且與工\n作有關"
     },
     {
