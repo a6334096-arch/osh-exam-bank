@@ -2415,11 +2415,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案①職業安全衛生管理計畫及職業安全衛生管理規章。依《職業安全衛生管理辦法》第12條之1第2項，雇主須依事業規模、性質及風險評估結果訂定管理計畫；同條第3項規定勞工人數100人以上應另訂管理規章，因此本題兩項均須具備。已查核2026-11-24有效條文，並目視對照原始「(僅供參考)參考試題1000題.pdf」第5頁第110題之題幹、四選項及原答案①，內容相符。官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0060027 （第12條之1第2、3項）。核對日期：2026-11-24。",
+      "verified_at": "2026-11-24",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0060027",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生管理辦法規定，僱用勞工人數在100人以上之事業單\n位，應訂定何種管理文件？\n①職業安全衛生管理計\n畫及職業安全衛生管\n理規章\n②職業災害防止方案③工作環境管理計畫④墜落預防計畫及缺\n氧作業計畫"
     },
     {
