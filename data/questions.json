@@ -2547,11 +2547,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案③有機溶劑作業。《職業安全衛生管理辦法》第69條第1款明列有機溶劑作業，雇主應使勞工就作業有關事項實施檢點。露天開挖與異常氣壓另有第67、70條檢點要求，但不是本題所問的有害物作業分類。 已查核核對日已生效條文，並目視比對原始「(僅供參考)參考試題1000題.pdf」第6頁第116題題幹、四選項與原答案標記，相符。官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027 。核對日期：2026-11-24。",
+      "verified_at": "2026-11-24",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "雇主使勞工從事下列何種有害物質作業時，應使該勞工就其作業有\n關事項實施檢點？\n①高溫作業\n②露天開挖作業\n③有機溶劑作業\n④異常氣壓作業"
     },
     {
@@ -2613,11 +2613,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案①局部排氣。《有機溶劑中毒預防規則》第6條第1項第1款要求第一種有機溶劑的室內或儲槽作業原則上設密閉設備或局部排氣，四選項以①符合原則。第11條另定臨時性作業等特定條件可使用整體換氣的例外，本題未提供該等條件，不能將整體換氣視為一般適用。 已查核核對日已生效條文，並目視比對原始「(僅供參考)參考試題1000題.pdf」第6頁第119題題幹、四選項與原答案標記，相符。官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?PCODE=N0060017 。核對日期：2026-11-24。",
+      "verified_at": "2026-11-24",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCODE=N0060017",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "下列何種通風設備可用於儲槽內之第一種有機溶劑作業？\n①局部排氣\n②整體換氣\n③自然換氣\n④溫差換氣"
     },
     {
