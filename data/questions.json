@@ -2173,11 +2173,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案①工作環境及性質與變更前相當者，可不用。《職業安全衛生教育訓練規則》第17條第1項原則上要求變更工作前接受適於該工作必要的一般安全衛生教育訓練，但工作環境、工作性質與變更前相當者為例外。本項例外不表示其他特殊作業訓練或在職訓練義務一律免除。115年6月25日修正之第17條自2026-07-01施行，已確認核對日有效。已目視比對原始「(僅供參考)參考試題1000題.pdf」第5頁第99題題幹、四選項與原答案①，內容相符。官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0060010 （第17條第1項）。核對日期：2026-11-24。",
+      "verified_at": "2026-11-24",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0060010",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生教育訓練規則規定，在職勞工於變更工作前，是否\n要接受適於各該工作必要之安全衛生教育訓練？\n①工作環境及性質與變\n更前相當者，可不用\n②無論如何一定要\n③不用\n④沒規定"
     },
     {
