@@ -2327,11 +2327,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案①3個月。《勞工作業環境監測實施辦法》第6條第1項第1款，對高溫作業勞工作息時間標準所定高溫作業場所，要求每三個月至少監測一次綜合溫度熱指數。115年修正中本款不屬延至116年施行的項目，核對日已有效。 已目視比對原始「(僅供參考)參考試題1000題.pdf」第5頁第106題題幹、四個選項與原始答案標記，內容相符。官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060033 。核對日期：2026-11-24。",
+      "verified_at": "2026-11-24",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060033",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依勞工作業環境監測實施辦法之規定，高溫作業場所應每隔多久測\n定綜合溫度熱指數一次以上？\n①3個月\n②6個月\n③1年\n④2年"
     },
     {
@@ -2393,11 +2393,11 @@
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案②職業災害嚴重率。《勞動檢查法施行細則》第6條明定其為每百萬工時的失能傷害總損失日數；同條的傷害頻率則使用失能傷害次數，兩者不可混用。已查核核對日有效條文。 已目視比對原始「(僅供參考)參考試題1000題.pdf」第5頁第109題題幹、四個選項與原始答案標記，內容相符。官方依據：https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015074 。核對日期：2026-11-24。",
+      "verified_at": "2026-11-24",
+      "source_url": "https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015074",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依勞動檢查法施行細則規定，下列何者係指每百萬工時之失能傷害\n總損失日數？\n①傷害頻率\n②職業災害嚴重率\n③失能傷害千人率\n④事故率"
     },
     {
