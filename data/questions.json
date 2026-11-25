@@ -1095,11 +1095,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "needs_review",
-      "explanation": "2026-11-22 已目視對照「(僅供參考)參考試題1000題.pdf」第3頁第50題題幹、四選項與原始答案④，匯入內容一致。現行職業安全衛生法施行細則第36條明列事前告知得於交付承攬時提供書面或電子文件，或召開協商會議作成紀錄。原④使用「須」而僅列書面與會議，未涵蓋新增電子文件方式，依現行法直接判為完整正確存在版本疑義。保留原題與原始答案，不標記已驗證；待確認電子文件與本選項「書面」用語之解釋，或取得正式修訂題目後再處理。核對日期：2026-11-22。官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060002 （第36條）。",
-      "verified_at": null,
-      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060002",
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正解④。職業安全衛生法施行細則第36條允許交付承攬時提供書面或電子文件，或召開協商會議作成紀錄；不能僅口頭告知，也不能以勞工安全承諾書取代具體危害告知。職安法第26條第2項並要求交付再承攬時亦辦理告知，故②錯誤。原④「書面」依電子簽章法第5條，內容可完整呈現並可於日後取出查驗時得以電子文件為之；數位產業署「電子簽章法釋疑與應用參考指引」伍(一)明示書面不限紙本。因此④可涵蓋符合條件的電子文件，解除先前僅因未另列電子文件產生的版本疑義；使用電子形式仍應遵守第5條相對人反對機會等規定。2026-11-25重新目視核對原PDF第3頁第50題題幹、四選項及原始答案④，一致。官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060002 （第36條）；https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015013 （第26條）；https://law.moda.gov.tw/LawContent.aspx?id=FL011349 （第4、5條）；https://www.ulp.moj.gov.tw/media/20632647/電子簽章法釋疑與應用參考指引.pdf?mediaDL=true （伍(一)）。核對日期2026-11-25。",
+      "verified_at": "2026-11-25",
+      "source_url": "https://law.moda.gov.tw/LawContent.aspx?id=FL011349",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "有關危害告知事項，下列何者正確？\n①可以口頭方式告知\n②承攬人就其承攬之\n全部或一部分交付\n再承攬時，承攬人\n無須告知再承攬人\n③得以承攬人勞工之\n安全承諾書替代危\n害告知\n④須以書面或召開協\n商會議並作成紀錄\n為之"
     },
     {
