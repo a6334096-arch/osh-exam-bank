@@ -5209,11 +5209,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正解③第3級管理。勞工健康保護規則第22條第1項第3款，特殊健康檢查異常但與工作相關性尚無法確定、須進一步職醫評估者列第三級；第一級為綜合判定無異常，第二級異常但與工作無關，第四級為異常且與工作有關。本題「可能與職業原因有關」尚非已確定工作相關，對應第三級。依第29條，第22條已於2026-07-01施行，並非延後生效項目。2026-11-25目視核對原PDF第11頁原第238題（資料ID 1000-0237）題幹、四選項及原始答案③，內容一致。官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060022 （第22、29條；核對日期2026-11-25）。",
+      "verified_at": "2026-11-25",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060022",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依勞工健康保護規則之規定，雇主使勞工從事粉塵作業以外之特別\n危害健康作業時，應依規定實施分級健康管理。勞工經特殊健康檢\n查結果，部分或全部項目異常，經醫師綜合判定為異常，且可能與\n職業原因有關者，屬第幾級管理？\n①1\n②2\n③3\n④4"
     },
     {
