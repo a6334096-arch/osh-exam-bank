@@ -3493,11 +3493,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正解③18％。依缺氧症預防規則第3條第1款，缺氧為空氣中氧氣濃度未滿18％；不是6％、12％或21％。原題引用舊稱「缺氧症預防標準」，現行法規名稱為「缺氧症預防規則」。 已於2026-11-25目視核對原PDF第8頁第159題題幹、四選項及原始答案③，內容一致。官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060020",
+      "verified_at": "2026-11-25",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060020",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "缺氧症預防標準所稱「缺氧」狀態，係指空氣中氧氣濃度未滿多\n少％？\n①6\n②12\n③18\n④21"
     },
     {
@@ -3559,11 +3559,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正解③職業安全衛生委員會。依職業安全衛生管理辦法第5條之1第2款及第12條，委員會負責審議、協調、考核與建議安全衛生相關事項；管理單位偏重規劃推動督導，協議組織則為承攬共同作業協調機制。採2026-07-01已生效版本。 已於2026-11-25目視核對原PDF第8頁第162題題幹、四選項及原始答案③，內容一致。官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027",
+      "verified_at": "2026-11-25",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "下列何者為事業單位內負責審議、協調及建議職業安全衛生有關業\n務之組織？\n①職業安全衛生管理單\n位\n②醫療管理單位\n③職業安全衛生委員\n會\n④安全衛生協議組織"
     },
     {
