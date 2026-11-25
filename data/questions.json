@@ -3515,11 +3515,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正解①環境污染預防。職業安全衛生法施行細則第41條明列事業安全衛生管理及各級權責、工作安全衛生標準、急救及搶救等內容；環境污染預防未列為該條的工作守則項目。此為本題列舉項目的辨識，不表示與工作者安全健康有關的污染暴露可以不管。 已於2026-11-25目視核對原PDF第8頁第160題題幹、四選項及原始答案①，內容一致。已確認採核對當日生效版本。官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060002",
+      "verified_at": "2026-11-25",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060002",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生法施行細則規定，下列何者非屬安全衛生工作守則\n之內容？\n①環境污染預防\n②工作安全及衛生標\n準\n③事業之安全衛生管\n理及各級之權責\n④急救及搶救"
     },
     {
@@ -3867,11 +3867,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正解④1年。職業安全衛生管理辦法第19條第1項規定固定式起重機每年實施一次整體定期檢查；同條第2項另有每月檢查特定項目，不能將每月項目檢查與每年整體檢查混淆。 已於2026-11-25目視核對原PDF第8頁第176題題幹、四選項及原始答案④，內容一致。已確認採核對當日生效版本。官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027",
+      "verified_at": "2026-11-25",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生管理辦法規定，雇主對固定式起重機，應每隔多久\n就機械之整體定期實施檢查1次？\n①3個月\n②6個月\n③9個月\n④1年"
     },
     {
