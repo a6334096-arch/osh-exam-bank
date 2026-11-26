@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-25",
+  "generated_at": "2026-11-26",
   "expected": 2465,
   "imported": 2489,
-  "verified": 188,
+  "verified": 530,
   "needs_review": 5,
-  "unverified": 2296,
+  "unverified": 1954,
   "remaining_import": 0,
   "review_queue": [
     {
@@ -209,14 +209,6 @@
       "status": "verified",
       "reasons": [
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
-      ]
-    },
-    {
-      "id": "1000-0050",
-      "source_page": 3,
-      "status": "needs_review",
-      "reasons": [
-        "尚未完成官方來源核對"
       ]
     },
     {
@@ -1087,14 +1079,6 @@
       ]
     },
     {
-      "id": "1000-0237",
-      "source_page": 11,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0238",
       "source_page": 11,
       "status": "unverified",
@@ -1113,14 +1097,6 @@
     },
     {
       "id": "1000-0240",
-      "source_page": 12,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0241",
       "source_page": 12,
       "status": "unverified",
       "reasons": [
@@ -1152,23 +1128,7 @@
       ]
     },
     {
-      "id": "1000-0245",
-      "source_page": 12,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0246",
-      "source_page": 12,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0247",
       "source_page": 12,
       "status": "unverified",
       "reasons": [
@@ -1194,23 +1154,7 @@
     {
       "id": "1000-0250",
       "source_page": 12,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0251",
-      "source_page": 12,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0252",
-      "source_page": 12,
-      "status": "unverified",
+      "status": "needs_review",
       "reasons": [
         "尚未完成官方來源核對"
       ]
@@ -1226,9 +1170,8 @@
     {
       "id": "1000-0254",
       "source_page": 12,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -1265,38 +1208,6 @@
       ]
     },
     {
-      "id": "1000-0259",
-      "source_page": 12,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0260",
-      "source_page": 12,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0261",
-      "source_page": 12,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0262",
-      "source_page": 13,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0263",
       "source_page": 13,
       "status": "unverified",
@@ -1321,14 +1232,6 @@
       ]
     },
     {
-      "id": "1000-0266",
-      "source_page": 13,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0267",
       "source_page": 13,
       "status": "unverified",
@@ -1337,23 +1240,7 @@
       ]
     },
     {
-      "id": "1000-0268",
-      "source_page": 13,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0269",
-      "source_page": 13,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0270",
       "source_page": 13,
       "status": "unverified",
       "reasons": [
@@ -1371,9 +1258,8 @@
     {
       "id": "1000-0272",
       "source_page": 13,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -1466,14 +1352,6 @@
       ]
     },
     {
-      "id": "1000-0284",
-      "source_page": 14,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0285",
       "source_page": 14,
       "status": "unverified",
@@ -1492,9 +1370,8 @@
     {
       "id": "1000-0287",
       "source_page": 14,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -1525,22 +1402,6 @@
       ]
     },
     {
-      "id": "1000-0291",
-      "source_page": 14,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0292",
-      "source_page": 14,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0293",
       "source_page": 14,
       "status": "unverified",
@@ -1557,30 +1418,6 @@
       ]
     },
     {
-      "id": "1000-0295",
-      "source_page": 14,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0296",
-      "source_page": 14,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0297",
-      "source_page": 14,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0298",
       "source_page": 14,
       "status": "unverified",
@@ -1589,23 +1426,7 @@
       ]
     },
     {
-      "id": "1000-0299",
-      "source_page": 14,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0300",
-      "source_page": 14,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0301",
       "source_page": 14,
       "status": "unverified",
       "reasons": [
@@ -1630,38 +1451,6 @@
       ]
     },
     {
-      "id": "1000-0304",
-      "source_page": 15,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0305",
-      "source_page": 15,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0306",
-      "source_page": 15,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0307",
-      "source_page": 15,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0308",
       "source_page": 15,
       "status": "unverified",
@@ -1670,31 +1459,7 @@
       ]
     },
     {
-      "id": "1000-0309",
-      "source_page": 15,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0310",
-      "source_page": 15,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0311",
-      "source_page": 15,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0312",
       "source_page": 15,
       "status": "unverified",
       "reasons": [
@@ -1718,38 +1483,6 @@
       ]
     },
     {
-      "id": "1000-0315",
-      "source_page": 15,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0316",
-      "source_page": 15,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0317",
-      "source_page": 15,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0318",
-      "source_page": 15,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0319",
       "source_page": 15,
       "status": "unverified",
@@ -1766,22 +1499,6 @@
       ]
     },
     {
-      "id": "1000-0321",
-      "source_page": 16,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0322",
-      "source_page": 16,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0323",
       "source_page": 16,
       "status": "unverified",
@@ -1792,9 +1509,8 @@
     {
       "id": "1000-0324",
       "source_page": 16,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -1829,14 +1545,6 @@
       "reasons": [
         "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
-      ]
-    },
-    {
-      "id": "1000-0329",
-      "source_page": 16,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
       ]
     },
     {
@@ -1880,31 +1588,7 @@
       ]
     },
     {
-      "id": "1000-0335",
-      "source_page": 16,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0336",
-      "source_page": 16,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0337",
-      "source_page": 16,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0338",
       "source_page": 16,
       "status": "unverified",
       "reasons": [
@@ -1931,26 +1615,9 @@
     {
       "id": "1000-0341",
       "source_page": 16,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
-      ]
-    },
-    {
-      "id": "1000-0342",
-      "source_page": 16,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0343",
-      "source_page": 17,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
       ]
     },
     {
@@ -1970,31 +1637,7 @@
       ]
     },
     {
-      "id": "1000-0346",
-      "source_page": 17,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0347",
-      "source_page": 17,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0348",
-      "source_page": 17,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0349",
       "source_page": 17,
       "status": "unverified",
       "reasons": [
@@ -2004,9 +1647,8 @@
     {
       "id": "1000-0350",
       "source_page": 17,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -2019,27 +1661,10 @@
       ]
     },
     {
-      "id": "1000-0352",
-      "source_page": 17,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0353",
-      "source_page": 17,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0354",
       "source_page": 17,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -2052,27 +1677,10 @@
       ]
     },
     {
-      "id": "1000-0356",
-      "source_page": 17,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0357",
-      "source_page": 17,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0358",
       "source_page": 17,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -2151,39 +1759,7 @@
       ]
     },
     {
-      "id": "1000-0368",
-      "source_page": 18,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0369",
-      "source_page": 18,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0370",
-      "source_page": 18,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0371",
-      "source_page": 18,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0372",
       "source_page": 18,
       "status": "unverified",
       "reasons": [
@@ -2207,23 +1783,7 @@
       ]
     },
     {
-      "id": "1000-0375",
-      "source_page": 18,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0376",
-      "source_page": 18,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0377",
       "source_page": 18,
       "status": "unverified",
       "reasons": [
@@ -2247,31 +1807,7 @@
       ]
     },
     {
-      "id": "1000-0380",
-      "source_page": 19,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0381",
-      "source_page": 19,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0382",
-      "source_page": 19,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0383",
       "source_page": 19,
       "status": "unverified",
       "reasons": [
@@ -2287,23 +1823,7 @@
       ]
     },
     {
-      "id": "1000-0385",
-      "source_page": 19,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0386",
-      "source_page": 19,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0387",
       "source_page": 19,
       "status": "unverified",
       "reasons": [
@@ -2321,46 +1841,13 @@
     {
       "id": "1000-0389",
       "source_page": 19,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
     {
-      "id": "1000-0390",
-      "source_page": 19,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0391",
-      "source_page": 19,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0392",
-      "source_page": 19,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0393",
-      "source_page": 19,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0394",
       "source_page": 19,
       "status": "unverified",
       "reasons": [
@@ -2378,30 +1865,13 @@
     {
       "id": "1000-0396",
       "source_page": 19,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
     {
-      "id": "1000-0397",
-      "source_page": 19,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0398",
-      "source_page": 19,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0399",
       "source_page": 19,
       "status": "unverified",
       "reasons": [
@@ -2426,28 +1896,12 @@
       ]
     },
     {
-      "id": "1000-0402",
-      "source_page": 20,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0403",
       "source_page": 20,
       "status": "unverified",
       "reasons": [
         "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
-      ]
-    },
-    {
-      "id": "1000-0404",
-      "source_page": 20,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
       ]
     },
     {
@@ -2469,9 +1923,8 @@
     {
       "id": "1000-0407",
       "source_page": 20,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -2484,31 +1937,7 @@
       ]
     },
     {
-      "id": "1000-0409",
-      "source_page": 20,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0410",
-      "source_page": 20,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0411",
-      "source_page": 20,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0412",
       "source_page": 20,
       "status": "unverified",
       "reasons": [
@@ -2582,31 +2011,7 @@
       ]
     },
     {
-      "id": "1000-0421",
-      "source_page": 20,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0422",
-      "source_page": 20,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0423",
-      "source_page": 20,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0424",
       "source_page": 20,
       "status": "unverified",
       "reasons": [
@@ -2622,23 +2027,7 @@
       ]
     },
     {
-      "id": "1000-0426",
-      "source_page": 21,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0427",
-      "source_page": 21,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0428",
       "source_page": 21,
       "status": "unverified",
       "reasons": [
@@ -2673,46 +2062,13 @@
     {
       "id": "1000-0432",
       "source_page": 21,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
     {
-      "id": "1000-0433",
-      "source_page": 21,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0434",
-      "source_page": 21,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0435",
-      "source_page": 21,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0436",
-      "source_page": 21,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0437",
       "source_page": 21,
       "status": "unverified",
       "reasons": [
@@ -2728,31 +2084,7 @@
       ]
     },
     {
-      "id": "1000-0439",
-      "source_page": 21,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0440",
-      "source_page": 21,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0441",
-      "source_page": 21,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0442",
       "source_page": 21,
       "status": "unverified",
       "reasons": [
@@ -2784,22 +2116,6 @@
       ]
     },
     {
-      "id": "1000-0446",
-      "source_page": 21,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0447",
-      "source_page": 21,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0448",
       "source_page": 22,
       "status": "unverified",
@@ -2816,31 +2132,7 @@
       ]
     },
     {
-      "id": "1000-0450",
-      "source_page": 22,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0451",
-      "source_page": 22,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0452",
-      "source_page": 22,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0453",
       "source_page": 22,
       "status": "unverified",
       "reasons": [
@@ -2850,30 +2142,13 @@
     {
       "id": "1000-0454",
       "source_page": 22,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
     {
       "id": "1000-0455",
-      "source_page": 22,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0456",
-      "source_page": 22,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0457",
       "source_page": 22,
       "status": "unverified",
       "reasons": [
@@ -2898,14 +2173,6 @@
     },
     {
       "id": "1000-0460",
-      "source_page": 22,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0461",
       "source_page": 22,
       "status": "unverified",
       "reasons": [
@@ -2969,23 +2236,7 @@
       ]
     },
     {
-      "id": "1000-0469",
-      "source_page": 23,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0470",
-      "source_page": 23,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0471",
       "source_page": 23,
       "status": "unverified",
       "reasons": [
@@ -2995,9 +2246,8 @@
     {
       "id": "1000-0472",
       "source_page": 23,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -3020,30 +2270,6 @@
     },
     {
       "id": "1000-0475",
-      "source_page": 23,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0476",
-      "source_page": 23,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0477",
-      "source_page": 23,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0478",
       "source_page": 23,
       "status": "unverified",
       "reasons": [
@@ -3075,27 +2301,10 @@
       ]
     },
     {
-      "id": "1000-0482",
-      "source_page": 23,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0483",
-      "source_page": 23,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0484",
       "source_page": 23,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -3108,23 +2317,7 @@
       ]
     },
     {
-      "id": "1000-0486",
-      "source_page": 23,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0487",
-      "source_page": 23,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0488",
       "source_page": 23,
       "status": "unverified",
       "reasons": [
@@ -3148,27 +2341,10 @@
       ]
     },
     {
-      "id": "1000-0491",
-      "source_page": 24,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0492",
-      "source_page": 24,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0493",
       "source_page": 24,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -3184,22 +2360,13 @@
     {
       "id": "1000-0495",
       "source_page": 24,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
     {
       "id": "1000-0496",
-      "source_page": 24,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0497",
       "source_page": 24,
       "status": "unverified",
       "reasons": [
@@ -3256,14 +2423,6 @@
       ]
     },
     {
-      "id": "1000-0504",
-      "source_page": 24,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0505",
       "source_page": 24,
       "status": "unverified",
@@ -3290,18 +2449,9 @@
     {
       "id": "1000-0508",
       "source_page": 24,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
-      ]
-    },
-    {
-      "id": "1000-0509",
-      "source_page": 24,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
       ]
     },
     {
@@ -3316,18 +2466,9 @@
     {
       "id": "1000-0511",
       "source_page": 25,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
-      ]
-    },
-    {
-      "id": "1000-0512",
-      "source_page": 25,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
       ]
     },
     {
@@ -3355,22 +2496,6 @@
       ]
     },
     {
-      "id": "1000-0516",
-      "source_page": 25,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0517",
-      "source_page": 25,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0518",
       "source_page": 25,
       "status": "unverified",
@@ -3381,9 +2506,8 @@
     {
       "id": "1000-0519",
       "source_page": 25,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -3398,9 +2522,8 @@
     {
       "id": "1000-0521",
       "source_page": 25,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -3422,14 +2545,6 @@
     },
     {
       "id": "1000-0524",
-      "source_page": 25,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0525",
       "source_page": 25,
       "status": "unverified",
       "reasons": [
@@ -3469,30 +2584,6 @@
       ]
     },
     {
-      "id": "1000-0530",
-      "source_page": 25,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0531",
-      "source_page": 26,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0532",
-      "source_page": 26,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0533",
       "source_page": 26,
       "status": "unverified",
@@ -3504,22 +2595,13 @@
     {
       "id": "1000-0534",
       "source_page": 26,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
     {
       "id": "1000-0535",
-      "source_page": 26,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0536",
       "source_page": 26,
       "status": "unverified",
       "reasons": [
@@ -3567,23 +2649,7 @@
       ]
     },
     {
-      "id": "1000-0542",
-      "source_page": 26,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0543",
-      "source_page": 26,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0544",
       "source_page": 26,
       "status": "unverified",
       "reasons": [
@@ -3608,22 +2674,6 @@
       ]
     },
     {
-      "id": "1000-0547",
-      "source_page": 26,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0548",
-      "source_page": 26,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0549",
       "source_page": 26,
       "status": "unverified",
@@ -3642,22 +2692,6 @@
       ]
     },
     {
-      "id": "1000-0551",
-      "source_page": 27,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0552",
-      "source_page": 27,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0553",
       "source_page": 27,
       "status": "unverified",
@@ -3668,22 +2702,13 @@
     {
       "id": "1000-0554",
       "source_page": 27,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
     {
       "id": "1000-0555",
-      "source_page": 27,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0556",
       "source_page": 27,
       "status": "unverified",
       "reasons": [
@@ -3780,14 +2805,6 @@
       ]
     },
     {
-      "id": "1000-0568",
-      "source_page": 27,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0569",
       "source_page": 27,
       "status": "unverified",
@@ -3807,14 +2824,6 @@
     {
       "id": "1000-0571",
       "source_page": 27,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0572",
-      "source_page": 28,
       "status": "unverified",
       "reasons": [
         "尚未完成官方來源核對"
@@ -3853,28 +2862,11 @@
       ]
     },
     {
-      "id": "1000-0577",
-      "source_page": 28,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0578",
       "source_page": 28,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
-      ]
-    },
-    {
-      "id": "1000-0579",
-      "source_page": 28,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
       ]
     },
     {
@@ -3904,9 +2896,8 @@
     {
       "id": "1000-0583",
       "source_page": 28,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -3919,31 +2910,7 @@
       ]
     },
     {
-      "id": "1000-0585",
-      "source_page": 28,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0586",
-      "source_page": 28,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0587",
-      "source_page": 28,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0588",
       "source_page": 28,
       "status": "unverified",
       "reasons": [
@@ -3967,54 +2934,6 @@
       ]
     },
     {
-      "id": "1000-0591",
-      "source_page": 28,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0592",
-      "source_page": 28,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0593",
-      "source_page": 29,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0594",
-      "source_page": 29,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0595",
-      "source_page": 29,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0596",
-      "source_page": 29,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0597",
       "source_page": 29,
       "status": "unverified",
@@ -4026,30 +2945,13 @@
     {
       "id": "1000-0598",
       "source_page": 29,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
     {
       "id": "1000-0599",
-      "source_page": 29,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0600",
-      "source_page": 29,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0601",
       "source_page": 29,
       "status": "unverified",
       "reasons": [
@@ -4083,9 +2985,8 @@
     {
       "id": "1000-0605",
       "source_page": 29,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -4115,14 +3016,6 @@
     },
     {
       "id": "1000-0609",
-      "source_page": 29,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0610",
       "source_page": 29,
       "status": "unverified",
       "reasons": [
@@ -4162,55 +3055,7 @@
       ]
     },
     {
-      "id": "1000-0615",
-      "source_page": 30,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0616",
-      "source_page": 30,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0617",
-      "source_page": 30,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0618",
-      "source_page": 30,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0619",
-      "source_page": 30,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0620",
-      "source_page": 30,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0621",
       "source_page": 30,
       "status": "unverified",
       "reasons": [
@@ -4227,31 +3072,7 @@
       ]
     },
     {
-      "id": "1000-0623",
-      "source_page": 30,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0624",
-      "source_page": 30,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0625",
-      "source_page": 30,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0626",
       "source_page": 30,
       "status": "unverified",
       "reasons": [
@@ -4261,9 +3082,8 @@
     {
       "id": "1000-0627",
       "source_page": 30,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -4316,22 +3136,6 @@
       ]
     },
     {
-      "id": "1000-0634",
-      "source_page": 30,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0635",
-      "source_page": 31,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0636",
       "source_page": 31,
       "status": "unverified",
@@ -4364,19 +3168,10 @@
       ]
     },
     {
-      "id": "1000-0640",
-      "source_page": 31,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0641",
       "source_page": 31,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -4397,31 +3192,7 @@
       ]
     },
     {
-      "id": "1000-0644",
-      "source_page": 31,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0645",
-      "source_page": 31,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0646",
-      "source_page": 31,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0647",
       "source_page": 31,
       "status": "unverified",
       "reasons": [
@@ -4446,36 +3217,11 @@
       ]
     },
     {
-      "id": "1000-0650",
-      "source_page": 31,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0651",
       "source_page": 31,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
-      ]
-    },
-    {
-      "id": "1000-0652",
-      "source_page": 31,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0653",
-      "source_page": 32,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
       ]
     },
     {
@@ -4505,9 +3251,8 @@
     {
       "id": "1000-0657",
       "source_page": 32,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -4584,14 +3329,6 @@
       ]
     },
     {
-      "id": "1000-0667",
-      "source_page": 32,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0668",
       "source_page": 32,
       "status": "unverified",
@@ -4649,14 +3386,6 @@
       ]
     },
     {
-      "id": "1000-0675",
-      "source_page": 33,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0676",
       "source_page": 33,
       "status": "unverified",
@@ -4675,21 +3404,13 @@
     {
       "id": "1000-0678",
       "source_page": 33,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對"
+        "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
     {
       "id": "1000-0679",
-      "source_page": 33,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0680",
       "source_page": 33,
       "status": "unverified",
       "reasons": [
@@ -4703,14 +3424,6 @@
       "reasons": [
         "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
-      ]
-    },
-    {
-      "id": "1000-0682",
-      "source_page": 33,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
       ]
     },
     {
@@ -4746,36 +3459,11 @@
       ]
     },
     {
-      "id": "1000-0687",
-      "source_page": 33,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0688",
       "source_page": 33,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
-      ]
-    },
-    {
-      "id": "1000-0689",
-      "source_page": 33,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0690",
-      "source_page": 33,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
       ]
     },
     {
@@ -4795,23 +3483,7 @@
       ]
     },
     {
-      "id": "1000-0693",
-      "source_page": 33,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0694",
-      "source_page": 33,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0695",
       "source_page": 33,
       "status": "unverified",
       "reasons": [
@@ -4835,14 +3507,6 @@
       ]
     },
     {
-      "id": "1000-0698",
-      "source_page": 34,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0699",
       "source_page": 34,
       "status": "unverified",
@@ -4851,31 +3515,7 @@
       ]
     },
     {
-      "id": "1000-0700",
-      "source_page": 34,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0701",
-      "source_page": 34,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0702",
-      "source_page": 34,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0703",
       "source_page": 34,
       "status": "unverified",
       "reasons": [
@@ -4893,9 +3533,8 @@
     {
       "id": "1000-0705",
       "source_page": 34,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -4918,18 +3557,9 @@
     {
       "id": "1000-0708",
       "source_page": 34,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
-      ]
-    },
-    {
-      "id": "1000-0709",
-      "source_page": 34,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
       ]
     },
     {
@@ -4958,23 +3588,7 @@
       ]
     },
     {
-      "id": "1000-0713",
-      "source_page": 34,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0714",
-      "source_page": 34,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0715",
       "source_page": 34,
       "status": "unverified",
       "reasons": [
@@ -5000,26 +3614,9 @@
     {
       "id": "1000-0718",
       "source_page": 34,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
-      ]
-    },
-    {
-      "id": "1000-0719",
-      "source_page": 34,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0720",
-      "source_page": 34,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
       ]
     },
     {
@@ -5049,9 +3646,8 @@
     {
       "id": "1000-0724",
       "source_page": 35,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -5065,27 +3661,10 @@
       ]
     },
     {
-      "id": "1000-0726",
-      "source_page": 35,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0727",
-      "source_page": 35,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0728",
       "source_page": 35,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -5106,31 +3685,7 @@
       ]
     },
     {
-      "id": "1000-0731",
-      "source_page": 35,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0732",
-      "source_page": 35,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0733",
-      "source_page": 35,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0734",
       "source_page": 35,
       "status": "unverified",
       "reasons": [
@@ -5146,23 +3701,7 @@
       ]
     },
     {
-      "id": "1000-0736",
-      "source_page": 35,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0737",
-      "source_page": 35,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0738",
       "source_page": 35,
       "status": "unverified",
       "reasons": [
@@ -5186,22 +3725,6 @@
       ]
     },
     {
-      "id": "1000-0741",
-      "source_page": 35,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0742",
-      "source_page": 35,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0743",
       "source_page": 36,
       "status": "unverified",
@@ -5210,23 +3733,7 @@
       ]
     },
     {
-      "id": "1000-0744",
-      "source_page": 36,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0745",
-      "source_page": 36,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0746",
       "source_page": 36,
       "status": "unverified",
       "reasons": [
@@ -5252,22 +3759,6 @@
     },
     {
       "id": "1000-0749",
-      "source_page": 36,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0750",
-      "source_page": 36,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0751",
       "source_page": 36,
       "status": "unverified",
       "reasons": [
@@ -5323,22 +3814,6 @@
       ]
     },
     {
-      "id": "1000-0758",
-      "source_page": 36,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0759",
-      "source_page": 36,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0760",
       "source_page": 36,
       "status": "unverified",
@@ -5357,9 +3832,8 @@
     {
       "id": "1000-0762",
       "source_page": 36,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -5388,14 +3862,6 @@
       ]
     },
     {
-      "id": "1000-0766",
-      "source_page": 37,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0767",
       "source_page": 37,
       "status": "unverified",
@@ -5405,22 +3871,6 @@
     },
     {
       "id": "1000-0768",
-      "source_page": 37,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0769",
-      "source_page": 37,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0770",
       "source_page": 37,
       "status": "unverified",
       "reasons": [
@@ -5444,22 +3894,6 @@
       ]
     },
     {
-      "id": "1000-0773",
-      "source_page": 37,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0774",
-      "source_page": 37,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0775",
       "source_page": 37,
       "status": "unverified",
@@ -5476,28 +3910,12 @@
       ]
     },
     {
-      "id": "1000-0777",
-      "source_page": 37,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0778",
       "source_page": 37,
       "status": "unverified",
       "reasons": [
         "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
-      ]
-    },
-    {
-      "id": "1000-0779",
-      "source_page": 37,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
       ]
     },
     {
@@ -5515,14 +3933,6 @@
       "reasons": [
         "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
-      ]
-    },
-    {
-      "id": "1000-0782",
-      "source_page": 37,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
       ]
     },
     {
@@ -5544,9 +3954,8 @@
     {
       "id": "1000-0785",
       "source_page": 37,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -5584,23 +3993,7 @@
       ]
     },
     {
-      "id": "1000-0790",
-      "source_page": 38,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0791",
-      "source_page": 38,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0792",
       "source_page": 38,
       "status": "unverified",
       "reasons": [
@@ -5641,14 +4034,6 @@
       ]
     },
     {
-      "id": "1000-0797",
-      "source_page": 38,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0798",
       "source_page": 38,
       "status": "unverified",
@@ -5657,31 +4042,7 @@
       ]
     },
     {
-      "id": "1000-0799",
-      "source_page": 38,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0800",
-      "source_page": 38,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0801",
-      "source_page": 38,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0802",
       "source_page": 38,
       "status": "unverified",
       "reasons": [
@@ -5738,27 +4099,10 @@
       ]
     },
     {
-      "id": "1000-0809",
-      "source_page": 39,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0810",
-      "source_page": 39,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0811",
       "source_page": 39,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -5772,19 +4116,10 @@
       ]
     },
     {
-      "id": "1000-0813",
-      "source_page": 39,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0814",
       "source_page": 39,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -5798,22 +4133,6 @@
     },
     {
       "id": "1000-0816",
-      "source_page": 39,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0817",
-      "source_page": 39,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0818",
       "source_page": 39,
       "status": "unverified",
       "reasons": [
@@ -5837,31 +4156,7 @@
       ]
     },
     {
-      "id": "1000-0821",
-      "source_page": 39,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0822",
-      "source_page": 39,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0823",
-      "source_page": 39,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0824",
       "source_page": 39,
       "status": "unverified",
       "reasons": [
@@ -5871,9 +4166,8 @@
     {
       "id": "1000-0825",
       "source_page": 39,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -5903,14 +4197,6 @@
     },
     {
       "id": "1000-0829",
-      "source_page": 40,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0830",
       "source_page": 40,
       "status": "unverified",
       "reasons": [
@@ -5950,23 +4236,7 @@
       ]
     },
     {
-      "id": "1000-0835",
-      "source_page": 40,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0836",
-      "source_page": 40,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0837",
       "source_page": 40,
       "status": "unverified",
       "reasons": [
@@ -5999,14 +4269,6 @@
       ]
     },
     {
-      "id": "1000-0841",
-      "source_page": 40,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0842",
       "source_page": 40,
       "status": "unverified",
@@ -6016,36 +4278,18 @@
       ]
     },
     {
-      "id": "1000-0843",
-      "source_page": 40,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0844",
       "source_page": 40,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
-      ]
-    },
-    {
-      "id": "1000-0845",
-      "source_page": 40,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
       ]
     },
     {
       "id": "1000-0846",
       "source_page": 40,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -6066,14 +4310,6 @@
       ]
     },
     {
-      "id": "1000-0849",
-      "source_page": 41,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0850",
       "source_page": 41,
       "status": "unverified",
@@ -6083,14 +4319,6 @@
     },
     {
       "id": "1000-0851",
-      "source_page": 41,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0852",
       "source_page": 41,
       "status": "unverified",
       "reasons": [
@@ -6146,22 +4374,6 @@
       ]
     },
     {
-      "id": "1000-0859",
-      "source_page": 41,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0860",
-      "source_page": 41,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0861",
       "source_page": 41,
       "status": "unverified",
@@ -6194,53 +4406,19 @@
       ]
     },
     {
-      "id": "1000-0865",
-      "source_page": 41,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0866",
-      "source_page": 41,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0867",
       "source_page": 41,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
     {
       "id": "1000-0868",
       "source_page": 41,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
-      ]
-    },
-    {
-      "id": "1000-0869",
-      "source_page": 41,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0870",
-      "source_page": 42,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
       ]
     },
     {
@@ -6356,14 +4534,6 @@
       ]
     },
     {
-      "id": "1000-0885",
-      "source_page": 42,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0886",
       "source_page": 42,
       "status": "unverified",
@@ -6389,14 +4559,6 @@
     },
     {
       "id": "1000-0889",
-      "source_page": 43,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0890",
       "source_page": 43,
       "status": "unverified",
       "reasons": [
@@ -6493,31 +4655,7 @@
       ]
     },
     {
-      "id": "1000-0902",
-      "source_page": 43,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0903",
-      "source_page": 43,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0904",
-      "source_page": 43,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0905",
       "source_page": 43,
       "status": "unverified",
       "reasons": [
@@ -6557,27 +4695,10 @@
       ]
     },
     {
-      "id": "1000-0910",
-      "source_page": 44,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0911",
-      "source_page": 44,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0912",
       "source_page": 44,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -6617,9 +4738,8 @@
     {
       "id": "1000-0917",
       "source_page": 44,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -6642,18 +4762,9 @@
     {
       "id": "1000-0920",
       "source_page": 44,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
-      ]
-    },
-    {
-      "id": "1000-0921",
-      "source_page": 44,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
       ]
     },
     {
@@ -6714,14 +4825,6 @@
     },
     {
       "id": "1000-0929",
-      "source_page": 44,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0930",
       "source_page": 44,
       "status": "unverified",
       "reasons": [
@@ -6802,30 +4905,6 @@
       ]
     },
     {
-      "id": "1000-0940",
-      "source_page": 45,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0941",
-      "source_page": 45,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0942",
-      "source_page": 45,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0943",
       "source_page": 45,
       "status": "unverified",
@@ -6866,39 +4945,7 @@
       ]
     },
     {
-      "id": "1000-0948",
-      "source_page": 45,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0949",
-      "source_page": 45,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0950",
-      "source_page": 45,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0951",
-      "source_page": 45,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0952",
       "source_page": 45,
       "status": "unverified",
       "reasons": [
@@ -6962,22 +5009,6 @@
       ]
     },
     {
-      "id": "1000-0960",
-      "source_page": 46,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0961",
-      "source_page": 46,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0962",
       "source_page": 46,
       "status": "unverified",
@@ -7019,14 +5050,6 @@
       ]
     },
     {
-      "id": "1000-0967",
-      "source_page": 46,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0968",
       "source_page": 46,
       "status": "unverified",
@@ -7045,30 +5068,13 @@
     {
       "id": "1000-0970",
       "source_page": 46,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
     {
       "id": "1000-0971",
-      "source_page": 46,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0972",
-      "source_page": 46,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0973",
       "source_page": 46,
       "status": "unverified",
       "reasons": [
@@ -7092,22 +5098,6 @@
       ]
     },
     {
-      "id": "1000-0976",
-      "source_page": 46,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0977",
-      "source_page": 46,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0978",
       "source_page": 46,
       "status": "unverified",
@@ -7118,9 +5108,8 @@
     {
       "id": "1000-0979",
       "source_page": 47,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -7157,23 +5146,7 @@
       ]
     },
     {
-      "id": "1000-0984",
-      "source_page": 47,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0985",
-      "source_page": 47,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0986",
       "source_page": 47,
       "status": "unverified",
       "reasons": [
@@ -7199,22 +5172,6 @@
     },
     {
       "id": "1000-0989",
-      "source_page": 47,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0990",
-      "source_page": 47,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-0991",
       "source_page": 47,
       "status": "unverified",
       "reasons": [
@@ -7263,14 +5220,6 @@
       ]
     },
     {
-      "id": "1000-0997",
-      "source_page": 48,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1000-0998",
       "source_page": 48,
       "status": "unverified",
@@ -7288,14 +5237,6 @@
     },
     {
       "id": "1000-1000",
-      "source_page": 48,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1000-1001",
       "source_page": 48,
       "status": "unverified",
       "reasons": [
@@ -7321,36 +5262,25 @@
     {
       "id": "1000-1004",
       "source_page": 48,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
     {
       "id": "1000-1005",
       "source_page": 48,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
     {
       "id": "1000-1006",
       "source_page": 48,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
-      ]
-    },
-    {
-      "id": "1000-1007",
-      "source_page": 48,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
       ]
     },
     {
@@ -7372,9 +5302,8 @@
     {
       "id": "1000-1010",
       "source_page": 48,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -7788,14 +5717,6 @@
       ]
     },
     {
-      "id": "1465-0032",
-      "source_page": 3,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0227",
       "source_page": 20,
       "status": "unverified",
@@ -7902,22 +5823,6 @@
     {
       "id": "1465-1383",
       "source_page": 118,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0005",
-      "source_page": 1,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0033",
-      "source_page": 3,
       "status": "unverified",
       "reasons": [
         "尚未完成官方來源核對"
@@ -8044,14 +5949,6 @@
       ]
     },
     {
-      "id": "1465-0006",
-      "source_page": 1,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0034",
       "source_page": 3,
       "status": "unverified",
@@ -8172,19 +6069,10 @@
       ]
     },
     {
-      "id": "1465-0007",
-      "source_page": 1,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0035",
       "source_page": 3,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -8309,19 +6197,10 @@
       ]
     },
     {
-      "id": "1465-0008",
-      "source_page": 1,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0036",
       "source_page": 3,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -8432,14 +6311,6 @@
     {
       "id": "1465-1387",
       "source_page": 118,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0009",
-      "source_page": 1,
       "status": "unverified",
       "reasons": [
         "尚未完成官方來源核對"
@@ -8568,14 +6439,6 @@
     {
       "id": "1465-1388",
       "source_page": 118,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0010",
-      "source_page": 1,
       "status": "unverified",
       "reasons": [
         "尚未完成官方來源核對"
@@ -8713,9 +6576,8 @@
     {
       "id": "1465-0039",
       "source_page": 3,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -8850,9 +6712,8 @@
     {
       "id": "1465-0040",
       "source_page": 3,
-      "status": "unverified",
+      "status": "verified",
       "reasons": [
-        "尚未完成官方來源核對",
         "涉及法規版本、施行日期或數值，應查核現行官方法規"
       ]
     },
@@ -8964,14 +6825,6 @@
     {
       "id": "1465-1391",
       "source_page": 119,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0041",
-      "source_page": 4,
       "status": "unverified",
       "reasons": [
         "尚未完成官方來源核對"
@@ -9090,14 +6943,6 @@
       ]
     },
     {
-      "id": "1465-0014",
-      "source_page": 2,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0042",
       "source_page": 4,
       "status": "unverified",
@@ -9204,14 +7049,6 @@
     {
       "id": "1465-1393",
       "source_page": 119,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0015",
-      "source_page": 2,
       "status": "unverified",
       "reasons": [
         "尚未完成官方來源核對"
@@ -9338,22 +7175,6 @@
       ]
     },
     {
-      "id": "1465-0016",
-      "source_page": 2,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0044",
-      "source_page": 4,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0239",
       "source_page": 20,
       "status": "unverified",
@@ -9474,22 +7295,6 @@
       ]
     },
     {
-      "id": "1465-0017",
-      "source_page": 2,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0045",
-      "source_page": 4,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0240",
       "source_page": 20,
       "status": "unverified",
@@ -9604,14 +7409,6 @@
     {
       "id": "1465-1396",
       "source_page": 119,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0018",
-      "source_page": 2,
       "status": "unverified",
       "reasons": [
         "尚未完成官方來源核對"
@@ -9746,22 +7543,6 @@
       ]
     },
     {
-      "id": "1465-0019",
-      "source_page": 2,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0047",
-      "source_page": 4,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0242",
       "source_page": 20,
       "status": "unverified",
@@ -9890,14 +7671,6 @@
       ]
     },
     {
-      "id": "1465-0048",
-      "source_page": 4,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0243",
       "source_page": 21,
       "status": "unverified",
@@ -10013,14 +7786,6 @@
     {
       "id": "1465-1399",
       "source_page": 119,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0021",
-      "source_page": 2,
       "status": "unverified",
       "reasons": [
         "尚未完成官方來源核對"
@@ -10157,14 +7922,6 @@
       ]
     },
     {
-      "id": "1465-0050",
-      "source_page": 4,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0245",
       "source_page": 21,
       "status": "unverified",
@@ -10294,14 +8051,6 @@
       ]
     },
     {
-      "id": "1465-0051",
-      "source_page": 4,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0246",
       "source_page": 21,
       "status": "unverified",
@@ -10408,14 +8157,6 @@
     {
       "id": "1465-0024",
       "source_page": 2,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0052",
-      "source_page": 4,
       "status": "unverified",
       "reasons": [
         "尚未完成官方來源核對"
@@ -10536,14 +8277,6 @@
     {
       "id": "1465-1403",
       "source_page": 119,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0025",
-      "source_page": 2,
       "status": "unverified",
       "reasons": [
         "尚未完成官方來源核對"
@@ -10687,14 +8420,6 @@
       ]
     },
     {
-      "id": "1465-0054",
-      "source_page": 5,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0249",
       "source_page": 21,
       "status": "unverified",
@@ -10816,14 +8541,6 @@
       ]
     },
     {
-      "id": "1465-0055",
-      "source_page": 5,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0250",
       "source_page": 21,
       "status": "unverified",
@@ -10914,14 +8631,6 @@
     {
       "id": "1465-0028",
       "source_page": 3,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0056",
-      "source_page": 5,
       "status": "unverified",
       "reasons": [
         "尚未完成官方來源核對"
@@ -11171,14 +8880,6 @@
       ]
     },
     {
-      "id": "1465-0058",
-      "source_page": 5,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0068",
       "source_page": 6,
       "status": "unverified",
@@ -11310,14 +9011,6 @@
       ]
     },
     {
-      "id": "1465-0059",
-      "source_page": 5,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
       "id": "1465-0069",
       "source_page": 6,
       "status": "unverified",
@@ -11441,14 +9134,6 @@
     {
       "id": "1465-1410",
       "source_page": 120,
-      "status": "unverified",
-      "reasons": [
-        "尚未完成官方來源核對"
-      ]
-    },
-    {
-      "id": "1465-0060",
-      "source_page": 5,
       "status": "unverified",
       "reasons": [
         "尚未完成官方來源核對"
