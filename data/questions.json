@@ -23029,11 +23029,11 @@
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "依《起重升降機具安全規則》第19條及第35條，固定式、移動式起重機以吊物為限，原則不得乘載或吊升勞工，故題目「一般情況」選②不可載人，並非1人、2人或無限制。法定特殊作業例外須符合條件並採專用搭乘設備及防墜措施，不能直接乘坐一般吊物。 官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060013。2026-11-27逐題目視核對原PDF第19頁原第3題之題幹、四個選項與原始答案標記；依核對日已生效條文或官方指引判定。",
+      "verified_at": "2026-11-27",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060013",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "一般情況下，起重機吊運物件時，吊物上最多可乘坐幾人？ ①無\n限制 ②不可載人 ③2 ④1"
     },
     {
@@ -23403,11 +23403,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
+      "status": "needs_review",
+      "explanation": "2026-11-27目視核對原PDF第20頁原第4題，題幹、四選項與原答案③不可載人一致。但核對日有效《職業安全衛生設施規則》第116條第1項第10款仍保留停止行駛且已採防墜設備或措施之例外；題幹僅問載物架最多載幾人，未明定行駛中、一般搬運或例外作業情境，不能無條件以0人概括所有情況，維持疑義待限定情境。115年6月30日修正刪除該但書之第116條須至116年1月1日施行，不提前用新法驗證。官方有效歷史條文：https://law.moj.gov.tw/LawClass/LawOldVer.aspx?pcode=N0060009&lnndate=20240801&lser=001；施行狀態：https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021。",
       "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawOldVer.aspx?pcode=N0060009&lnndate=20240801&lser=001",
+      "extraction_status": "source_text_checked_law_ambiguity",
       "raw_extracted_text": "動力堆高機之載物架，最多可載幾人？ ①1 ② 3 ③不可載人 ④ 2"
     },
     {
@@ -24151,11 +24151,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "依核對日仍適用之《職業安全衛生設施規則》第116條第1項第2、5、10、12款，除乘坐席位外不得搭載勞工，應遵守最大使用荷重，駕駛離位應將貨叉置地並熄火、制動；故①將載物行駛概括作為可搭乘人員的情況錯誤。合法乘坐席位不在禁止之列，不可將①解讀為允許乘坐貨叉、貨物或載物架；停止行駛採防墜措施之舊法例外亦不適用行駛中。作業前檢點另依《管理辦法》第50條。115年6月30日修正第116條延至116年1月1日施行，本次採113年8月1日歷史版本的現行條文，未提前援用新法。施行狀態：https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021；管理辦法：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。 官方依據：https://law.moj.gov.tw/LawClass/LawOldVer.aspx?pcode=N0060009&lnndate=20240801&lser=001。2026-11-27逐題目視核對原PDF第20頁原第6題之題幹、四個選項與原始答案標記；依核對日已生效條文或官方指引判定。",
+      "verified_at": "2026-11-27",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawOldVer.aspx?pcode=N0060009&lnndate=20240801&lser=001",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "有關堆高機搬運作業，下列何者為非？①載物行駛中可搭乘人員 ② \n         作業前應實施檢點 ③作業完畢人員離開座位時，應關閉動力並拉上手 \n     煞車 ④載貨荷重不得超過該機械所能承受最大荷重。"
     },
     {
@@ -31251,17 +31251,17 @@
       "question": "下列有關風險管理之敘述，何者錯誤？",
       "options": [
         "主辦機關辦理工程採購應 合理設定工程功能需求及工期機具設備",
-        "設置設計製造以產能為導 向，操作安全應由使用者依個自己工作內容，進行風 險評估與製造者無關",
+        "設備設計製造以產能為導 向，操作安全應由使用者依個自己工作內容，進行風 險評估與製造者無關",
         "施工規劃階段應實施風險評估",
         "辦理工程設 計採購應要求設計階段實施風險評估"
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "依《職業安全衛生法》第5條第2項，機械設備等之設計、製造或輸入者，以及工程設計或施工者，應於各該規劃階段實施風險評估，致力防止使用或施工災害；故②稱安全與製造者無關錯誤。合理工程需求、設計及施工規劃階段納入評估，符合上游預防原則，不能僅在使用階段才處理。 官方依據：https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015013。2026-11-27逐題目視核對原PDF第21頁原第25題之題幹、四個選項與原始答案標記；依核對日已生效條文或官方指引判定。",
+      "verified_at": "2026-11-27",
+      "source_url": "https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015013",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "下列有關風險管理之敘述，何者錯誤？①主辦機關辦理工程採購應\n合理設定工程功能需求及工期機具設備 ②設置設計製造以產能為導\n向，操作安全應由使用者依個自己工作內容，進行風 \n     險評估與製造者無關 ③施工規劃階段應實施風險評估 ④辦理工程設\n計採購應要求設計階段實施風險評估"
     },
     {
@@ -32378,12 +32378,12 @@
         "採取降低風險的控 制設施。"
       ],
       "original_answer": 3,
-      "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "answer": 0,
+      "status": "verified",
+      "explanation": "依職安署115年9月18日修正《風險評估指引》四及五（二）第3點（官方PDF第5、7頁），危害辨識是辨識作業危害源及潛在危害，故①正確。②③屬五（四）的風險評估／等級判定，④屬五（五）的風險處理措施，不能等同危害辨識。原PDF括號與紅色標答皆為④，與官方定義不符，本次更正answer為①並保留original_answer為④。 官方依據：https://www.osha.gov.tw/media/vg2bg22u/風險評估指引.pdf。2026-11-27逐題目視核對原PDF第21頁原第28題之題幹、四個選項與原始答案標記；依核對日已生效條文或官方指引判定。",
+      "verified_at": "2026-11-27",
+      "source_url": "https://www.osha.gov.tw/media/vg2bg22u/風險評估指引.pdf",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "危害辨識係指下列何者？①辨識工作場所的潛在危害 ②考量危害後\n果的嚴重度與發生的可能性 ③評估其風險等級 ④採取降低風險的控\n制設施。"
     },
     {
@@ -33479,11 +33479,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "依《職業安全衛生設施規則》第92條第1項，起重機具運轉時須防止吊掛物通過人員上方及人員進入吊掛物下方，故選④不可以。安全帽、快跑或與司機約定均不能取代此項防護要求。 官方依據：https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021。2026-11-27逐題目視核對原PDF第21頁原第31題之題幹、四個選項與原始答案標記；依核對日已生效條文或官方指引判定。",
+      "verified_at": "2026-11-27",
+      "source_url": "https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "吊掛作業時，人員可否進入吊掛物正下方？ ①有正確佩帶安全帽\n即可 ②快跑經過即可 ③有跟吊車司機講好即可 ④不可以"
     },
     {
@@ -35811,11 +35811,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "依《起重升降機具安全規則》第63條第2、4、7、8款，須檢視荷物特性、起吊前確認並檢點吊掛用具及汰換不良品、清空吊運路線無關人員並確認指揮手勢引導吊運。故③「不需於起吊前檢查」錯誤，其餘是應注意事項。吊物下方禁止人員進入另見《設施規則》第92條：https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021。 官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060013。2026-11-27逐題目視核對原PDF第22頁原第37題之題幹、四個選項與原始答案標記；依核對日已生效條文或官方指引判定。",
+      "verified_at": "2026-11-27",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060013",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "在施工機械設備中，下列何者非吊掛作業安全應注意安全事項？①   \n      檢視荷物形狀、大小及材質等特性 ②確認吊運路線，並嚴格禁止\n吊舉物下方有人通過 ③吊掛之用具不需於起吊前檢查 ④應有專人\n負責引導"
     },
     {
@@ -36933,11 +36933,11 @@
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "依《勞工作業環境監測實施辦法》第2條第4款，作業期間不超過一個月，且確知作業終了日起六個月不再實施，稱「作業期間短暫」，選②。作業時間短暫指每日一小時以內；臨時性作業須屬正常作業以外、三個月以內且一年內不再重複；非例行性不是本題指定名詞。 官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060033。2026-11-27逐題目視核對原PDF第22頁原第40題之題幹、四個選項與原始答案標記；依核對日已生效條文或官方指引判定。",
+      "verified_at": "2026-11-27",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060033",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依勞工作業環境監測實施辦法之定義，指作業期間不超過一個月，\n且確知自該作業終了日起 6 個月，不再實施該作業者為下列何者？ \n①作業時間短暫 ②作業期間短暫 ③臨時性作業 ④非例行性作業"
     },
     {
@@ -37285,11 +37285,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "依《勞工作業環境監測實施辦法》第2條第2款，正常作業以外、作業期間不超過三個月且一年內不再重複，稱「臨時性作業」，故選①。異常、常態、非例行性不是本條該組條件的定義名稱。 官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060033。2026-11-27逐題目視核對原PDF第22頁原第41題之題幹、四個選項與原始答案標記；依核對日已生效條文或官方指引判定。",
+      "verified_at": "2026-11-27",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060033",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依勞工作業環境監測實施辦法之定義，指正常作業以外之作業，  \n其作業期間不超過 3個月，且 1 年內不再重複者，下列何者？ ① \n      臨時性作業 ②異常作業 ③常態性作業 ④非例行性作業"
     },
     {
@@ -37637,11 +37637,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "依《勞工作業環境監測實施辦法》第2條第3款，每日作業時間在一小時以內稱「作業時間短暫」，選③。彈性、非常態、非例行性均非該法定定義；不得混同第4款以一個月及六個月為條件之作業期間短暫。 官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060033。2026-11-27逐題目視核對原PDF第22頁原第42題之題幹、四個選項與原始答案標記；依核對日已生效條文或官方指引判定。",
+      "verified_at": "2026-11-27",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060033",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依勞工作業環境監測實施辦法之定義，指雇主使勞工每日作業時間 \n      在1小時以內者為下列何者？ ①彈性作業 ②非常態作業 ③作業時 \n      間短暫 ④非例行性作業"
     },
     {
@@ -37989,11 +37989,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "依《勞工作業環境監測實施辦法》第2條第2款，本題正常工作以外、三個月以內且一年內不再重複，為臨時性作業，選①。時間短暫是每日一小時以內；期間短暫是作業期間一個月以內且終了後六個月不再實施，不能混用。 官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060033。2026-11-27逐題目視核對原PDF第22頁原第43題之題幹、四個選項與原始答案標記；依核對日已生效條文或官方指引判定。",
+      "verified_at": "2026-11-27",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060033",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "勞工正常工作以外之作業，其作業期間不超過3個月且1年內不再重\n複，屬為何者？①臨時性作業 ②作業時間短暫 ③作業期間短暫 ④\n正常作業。"
     },
     {
@@ -38605,11 +38605,11 @@
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "依《職業安全衛生設施規則》第324-1條，重複性作業的姿勢不良、過度施力及作業頻率過高，可能促發肌肉骨骼疾病，應確認人因性危害因子並改善，故選④人因性。題述長期壓迫與重複動作是人因負荷，不是化學、生物暴露或噪音等物理環境因素；此為題目危害分類，不代表可僅憑描述認定個人疾病職業因果。 官方依據：https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021。2026-11-27逐題目視核對原PDF第23頁原第45題之題幹、四個選項與原始答案標記；依核對日已生效條文或官方指引判定。",
+      "verified_at": "2026-11-27",
+      "source_url": "https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "勞工因長期工作壓迫及重複性作業引起椎間盤突出，屬於下列何種\n危害因子？①物理性 ②化學性 ③生物性 ④人因性"
     },
     {
@@ -38913,11 +38913,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "依《職業安全衛生法》第6條第1項第8款，噪音與輻射、溫度、振動、異常氣壓等列為需防護之物理環境危害，故噪音分類選①物理性。不是化學品、生物病原或工作姿勢等人因危害；聽力損失不改變噪音危害的分類。 官方依據：https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015013。2026-11-27逐題目視核對原PDF第23頁原第46題之題幹、四個選項與原始答案標記；依核對日已生效條文或官方指引判定。",
+      "verified_at": "2026-11-27",
+      "source_url": "https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015013",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "勞工因長期暴露於噪音過大之工作場所，可能造成永久聽力損失，\n噪音，屬於下列何種危害因子？①物理性 ②化學性 ③生物性 ④\n人因性"
     },
     {
@@ -41483,15 +41483,15 @@
         "物理性",
         "化學性",
         "生物性",
-        "人因工程 直接原因 間接原因 基本原因 包含能量或危害物 包含不安全之狀態與行 基本原因 屬管理層面因"
+        "人因工程"
       ],
       "original_answer": 0,
-      "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "answer": 3,
+      "status": "verified",
+      "explanation": "依《職業安全衛生設施規則》第324-1條，姿勢不良、過度施力及過高作業頻率促發肌肉骨骼疾病，應確認人因性危害因子並改善。機臺作業面過高造成不自然姿勢，故選④人因工程，不是①物理環境暴露、②化學或③生物危害。原PDF第23頁原第54題黑色括號為(1)，但紅色標答為④，兩者相衝突；保留匯入的original_answer=①，依法將現行answer更正為④。第四選項後誤併下方事故原因圖表文字，依目視刪除並保留原始擷取文字。 官方依據：https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021。2026-11-27逐題目視核對原PDF第23頁原第54題之題幹、四個選項與原始答案標記；依核對日已生效條文或官方指引判定。",
+      "verified_at": "2026-11-27",
+      "source_url": "https://laws.gov.taipei/Law/LawSearch/LawArticleContent/FL015021",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "機臺作業面高度過高，會使作業動作不自然，若長期可能導致肌肉\n骨骼傷害，請問動作不自然，屬於下列何種危害因子？①物理性 ②\n化學性 ③生物性 ④人因工程 \n \n \n直接原因 \n間接原因 \n基本原因 \n包含能量或危害物\n包含不安全之狀態與行\n基本原因 屬管理層面因"
     },
     {
@@ -54329,17 +54329,17 @@
       "question": "依職業安全衛生管理辦法規定，雇主依規定實施之定期檢查表 單，下列何者非屬應記錄事項？",
       "options": [
         "實施檢查者之姓名",
-        "部門主 管",
+        "部門主管",
         "檢查部分",
-        "檢查方法 部門主管非應記錄事項"
+        "檢查方法"
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "依《職業安全衛生管理辦法》第80條，定期及重點檢查應記錄日期、方法、部分、結果、實施檢查者姓名及改善措施內容，保存三年；未列部門主管，故選②。①③④均在法定紀錄範圍。 官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。2026-11-27逐題目視核對原PDF第17頁原第164題之題幹、四個選項與原始答案標記；依核對日已生效條文或官方指引判定。",
+      "verified_at": "2026-11-27",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生管理辦法規定，雇主依規定實施之定期檢查表\n單，下列何者非屬應記錄事項？①實施檢查者之姓名 ②部門主\n管 ③檢查部分 ④檢查方法       部門主管非應記錄事項"
     },
     {
@@ -54372,18 +54372,18 @@
       "category": "待核對原始章節",
       "question": "依職業安全衛生管理辦法規定，對於僅需置職業安全衛生業務主 管，而不需置職業安全管理師、職業衛生管理師及職業安全衛生管理 員的事業單位，則該業務主管之職責為何？",
       "options": [
-        "督導安全衛生管理事 項",
+        "督導安全衛生管理事項",
         "協調及建議安全衛生管理事項",
-        "規劃及推動安全衛生管理事 項",
-        "審議及主管安全衛生管理事項 沒有設置就要規劃及推動"
+        "規劃及推動安全衛生管理事項",
+        "審議及主管安全衛生管理事項"
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "依《職業安全衛生管理辦法》第5-1條第1項第3款第2目，未置管理師或管理員者，業務主管負責擬訂、規劃、推動及查核，故選③規劃及推動。置有師員時才以主管、督導為其職責；審議、協調及建議主要屬委員會職責。 官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。2026-11-27逐題目視核對原PDF第18頁原第166題之題幹、四個選項與原始答案標記；依核對日已生效條文或官方指引判定。",
+      "verified_at": "2026-11-27",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生管理辦法規定，對於僅需置職業安全衛生業務主\n管，而不需置職業安全管理師、職業衛生管理師及職業安全衛生管理\n員的事業單位，則該業務主管之職責為何？①督導安全衛生管理事\n項 ②協調及建議安全衛生管理事項 ③規劃及推動安全衛生管理事\n項 ④審議及主管安全衛生管理事項    沒有設置就要規劃及推動"
     },
     {
@@ -54395,17 +54395,17 @@
       "question": "依職業安全衛生管理辦法規定，對於置有職業安全衛生管理員、職 業安全管理師或職業衛生管理師的事業單位，其職業安全衛生業務 主管之主要職責為何？",
       "options": [
         "擬訂安全衛生管理事項",
-        "審議安全衛生 事項",
+        "審議安全衛生事項",
         "督導安全衛生管理事項",
-        "協調安全衛生事項 有設就督導"
+        "協調安全衛生事項"
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "依《職業安全衛生管理辦法》第5-1條第1項第3款第1目，置有管理師或管理員者，業務主管負責主管及督導安全衛生管理事項，故選③。師員負責擬訂、規劃、推動及查核；審議、協調屬委員會相關職責。 官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。2026-11-27逐題目視核對原PDF第18頁原第167題之題幹、四個選項與原始答案標記；依核對日已生效條文或官方指引判定。",
+      "verified_at": "2026-11-27",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "依職業安全衛生管理辦法規定，對於置有職業安全衛生管理員、職\n業安全管理師或職業衛生管理師的事業單位，其職業安全衛生業務\n主管之主要職責為何？①擬訂安全衛生管理事項 ②審議安全衛生\n事項 ③督導安全衛生管理事項 ④協調安全衛生事項  有設就督導"
     },
     {
@@ -54417,17 +54417,17 @@
       "question": "某科技公司之職業安全衛生管理員，最近因家庭因素暫時無法執 行職務，依職業安全衛生管理辦法規定，下列敘述何者有誤？",
       "options": [
         "雇主應指定適當代理人",
-        "無須代理人，但必須報當地主管機關備 查",
-        "雇主應指定之代理人，代理期間不得超過 3 個月",
-        "雇主可 找職業安全管理師暫時代理之 要報主管機關並找人代替"
+        "無須代理人，但必須報當地主管機關備查",
+        "雇主應指定之代理人，代理期間不得超過3個月",
+        "雇主可找職業安全管理師暫時代理之"
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "依《職業安全衛生管理辦法》第8條，人員因故未能執行職務，雇主應即指定適當代理人，代理不得超過三個月，故②「無須代理人」錯誤。職安管理師如屬適當人選得代理，並非任意指定即可。30人以上單位人員離職的報備義務，不能取代暫時缺勤的代理義務；原PDF橘色註記並非條文完整內容。 官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。2026-11-27逐題目視核對原PDF第18頁原第168題之題幹、四個選項與原始答案標記；依核對日已生效條文或官方指引判定。",
+      "verified_at": "2026-11-27",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "某科技公司之職業安全衛生管理員，最近因家庭因素暫時無法執\n行職務，依職業安全衛生管理辦法規定，下列敘述何者有誤？ ①\n雇主應指定適當代理人 ②無須代理人，但必須報當地主管機關備\n查 ③雇主應指定之代理人，代理期間不得超過 3 個月 ④雇主可\n找職業安全管理師暫時代理之  要報主管機關並找人代替"
     },
     {
@@ -54463,15 +54463,15 @@
         "CNS6864",
         "CNS15030",
         "CNS14258",
-        "CNS17025 國家標準之危險物或有害物是15030"
+        "CNS17025"
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "依《職業安全衛生法施行細則》第14條，危險物為符合CNS15030分類而具有物理性危害者，有害物為符合該分類而具有健康危害者，故選②CNS15030，其餘三個標準號非本條指定。 官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060002。2026-11-27逐題目視核對原PDF第18頁原第170題之題幹、四個選項與原始答案標記；依核對日已生效條文或官方指引判定。",
+      "verified_at": "2026-11-27",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060002",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "職業安全衛生法所稱具有危害性化學品，係指符合下列何種國家\n標準之危險物或有害物? ①CNS6864 ②CNS15030  ③CNS14258  ④\nCNS17025   國家標準之危險物或有害物是15030"
     },
     {
@@ -54576,12 +54576,12 @@
         "職業安全衛生管理辦法。"
       ],
       "original_answer": 0,
-      "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "answer": 3,
+      "status": "verified",
+      "explanation": "依現行《職業安全衛生管理辦法》第12-1條第2項及第4項，雇主依規模、性質及風險評估結果訂定管理計畫，並依該條所列事項訂定內容，故現行正解為④。原PDF括號及紅色標答均為①《施行細則》第31條，該條現已刪除，原始答案保留於original_answer，不沿用作現行正解；②③不是本題一般管理計畫內容的直接規定。另參《施行細則》第31條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060002。 官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。2026-11-27逐題目視核對原PDF第18頁原第175題之題幹、四個選項與原始答案標記；依核對日已生效條文或官方指引判定。",
+      "verified_at": "2026-11-27",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "下列何者為職業安全衛生管理計畫訂定內容之依據? ①職業安全衛 \n       生法施行細則第31條 ②勞動檢查法第26條 ③危險性工作場所審查  \n       及檢查辦法④職業安全衛生管理辦法。"
     },
     {
@@ -54709,11 +54709,11 @@
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "依《職業安全衛生教育訓練規則》第1條，依《職業安全衛生法》第32條第3項授權訂定，故選①。其餘工會法、勞動基準法及勞工保險條例不是本規則的授權母法。 官方依據：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060010。2026-11-27逐題目視核對原PDF第19頁原第181題之題幹、四個選項與原始答案標記；依核對日已生效條文或官方指引判定。",
+      "verified_at": "2026-11-27",
+      "source_url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060010",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "職業安全衛生教育訓練規則，係依下列何種法規訂定？①職業安全  \n       衛生法  ②工會法 ③勞動基準法 ④勞工保險條例"
     },
     {
