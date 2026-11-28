@@ -41811,17 +41811,17 @@
       "question": "某公司因管線破裂造成氣體外洩事故，在職業災害調查分析時，雇 主未定安全衛生自動檢查計畫，屬下列何者？",
       "options": [
         "直接原因",
-        "基本 原因",
+        "基本原因",
         "間接原因",
-        "長期原因 未定安全衛生自動檢查計畫是基本原 因"
+        "長期原因"
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為2。未建立自動檢查計畫是管理制度缺失，屬基本原因；氣體接觸或管線設備缺陷分屬其他分析層次。 依據：「六、原因分析（三）基本原因」第1、4點；現行管理辦法第79條；官方連結：https://www.osha.gov.tw/48110/48417/48427/171014/post。2026-11-28逐題目視核對《(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf》PDF第24頁原第55題的題幹、四選項及原始答案標記，原答案2保留；移除混入選項的彩色解析，原始擷取內容及原答案保留。分類採核對日官方公開教材／職災調查指引，非新增法定分類；涉及管理義務另核對當日已生效管理辦法第12條之1、第79條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。",
+      "verified_at": "2026-11-28",
+      "source_url": "https://www.osha.gov.tw/48110/48417/48427/171014/post",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "某公司因管線破裂造成氣體外洩事故，在職業災害調查分析時，雇\n主未定安全衛生自動檢查計畫，屬下列何者？ ①直接原因 ②基本\n原因 ③間接原因 ④長期原因 未定安全衛生自動檢查計畫是基本原\n因"
     },
     {
@@ -42098,16 +42098,16 @@
       "options": [
         "直接原因",
         "基本原因",
-        "間 接原因",
+        "間接原因",
         "長期原因"
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為2。未訂維修保養制度指向制度面的根本缺失，屬基本原因；管線破裂、氣體接觸並非本題詢問的制度層次。 依據：「六、原因分析」基本原因與間接原因之區分；現行管理辦法第12條之1第4項第1、7款；官方連結：https://www.osha.gov.tw/48110/48417/48427/174549/。2026-11-28逐題目視核對《(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf》PDF第24頁原第56題的題幹、四選項及原始答案標記，原答案2保留；移除混入選項的彩色解析，原始擷取內容及原答案保留。分類採核對日官方公開教材／職災調查指引，非新增法定分類；涉及管理義務另核對當日已生效管理辦法第12條之1、第79條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。",
+      "verified_at": "2026-11-28",
+      "source_url": "https://www.osha.gov.tw/48110/48417/48427/174549/",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "某公司在職業災害調查分析發現，未訂定維修保養制度導致管線破\n裂造成氣體外洩事故，屬下列何者？ ①直接原因 ②基本原因 ③間\n接原因 ④長期原因"
     },
     {
@@ -42363,15 +42363,15 @@
         "長期原因",
         "直接原因",
         "間接原因",
-        "基本原因 未施以預防災害及 安全衛生教育及訓練是基本原因"
+        "基本原因"
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為4。未實施必要教育訓練為雇主管理缺失，屬基本原因；墜落致死才是直接原因的事故傷害層次。 依據：「六、災害原因分析」第3項第2點；官方連結：https://www.osha.gov.tw/48110/48417/48427/57099/?cprint=pt。2026-11-28逐題目視核對《(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf》PDF第24頁原第57題的題幹、四選項及原始答案標記，原答案4保留；移除混入選項的彩色解析，原始擷取內容及原答案保留。分類採核對日官方公開教材／職災調查指引，非新增法定分類；涉及管理義務另核對當日已生效管理辦法第12條之1、第79條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。",
+      "verified_at": "2026-11-28",
+      "source_url": "https://www.osha.gov.tw/48110/48417/48427/57099/?cprint=pt",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "勞工進入儲槽後因墜落死亡，在職業災害調查分析時，未施以從事\n工作及預防災害所必要之安全衛生教育及訓練屬下列何種原因? ①\n長期原因 ②直接原因 ③間接原因 ④基本原因 未施以預防災害及\n安全衛生教育及訓練是基本原因"
     },
     {
@@ -42627,15 +42627,15 @@
         "基本原因",
         "直接原因",
         "間接原因",
-        "天災 管理不良所致是基本 原因"
+        "天災"
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為1。安全衛生管理不良屬管理系統缺失，歸基本原因；直接原因是致傷能量或有害物接觸，間接原因是現場不安全狀況或行為。 依據：「六、原因分析（三）」第4點；官方連結：https://www.osha.gov.tw/48110/48417/48427/171014/post。2026-11-28逐題目視核對《(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf》PDF第24頁原第58題的題幹、四選項及原始答案標記，原答案1保留；移除混入選項的彩色解析，原始擷取內容及原答案保留。分類採核對日官方公開教材／職災調查指引，非新增法定分類；涉及管理義務另核對當日已生效管理辦法第12條之1、第79條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。",
+      "verified_at": "2026-11-28",
+      "source_url": "https://www.osha.gov.tw/48110/48417/48427/171014/post",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "職業災害發生，係因安全衛生管理不良所致，屬下列何種原因？ \n①基本原因 ②直接原因 ③間接原因 ④天災 管理不良所致是基本\n原因"
     },
     {
@@ -42891,15 +42891,15 @@
         "未依標準作業程序操作",
         "未提供安全設備",
         "未提供安全護具",
-        "安全衛生管理不善 安全衛生管理不善是基本原因"
+        "安全衛生管理不善"
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為4。本題問非間接原因。管理不善是基本原因；違反作業程序屬不安全行為，現場未提供設備或護具屬不安全狀況。 依據：「六、災害原因分析」第2、3項；官方連結：https://www.osha.gov.tw/48110/48417/48427/57099/?cprint=pt。2026-11-28逐題目視核對《(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf》PDF第24頁原第59題的題幹、四選項及原始答案標記，原答案4保留；移除混入選項的彩色解析，原始擷取內容及原答案保留。分類採核對日官方公開教材／職災調查指引，非新增法定分類；涉及管理義務另核對當日已生效管理辦法第12條之1、第79條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。",
+      "verified_at": "2026-11-28",
+      "source_url": "https://www.osha.gov.tw/48110/48417/48427/57099/?cprint=pt",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "下列何者非意外災害發生的間接原因? ①未依標準作業程序操作  \n      ②未提供安全設備 ③未提供安全護具 ④安全衛生管理不善  \n           安全衛生管理不善是基本原因"
     },
     {
@@ -43152,18 +43152,18 @@
       "category": "待核對原始章節",
       "question": "下列何者非屬職業災害原因分析之基本原因？",
       "options": [
-        "未定期檢討安全 衛生政策",
+        "未定期檢討安全衛生政策",
         "因缺氧致死",
         "未實施工作安全分析",
-        "未實施預防性 保養 因缺氧致死是不安全環境所致，屬間接原因"
+        "未實施預防性保養"
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為2。因缺氧致死是事故危害／傷害層次，不是管理制度的基本原因；政策檢討、工作安全分析及預防保養制度才屬管理面。本題只問非基本原因，無須將缺氧致死硬歸唯一其他層次。原PDF彩色註解將缺氧致死一概稱間接原因，應與吸入缺氧空氣致死的直接原因區分。 依據：「從事缺氧作業缺氧致死職業災害」之六、原因分析（一）直接原因及（二）間接原因；官方連結：https://www.osha.gov.tw/media/eceahgab/105年非營造業職災總彙整.pdf。2026-11-28逐題目視核對《(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf》PDF第24頁原第60題的題幹、四選項及原始答案標記，原答案2保留；移除混入選項的彩色解析，原始擷取內容及原答案保留。分類採核對日官方公開教材／職災調查指引，非新增法定分類；涉及管理義務另核對當日已生效管理辦法第12條之1、第79條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。",
+      "verified_at": "2026-11-28",
+      "source_url": "https://www.osha.gov.tw/media/eceahgab/105年非營造業職災總彙整.pdf",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "下列何者非屬職業災害原因分析之基本原因？ ①未定期檢討安全 \n      衛生政策 ②因缺氧致死 ③未實施工作安全分析 ④未實施預防性 \n      保養  因缺氧致死是不安全環境所致，屬間接原因"
     },
     {
@@ -43417,17 +43417,17 @@
       "question": "下列何者非意外災害發生的基本原因?",
       "options": [
         "承攬商管理不良",
-        "安全 衛生管理不善",
+        "安全衛生管理不善",
         "未提供安全設備",
-        "危害認知不足 未提供安全設 備屬間接原因"
+        "危害認知不足"
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為3。未提供安全設備是現場不安全狀況，屬間接原因；承攬管理、整體安衛管理與危害認知等管理或個人因素屬基本原因層次。 依據：「六、災害原因分析」第2項未提供安全帽與第3項管理缺失之區分；官方連結：https://www.osha.gov.tw/48110/48417/48427/57099/?cprint=pt。2026-11-28逐題目視核對《(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf》PDF第24頁原第61題的題幹、四選項及原始答案標記，原答案3保留；移除混入選項的彩色解析，原始擷取內容及原答案保留。分類採核對日官方公開教材／職災調查指引，非新增法定分類；涉及管理義務另核對當日已生效管理辦法第12條之1、第79條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。",
+      "verified_at": "2026-11-28",
+      "source_url": "https://www.osha.gov.tw/48110/48417/48427/57099/?cprint=pt",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "下列何者非意外災害發生的基本原因? ①承攬商管理不良 ②安全 \n      衛生管理不善 ③未提供安全設備 ④危害認知不足 未提供安全設\n備屬間接原因"
     },
     {
@@ -43945,17 +43945,17 @@
       "question": "某公司因管線破裂造成毒性氣體外洩事故，造成人員中毒，在職業 災害調查分析時，暴露毒性氣體屬下列何者？",
       "options": [
         "直接原因",
-        "基本 原因",
+        "基本原因",
         "長期原因",
-        "間接原因 暴露毒性氣體是不安全環境屬間接 原因"
+        "間接原因"
       ],
       "original_answer": 0,
       "answer": 0,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為1。本題已寫明人員暴露毒性氣體而中毒，危害物與人體接觸屬直接原因。管線腐蝕等不安全設備是間接原因，未建立管理制度是基本原因。原PDF黑字答案①與紅色①一致，但橘色註解寫間接原因，該註解不採用。 依據：「職業災害發生的原因」歸納段：直接原因為能量、危險物或有害物；官方連結：https://portal.wda.gov.tw/pdf-resource/技術工及有關工作人員/二氧化碳半自動電銲/安全衛生/瞭解職業災害PFG-PFW0502.pdf。2026-11-28逐題目視核對《(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf》PDF第25頁原第63題的題幹、四選項及原始答案標記，原答案1保留；移除混入選項的彩色解析，原始擷取內容及原答案保留。分類採核對日官方公開教材／職災調查指引，非新增法定分類；涉及管理義務另核對當日已生效管理辦法第12條之1、第79條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。",
+      "verified_at": "2026-11-28",
+      "source_url": "https://portal.wda.gov.tw/pdf-resource/技術工及有關工作人員/二氧化碳半自動電銲/安全衛生/瞭解職業災害PFG-PFW0502.pdf",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "某公司因管線破裂造成毒性氣體外洩事故，造成人員中毒，在職業\n災害調查分析時，暴露毒性氣體屬下列何者？ ①直接原因 ②基本\n原因 ③長期原因 ④間接原因  暴露毒性氣體是不安全環境屬間接\n原因"
     },
     {
@@ -44211,15 +44211,15 @@
         "直接原因",
         "長期原因",
         "基本原因",
-        "間接 原因 管線腐蝕是不安全設備屬間接原因"
+        "間接原因"
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為4。管線腐蝕是設備的不安全狀況，屬間接原因；有害物暴露才是直接原因，保養制度欠缺才是基本原因。 依據：「六、原因分析」間接原因：焊接柄絕緣披覆脫落等設備缺陷；官方連結：https://www.osha.gov.tw/48110/48417/48427/174549/。2026-11-28逐題目視核對《(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf》PDF第25頁原第64題的題幹、四選項及原始答案標記，原答案4保留；移除混入選項的彩色解析，原始擷取內容及原答案保留。分類採核對日官方公開教材／職災調查指引，非新增法定分類；涉及管理義務另核對當日已生效管理辦法第12條之1、第79條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。",
+      "verified_at": "2026-11-28",
+      "source_url": "https://www.osha.gov.tw/48110/48417/48427/174549/",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "某公司因管線破裂造成氣體外洩事故，在職業災害調查分析時，管\n線腐蝕屬下列何者？ ①直接原因 ②長期原因 ③基本原因 ④間接\n原因   管線腐蝕是不安全設備屬間接原因"
     },
     {
@@ -44457,11 +44457,11 @@
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為2。不安全動作屬間接原因，是導向危害接觸的現場行為層次；與管理制度缺失的基本原因不同。 依據：「職業災害發生的原因」歸納段：間接原因為不安全狀況及動作；官方連結：https://portal.wda.gov.tw/pdf-resource/技術工及有關工作人員/二氧化碳半自動電銲/安全衛生/瞭解職業災害PFG-PFW0502.pdf。2026-11-28逐題目視核對《(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf》PDF第25頁原第65題的題幹、四選項及原始答案標記，原答案2保留；移除混入選項的彩色解析，原始擷取內容及原答案保留。分類採核對日官方公開教材／職災調查指引，非新增法定分類；涉及管理義務另核對當日已生效管理辦法第12條之1、第79條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。",
+      "verified_at": "2026-11-28",
+      "source_url": "https://portal.wda.gov.tw/pdf-resource/技術工及有關工作人員/二氧化碳半自動電銲/安全衛生/瞭解職業災害PFG-PFW0502.pdf",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "不安全動作為造成災害的何種原因？ ①直接原因 ②間接原因 ③\n基本原因 ④長期原因"
     },
     {
@@ -44699,11 +44699,11 @@
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為2。不安全環境屬間接原因，是現場狀況層次；須與能量或危害物接觸的直接原因、管理缺失的基本原因區分。 依據：「職業災害發生的原因」歸納段：間接原因為不安全狀況及動作；官方連結：https://portal.wda.gov.tw/pdf-resource/技術工及有關工作人員/二氧化碳半自動電銲/安全衛生/瞭解職業災害PFG-PFW0502.pdf。2026-11-28逐題目視核對《(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf》PDF第25頁原第66題的題幹、四選項及原始答案標記，原答案2保留；移除混入選項的彩色解析，原始擷取內容及原答案保留。分類採核對日官方公開教材／職災調查指引，非新增法定分類；涉及管理義務另核對當日已生效管理辦法第12條之1、第79條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。",
+      "verified_at": "2026-11-28",
+      "source_url": "https://portal.wda.gov.tw/pdf-resource/技術工及有關工作人員/二氧化碳半自動電銲/安全衛生/瞭解職業災害PFG-PFW0502.pdf",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "不安全環境為造成災害的何種原因？ ①直接原因 ②間接原因 ③\n基本原因 ④長期原因"
     },
     {
@@ -44937,15 +44937,15 @@
         "基本原因",
         "直接原因",
         "間接原因",
-        "根本原因 未先行通風換氣是不安全環境屬間接原因"
+        "根本原因"
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為3。作業前未測定氧氣濃度是缺氧作業現場未採必要確認措施，官方案例列為不安全狀況，即間接原因。原PDF橘字誤將此題解作未通風，解析改依題幹的濃度測定。 依據：「從事缺氧作業缺氧致死職業災害」六、原因分析（二）第1、3點；官方連結：https://www.osha.gov.tw/media/eceahgab/105年非營造業職災總彙整.pdf。2026-11-28逐題目視核對《(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf》PDF第25頁原第67題的題幹、四選項及原始答案標記，原答案3保留；移除混入選項的彩色解析，原始擷取內容及原答案保留。分類採核對日官方公開教材／職災調查指引，非新增法定分類；涉及管理義務另核對當日已生效管理辦法第12條之1、第79條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。",
+      "verified_at": "2026-11-28",
+      "source_url": "https://www.osha.gov.tw/media/eceahgab/105年非營造業職災總彙整.pdf",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "勞工進入10 公尺深人孔後因缺氧而死亡，在職業災害調查分析時，\n未先測定氧氣濃度，屬下列何種原因? ①基本原因 ②直接原因 ③\n間接原因 ④根本原因 未先行通風換氣是不安全環境屬間接原因"
     },
     {
@@ -45179,15 +45179,15 @@
         "基本原因",
         "直接原因",
         "間接原因",
-        "長期原因 未先行通風換氣是不安全環境屬間接原因"
+        "長期原因"
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為3。未先行通風換氣是缺氧／有害氣體作業現場的不安全狀況，屬間接原因；吸入危害氣體造成中毒才是直接危害接觸。 依據：「從事缺氧作業缺氧致死職業災害」六、原因分析（二）第2點；官方連結：https://www.osha.gov.tw/media/eceahgab/105年非營造業職災總彙整.pdf。2026-11-28逐題目視核對《(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf》PDF第25頁原第68題的題幹、四選項及原始答案標記，原答案3保留；移除混入選項的彩色解析，原始擷取內容及原答案保留。分類採核對日官方公開教材／職災調查指引，非新增法定分類；涉及管理義務另核對當日已生效管理辦法第12條之1、第79條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。",
+      "verified_at": "2026-11-28",
+      "source_url": "https://www.osha.gov.tw/media/eceahgab/105年非營造業職災總彙整.pdf",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "勞工進入9公尺深人孔後中毒死亡，在職業災害調查分析時，未先行\n通風換氣屬下列何種原因? ①基本原因 ②直接原因 ③間接原因 \n④長期原因     未先行通風換氣是不安全環境屬間接原因"
     },
     {
@@ -45425,8 +45425,8 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
+      "status": "needs_review",
+      "explanation": "2026-11-28目視核對原PDF第25頁原第69題，黑字及紅色答案均為③間接原因。題幹僅以「缺氧」分類，可能指缺氧環境（間接原因），亦可能指吸入缺氧空氣致死的直接危害接觸。職安署《105年度全國重大職業災害實例摘要彙編（營造業以外）》「從事缺氧作業缺氧致死職業災害」六、原因分析，明分吸入缺氧空氣的直接原因與未通風／未測定濃度的間接原因。題幹未限定所指層次，維持疑義，未標已驗證。官方依據：https://www.osha.gov.tw/media/eceahgab/105年非營造業職災總彙整.pdf。",
       "verified_at": null,
       "source_url": null,
       "extraction_status": "parsed_unreviewed",
@@ -45662,16 +45662,16 @@
       "options": [
         "基本原因",
         "長期原因",
-        "間 接原因",
-        "直接原因 未用呼吸防護具是不安全行為屬間接原因"
+        "間接原因",
+        "直接原因"
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為3。未使用適當呼吸防護具是現場防護未落實的不安全行為／狀況，屬間接原因；不能和未建教育訓練或管理制度混為一談。 依據：「從事缺氧作業缺氧致死職業災害」六、原因分析（二）第5點；官方連結：https://www.osha.gov.tw/media/eceahgab/105年非營造業職災總彙整.pdf。2026-11-28逐題目視核對《(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf》PDF第25頁原第70題的題幹、四選項及原始答案標記，原答案3保留；移除混入選項的彩色解析，原始擷取內容及原答案保留。分類採核對日官方公開教材／職災調查指引，非新增法定分類；涉及管理義務另核對當日已生效管理辦法第12條之1、第79條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。",
+      "verified_at": "2026-11-28",
+      "source_url": "https://www.osha.gov.tw/media/eceahgab/105年非營造業職災總彙整.pdf",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "勞工進入10公尺深入孔後中毒死亡，在職業災害調查分析時，未使 \n     用適當呼吸防護具屬下列何種原因？ ①基本原因 ②長期原因 ③間\n接原因 ④直接原因  未用呼吸防護具是不安全行為屬間接原因"
     },
     {
@@ -45902,18 +45902,18 @@
       "category": "待核對原始章節",
       "question": "下列何者屬職業災害原因分析之間接原因？",
       "options": [
-        "未訂定書面之安全衛 生工作守則",
+        "未訂定書面之安全衛生工作守則",
         "未定期檢討安全衛生計畫",
         "使用有缺陷之機具",
-        "無 安全衛生政策 使用有缺陷之機具是不安全設備屬間接原因"
+        "無安全衛生政策"
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為3。使用有缺陷機具是設備的不安全狀況，屬間接原因；工作守則、計畫檢討與政策欠缺屬制度面的基本原因。 依據：「六、原因分析」間接原因與基本原因段；官方連結：https://www.osha.gov.tw/48110/48417/48427/174549/。2026-11-28逐題目視核對《(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf》PDF第25頁原第71題的題幹、四選項及原始答案標記，原答案3保留；移除混入選項的彩色解析，原始擷取內容及原答案保留。分類採核對日官方公開教材／職災調查指引，非新增法定分類；涉及管理義務另核對當日已生效管理辦法第12條之1、第79條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。",
+      "verified_at": "2026-11-28",
+      "source_url": "https://www.osha.gov.tw/48110/48417/48427/174549/",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "下列何者屬職業災害原因分析之間接原因？ ①未訂定書面之安全衛\n生工作守則 ②未定期檢討安全衛生計畫 ③使用有缺陷之機具 ④無\n安全衛生政策  使用有缺陷之機具是不安全設備屬間接原因"
     },
     {
@@ -46147,15 +46147,15 @@
         "長期原因",
         "間接原因",
         "直接原因",
-        "基本原因 能量直接引災是直接原因"
+        "基本原因"
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為3。能量或危害物直接作用人體且不能安全吸收，是直接原因；不安全狀況或行為屬間接原因，管理缺失屬基本原因。 依據：「職業災害發生的原因」歸納段：直接原因為能量、危險物或有害物；官方連結：https://portal.wda.gov.tw/pdf-resource/技術工及有關工作人員/二氧化碳半自動電銲/安全衛生/瞭解職業災害PFG-PFW0502.pdf。2026-11-28逐題目視核對《(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf》PDF第25頁原第72題的題幹、四選項及原始答案標記，原答案3保留；移除混入選項的彩色解析，原始擷取內容及原答案保留。分類採核對日官方公開教材／職災調查指引，非新增法定分類；涉及管理義務另核對當日已生效管理辦法第12條之1、第79條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。",
+      "verified_at": "2026-11-28",
+      "source_url": "https://portal.wda.gov.tw/pdf-resource/技術工及有關工作人員/二氧化碳半自動電銲/安全衛生/瞭解職業災害PFG-PFW0502.pdf",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "當人或物體受到能量或危害物的襲擊而不能安全地予以吸收時而造\n成災害，此能量或危害物即為引起災害的何種原因? ①長期原因 ②\n間接原因 ③直接原因 ④基本原因  能量直接引災是直接原因"
     },
     {
@@ -46393,11 +46393,11 @@
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為3。選項中的能量對應直接原因；不安全狀況及行為對應間接原因，管理缺陷對應基本原因。 依據：「職業災害發生的原因」歸納段；官方連結：https://portal.wda.gov.tw/pdf-resource/技術工及有關工作人員/二氧化碳半自動電銲/安全衛生/瞭解職業災害PFG-PFW0502.pdf。2026-11-28逐題目視核對《(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf》PDF第25頁原第73題的題幹、四選項及原始答案標記，原答案3保留；移除混入選項的彩色解析，原始擷取內容及原答案保留。分類採核對日官方公開教材／職災調查指引，非新增法定分類；涉及管理義務另核對當日已生效管理辦法第12條之1、第79條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。",
+      "verified_at": "2026-11-28",
+      "source_url": "https://portal.wda.gov.tw/pdf-resource/技術工及有關工作人員/二氧化碳半自動電銲/安全衛生/瞭解職業災害PFG-PFW0502.pdf",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "職業災害發生之原因可分為直接原因、間接原因及基本原因，直接\n原因是因係屬下列何者？ ①不安全狀況 ②不安全行為 ③能量 ④\n管理上的缺陷"
     },
     {
@@ -46868,20 +46868,20 @@
       "source_page": 26,
       "original_number": "75",
       "category": "待核對原始章節",
-      "question": "職業災害發生的間接原因可分為不安全環境及不安全行為，下列合 作屬於不安全行為？",
+      "question": "職業災害發生的間接原因可分為不安全環境及不安全行為，下列何者屬於不安全行為？",
       "options": [
         "工作場所物料雜亂",
-        "未實施安全衛生自動 檢查",
+        "未實施安全衛生自動檢查",
         "於運轉中機械器具進料或取料",
         "採光照明不良"
       ],
       "original_answer": 2,
       "answer": 2,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為3。運轉中進料或取料是人員作業行為，對應不安全行為；物料雜亂與照明不良是環境狀況，未實施自動檢查是管理缺失。此題依所列不安全行為分類，不表示所有具安全設計的正常進料一律違法。 依據：「常見的不安全的動作」第16項：在移動或運轉中的機械上工作；官方連結：https://portal.wda.gov.tw/pdf-resource/技術工及有關工作人員/二氧化碳半自動電銲/安全衛生/瞭解職業災害PFG-PFW0502.pdf。2026-11-28逐題目視核對《(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf》PDF第26頁原第75題的題幹、四選項及原始答案標記，原答案3保留；移除混入選項的彩色解析，原始擷取內容及原答案保留。分類採核對日官方公開教材／職災調查指引，非新增法定分類；涉及管理義務另核對當日已生效管理辦法第12條之1、第79條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。",
+      "verified_at": "2026-11-28",
+      "source_url": "https://portal.wda.gov.tw/pdf-resource/技術工及有關工作人員/二氧化碳半自動電銲/安全衛生/瞭解職業災害PFG-PFW0502.pdf",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "職業災害發生的間接原因可分為不安全環境及不安全行為，下列合\n作屬於不安全行為？ ①工作場所物料雜亂 ②未實施安全衛生自動\n檢查 ③於運轉中機械器具進料或取料 ④採光照明不良"
     },
     {
@@ -47112,18 +47112,18 @@
       "category": "待核對原始章節",
       "question": "職業災害原因分析時，勞工未使用雇主提供防護歸類為何?",
       "options": [
-        "不安 全環境",
+        "不安全環境",
         "不安全狀態",
         "不安全設施",
         "不安全動作行為。"
       ],
       "original_answer": 3,
       "answer": 3,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為4。勞工未使用雇主提供的防護具，是不安全動作／行為；設備或場所本身的防護不足才屬不安全狀況。 依據：「常見的不安全的動作」第5項：未使用個人防護裝備；官方連結：https://portal.wda.gov.tw/pdf-resource/技術工及有關工作人員/二氧化碳半自動電銲/安全衛生/瞭解職業災害PFG-PFW0502.pdf。2026-11-28逐題目視核對《(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf》PDF第26頁原第76題的題幹、四選項及原始答案標記，原答案4保留；移除混入選項的彩色解析，原始擷取內容及原答案保留。分類採核對日官方公開教材／職災調查指引，非新增法定分類；涉及管理義務另核對當日已生效管理辦法第12條之1、第79條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。",
+      "verified_at": "2026-11-28",
+      "source_url": "https://portal.wda.gov.tw/pdf-resource/技術工及有關工作人員/二氧化碳半自動電銲/安全衛生/瞭解職業災害PFG-PFW0502.pdf",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "職業災害原因分析時，勞工未使用雇主提供防護歸類為何?①不安 \n      全環境 ②不安全狀態 ③不安全設施 ④不安全動作行為。"
     },
     {
@@ -47377,17 +47377,17 @@
       "question": "職業災害原因分析時，將管理不良歸屬下列何者?",
       "options": [
         "直接原因",
-        "基 本原因",
+        "基本原因",
         "不安全狀況",
         "間接原因。"
       ],
       "original_answer": 1,
       "answer": 1,
-      "status": "unverified",
-      "explanation": "原始 PDF 答案，尚未核對現行法規及官方資料。",
-      "verified_at": null,
-      "source_url": null,
-      "extraction_status": "parsed_unreviewed",
+      "status": "verified",
+      "explanation": "正確答案為2。管理不良為潛在管理系統缺失，屬基本原因；不安全狀況或行為是間接原因，致傷能量或有害物接觸是直接原因。 依據：「六、原因分析（三）基本原因」第4點；官方連結：https://www.osha.gov.tw/48110/48417/48427/171014/post。2026-11-28逐題目視核對《(僅供參考)一般業（重要資料）重新排序版112.07.22(1465題).pdf》PDF第26頁原第77題的題幹、四選項及原始答案標記，原答案2保留；移除混入選項的彩色解析，原始擷取內容及原答案保留。分類採核對日官方公開教材／職災調查指引，非新增法定分類；涉及管理義務另核對當日已生效管理辦法第12條之1、第79條：https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060027。",
+      "verified_at": "2026-11-28",
+      "source_url": "https://www.osha.gov.tw/48110/48417/48427/171014/post",
+      "extraction_status": "source_text_and_law_verified",
       "raw_extracted_text": "職業災害原因分析時，將管理不良歸屬下列何者?①直接原因 ②基\n本原因 ③不安全狀況 ④間接原因。"
     },
     {
